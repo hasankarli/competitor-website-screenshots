@@ -1,0 +1,179 @@
+{
+  "siteId": "searchad.ai",
+  "name": "SearchAd",
+  "url": "https://searchad.ai/",
+  "config": {
+    "category": "AI / Ads",
+    "notes": "Search ads AI"
+  },
+  "canonicalUrl": "https://searchad.ai/",
+  "source": "html_fetch",
+  "scrapedAtUnix": 1779831287,
+  "meta": {
+    "title": "SearchAd AI · Apple Search Ads, by chat.",
+    "description": "Open Apple Search Ads campaigns in every country by chatting. The AI is read-only by default, and nothing deploys, pauses, or spends a cent without your explicit approval.",
+    "ogTitle": "SearchAd AI · Apple Search Ads, by chat.",
+    "ogDescription": "Plan, approve, and launch Apple Search Ads in every country by chatting. Nothing spends a cent without your OK.",
+    "ogImage": "https://searchad.ai/img/og-image.png",
+    "keywords": "Apple Search Ads, ASA, AI ad management, Apple Search Ads automation, app marketing, ROAS dashboard, iOS user acquisition",
+    "language": "en"
+  },
+  "content": {
+    "headings": [
+      {
+        "level": 1,
+        "text": "Launch Apple Search Ads in 90 countries by chatting."
+      },
+      {
+        "level": 2,
+        "text": "The AI cannot spend a cent without you."
+      },
+      {
+        "level": 2,
+        "text": "Two lanes: read & approve."
+      },
+      {
+        "level": 2,
+        "text": "Four steps from paste to paused."
+      },
+      {
+        "level": 2,
+        "text": "A campaign manager that listens."
+      },
+      {
+        "level": 2,
+        "text": "See ROAS by campaign. No code."
+      },
+      {
+        "level": 2,
+        "text": "No vague promises. Specifics."
+      },
+      {
+        "level": 2,
+        "text": "Plans that scale with your portfolio."
+      },
+      {
+        "level": 2,
+        "text": "If you weren't paranoid, we'd be worried."
+      },
+      {
+        "level": 2,
+        "text": "Launch in 90 countries. Today. By chatting."
+      },
+      {
+        "level": 3,
+        "text": "Read-only by default"
+      },
+      {
+        "level": 3,
+        "text": "Approval gate, no exceptions"
+      },
+      {
+        "level": 3,
+        "text": "Your API key, in custody"
+      },
+      {
+        "level": 3,
+        "text": "Paste credentials"
+      },
+      {
+        "level": 3,
+        "text": "Describe your app"
+      },
+      {
+        "level": 3,
+        "text": "Review the plan"
+      },
+      {
+        "level": 3,
+        "text": "Tap approve"
+      },
+      {
+        "level": 3,
+        "text": "Zero code in your app"
+      },
+      {
+        "level": 3,
+        "text": "Subscription dollars, not installs"
+      },
+      {
+        "level": 3,
+        "text": "\"Pause everything under 1.5× ROAS.\""
+      }
+    ],
+    "featureBullets": [
+      "• 3,000 AI credits per month",
+      "• Up to 2 apps connected",
+      "• 10k Apple installs / month soft cap",
+      "• Per-country plans, EXACT match, Search Match off",
+      "• ROAS dashboard via RevenueCat",
+      "• 20,000 AI credits per month",
+      "• Up to 5 apps connected",
+      "• 50k Apple installs / month soft cap",
+      "• Everything in Indie",
+      "• One-time credit top-up packs available",
+      "• 100,000 AI credits per month",
+      "• Unlimited apps connected",
+      "• Unlimited Apple installs / month",
+      "• Everything in Pro",
+      "• Priority support at hi@searchad.ai",
+      "Features",
+      "Integrations",
+      "How it works",
+      "Trust model",
+      "Security",
+      "hi@searchad.ai",
+      "Get started"
+    ],
+    "ctaTexts": [
+      "Start free trial",
+      "Subscribe to Pro",
+      "Subscribe to Agency",
+      "Get started"
+    ],
+    "pricingHints": [
+      "$20",
+      "$220",
+      "$0",
+      "$19.80",
+      "$19.50",
+      "$19.10",
+      "$157.00",
+      "$400",
+      "$0.65",
+      "$5",
+      "$30",
+      "$40"
+    ]
+  },
+  "signals": {
+    "monetization": [
+      "subscription",
+      "one_time",
+      "trial"
+    ],
+    "techStack": [],
+    "hasPricingPage": true
+  },
+  "links": {
+    "pricing": "https://searchad.ai/login?plan=pro&mode=signup",
+    "featurePages": [
+      "https://searchad.ai/features"
+    ],
+    "internalSample": [
+      "https://searchad.ai/",
+      "https://searchad.ai/features",
+      "https://searchad.ai/integrations",
+      "https://searchad.ai/login",
+      "https://searchad.ai/app?demo=1",
+      "https://searchad.ai/login?plan=indie&mode=signup",
+      "https://searchad.ai/login?plan=pro&mode=signup",
+      "https://searchad.ai/login?plan=agency&mode=signup"
+    ]
+  },
+  "textSample": "SearchAd AI · Apple Search Ads, by chat. SearchAd AI Features Integrations How it works ROAS Security Pricing Sign in Start free trial Cursor for Apple Search Ads For app developers & growth teams Launch Apple Search Ads in 90 countries by chatting. Describe your app. AI drafts country-by-country campaigns with localized keywords. You approve — we deploy. Free 7-day trial · Cancel anytime Start free trial Try the demo 7 days free on the Indie plan · Bring your own Apple Search Ads account · Nothing runs without your approval searchad.ai / chat connected Launch Pomelo Notes in the 11 premium tier countries. Here's a draft. 11 campaigns, paused until you approve. Pomelo Notes · 11 campaigns awaiting approval US 🇺🇸 28 keywords $20/d GB 🇬🇧 26 keywords $20/d DE 🇩🇪 24 keywords $20/d + 8 more CA · AU · IT · FR · AE · SA · KW · BH $20/d $220 / day · paused on deploy Decline Approve Live · 24h Spend $0 Installs 0 Revenue $0 ROAS 0x Country Spend Installs ROAS US 🇺🇸 $19.80 342 2.69x GB 🇬🇧 $19.50 221 2.78x DE 🇩🇪 $19.10 198 2.94x + 8 more $157.00 486 2.91x Try it — approve or decline above Reset The trust model The AI cannot spend a cent without you. We designed Search­Ad AI around one rule: the model proposes, you dispose. Every action that touches your Apple Search Ads account is split into a read step , a drafted plan , and an approval gate . There is no path the AI can take to skip the gate. // the approval gate is not optional Read-only by default scope · read When the AI reaches into your Apple Search Ads account, it can only read : list apps, fetch eligible countries, look at existing campaigns. It has no power to spend, pause, or change anything. Plans live as drafts in your private workspace — never in Apple — until you say so. read apps read countries read campaigns draft plan // pending approval Approval gate, no exceptions scope · write The only way for anything to reach Apple — create a campaign, change a bid, resume spend — is the green Approve plan button in your",
+  "assets": {
+    "ogImagePath": "screenshots/og-image.jpg",
+    "homepagePath": "screenshots/homepage.png"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "siteId": "designcode.io",
+  "name": "DesignCode",
+  "url": "https://designcode.io/",
+  "config": {
+    "category": "Education / Design",
+    "notes": "Design + code courses"
+  },
+  "canonicalUrl": "https://designcode.io/",
+  "source": "html_fetch",
+  "scrapedAtUnix": 1779831278,
+  "meta": {
+    "title": "Design+Code - Learn to design and code React and Swift apps",
+    "description": "Learn design and code by building real apps with React and Swift. Complete courses about UI design, web and iOS development using Figma, CSS, React Hooks and SwiftUI.",
+    "ogTitle": "Design+Code - Learn to design and code React and Swift apps",
+    "ogDescription": "Learn design and code by building real apps with React and Swift. Complete courses about UI design, web and iOS development using Figma, CSS, React Hooks and SwiftUI.",
+    "ogImage": "https://images.ctfassets.net/ooa29xqb8tix/24XYZktClnZjDjt2YNlGmX/d857becac30265e19ad8847365c68fbf/Metadata.png",
+    "keywords": "react hooks courses, swiftui tutorials, web development, ios development, figma design, sketch app, Xcode, VSCode, ui design, CSS code",
+    "language": "en"
+  },
+  "content": {
+    "headings": [
+      {
+        "level": 1,
+        "text": "Design and code apps"
+      }
+    ],
+    "featureBullets": [],
+    "ctaTexts": [],
+    "pricingHints": [
+      "$19"
+    ]
+  },
+  "signals": {
+    "monetization": [
+      "subscription"
+    ],
+    "techStack": [
+      "react",
+      "angular",
+      "netlify",
+      "stripe"
+    ],
+    "hasPricingPage": true
+  },
+  "links": {
+    "pricing": "https://designcode.io/pricing",
+    "featurePages": [],
+    "internalSample": [
+      "https://designcode.io/",
+      "https://designcode.io/courses",
+      "https://designcode.io/tutorials",
+      "https://designcode.io/livestreams",
+      "https://designcode.io/pricing",
+      "https://designcode.io/downloads",
+      "https://designcode.io/updates",
+      "https://designcode.io/search",
+      "https://designcode.io/licenses",
+      "https://designcode.io/react-hooks",
+      "https://designcode.io/terms",
+      "https://designcode.io/privacy"
+    ]
+  },
+  "textSample": "Design+Code - Learn to design and code React and Swift apps Courses Tutorials Livestreams Pricing Downloads Updates Lite mode on Quick links No results found Suggested search Courses Tutorials Livestreams Courses Tutorials Livestreams Pricing Updates Downloads Search Sign In Design and code apps Don’t skip design. Learn design and code, by building real apps with React and Swift. Complete courses about the best tools. Get Pro Access $19 per month Purchase includes access to 50+ courses, 320+ premium tutorials, 300+ hours of videos, source files and certificates. Home Courses Tutorials Pricing Updates Downloads Search Account Licenses UI Kit Site made with React, Gatsby, Netlify and Contentful. Learn how . Design+Code © 2025 Terms of Service - Privacy Policy Need help? Contact Us",
+  "assets": {
+    "ogImagePath": "screenshots/og-image.jpg",
+    "homepagePath": "screenshots/homepage.png"
+  }
+}

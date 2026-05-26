@@ -1,0 +1,45 @@
+{
+  "siteId": "aura.build",
+  "name": "Aura",
+  "url": "https://www.aura.build/",
+  "config": {
+    "category": "AI / Design",
+    "notes": "AI design builder"
+  },
+  "canonicalUrl": "https://www.aura.build/",
+  "source": "html_fetch",
+  "scrapedAtUnix": 1779831279,
+  "meta": {
+    "title": "Aura – AI Website Builder",
+    "description": "AI landing page builder that creates stunning designs in seconds. No design skills needed. Export to HTML & Figma. Trusted by 177,000+ users worldwide.",
+    "ogTitle": "Aura – AI Website Builder",
+    "ogDescription": "AI landing page builder that creates stunning designs in seconds. No design skills needed. Export to HTML & Figma. Trusted by 177,000+ users worldwide.",
+    "ogImage": "https://hoirqrkdgbmvpwutwuwj.supabase.co/storage/v1/object/public/learn-assets/seo-previews/2026-05-22/share-preview.jpg",
+    "keywords": "",
+    "language": "en"
+  },
+  "content": {
+    "headings": [],
+    "featureBullets": [],
+    "ctaTexts": [],
+    "pricingHints": []
+  },
+  "signals": {
+    "monetization": [],
+    "techStack": [
+      "vercel",
+      "netlify"
+    ],
+    "hasPricingPage": false
+  },
+  "links": {
+    "pricing": "",
+    "featurePages": [],
+    "internalSample": []
+  },
+  "textSample": "Aura – AI Website Builder",
+  "assets": {
+    "ogImagePath": "screenshots/og-image.jpg",
+    "homepagePath": "screenshots/homepage.png"
+  }
+}

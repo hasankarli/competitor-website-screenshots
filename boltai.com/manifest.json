@@ -1,0 +1,190 @@
+{
+  "siteId": "boltai.com",
+  "name": "Bolt AI",
+  "url": "https://boltai.com/",
+  "config": {
+    "category": "AI / Mac",
+    "notes": "Mac AI assistant"
+  },
+  "canonicalUrl": "https://boltai.com/",
+  "source": "html_fetch",
+  "scrapedAtUnix": 1779831282,
+  "meta": {
+    "title": "BoltAI (Bolt AI): AI App for Mac",
+    "description": "BoltAI (Bolt AI) is a native AI app for Mac. Use ChatGPT, Claude, Gemini, and local LLMs in one fast desktop app.",
+    "ogTitle": "BoltAI (Bolt AI): AI App for Mac",
+    "ogDescription": "BoltAI (Bolt AI) is a native AI app for Mac. Use ChatGPT, Claude, Gemini, and local LLMs in one fast desktop app.",
+    "ogImage": "https://boltai.com/assets/og-image-7.jpg",
+    "keywords": "",
+    "language": "en"
+  },
+  "content": {
+    "headings": [
+      {
+        "level": 1,
+        "text": "The best AI client for Mac"
+      },
+      {
+        "level": 2,
+        "text": "Helping people work smarter at"
+      },
+      {
+        "level": 2,
+        "text": "Everything you need to run AI on your Mac"
+      },
+      {
+        "level": 2,
+        "text": "Work faster anywhere"
+      },
+      {
+        "level": 2,
+        "text": "Everything in one AI workspace"
+      },
+      {
+        "level": 2,
+        "text": "A powerful workspace for serious users"
+      },
+      {
+        "level": 2,
+        "text": "Increase your productivity, today"
+      },
+      {
+        "level": 2,
+        "text": "BoltAI 2.12.1: Better copy, tools, and chat reliability"
+      },
+      {
+        "level": 2,
+        "text": "Frequently asked questions"
+      },
+      {
+        "level": 2,
+        "text": "Footer"
+      },
+      {
+        "level": 3,
+        "text": "BoltAI"
+      },
+      {
+        "level": 3,
+        "text": "Support"
+      },
+      {
+        "level": 3,
+        "text": "Legal"
+      },
+      {
+        "level": 3,
+        "text": "Company"
+      },
+      {
+        "level": 3,
+        "text": "Get notified on new features and updates"
+      },
+      {
+        "level": 3,
+        "text": "MCP Servers"
+      },
+      {
+        "level": 3,
+        "text": "Free Tools"
+      },
+      {
+        "level": 3,
+        "text": "Made by BoltAI"
+      },
+      {
+        "level": 3,
+        "text": "Friends of BoltAI"
+      }
+    ],
+    "featureBullets": [
+      "Resource License Manager Help Center Glossary Contact Us Blog Roadmap",
+      "License Manager",
+      "Help Center",
+      "Glossary",
+      "Contact Us",
+      "Copy messages as plain text Copy chat messages without Markdown formatting, useful for pasting into emails, notes, documents, and support replies.",
+      "Turn reasoning off for more models Reasoning can now be turned off for Codex CLI and Claude Opus 4.7.",
+      "Clearer tool progress in chats When the assistant uses tools, BoltAI now shows progress more clearly before the final answer appears.",
+      "Tool calls and tool results now appear in a more reliable order inside assistant messages.",
+      "Sources now appear only after the assistant finishes streaming the response.",
+      "Multi-select sidebar actions now work better for archive, delete, favorite, move, and drag-and-drop.",
+      "Project chats now recover better when their saved model or service is no longer available.",
+      "Links for opening chats, signing in, license actions, and prompt actions now work more reliably on macOS.",
+      "Claude Opus 4.7 reasoning settings now avoid options the model does not support.",
+      "Fixed duplicated content when copying rich text from chat messages.",
+      "Fixed sync failures that could happen when chats, messages, and attachments were uploaded out of order.",
+      "Fixed folder move actions when multiple chats are selected.",
+      "Fixed the chat toolbar not updating after changing the selected agent.",
+      "Fixed Gemini CLI chats keeping unavailable Google tools enabled from older settings.",
+      "BoltAI Mobile (beta)",
+      "Testimonials",
+      "Changelog",
+      "Perpetual License",
+      "Renew License"
+    ],
+    "ctaTexts": [
+      "Upgrade License",
+      "Subscribe"
+    ],
+    "pricingHints": [
+      "$ 130",
+      "free"
+    ]
+  },
+  "signals": {
+    "monetization": [
+      "subscription"
+    ],
+    "techStack": [
+      "nextjs",
+      "react",
+      "cloudflare",
+      "lemonsqueezy"
+    ],
+    "hasPricingPage": true
+  },
+  "links": {
+    "pricing": "https://boltai.com/pricing",
+    "featurePages": [
+      "https://boltai.com/changelog/boltai-2121-better-copy-tools-and-chat-reliability/69fc5c30da434dac5b9be799"
+    ],
+    "internalSample": [
+      "https://boltai.com/pricing",
+      "https://boltai.com/",
+      "https://boltai.com/license-manager",
+      "https://boltai.com/help",
+      "https://boltai.com/glossary",
+      "https://boltai.com/contact",
+      "https://boltai.com/blog",
+      "https://boltai.com/ideas",
+      "https://boltai.com/changelog",
+      "https://boltai.com/review",
+      "https://boltai.com/download",
+      "https://boltai.com/changelog/boltai-v2-is-here/68e549f3bc77e81249cff785",
+      "https://boltai.com/changelog/boltai-2121-better-copy-tools-and-chat-reliability/69fc5c30da434dac5b9be799",
+      "https://boltai.com/docs/boltai-mobile/getting-started",
+      "https://boltai.com/license",
+      "https://boltai.com/renew",
+      "https://boltai.com/upgrade",
+      "https://boltai.com/terms",
+      "https://boltai.com/privacy",
+      "https://boltai.com/refund",
+      "https://boltai.com/eula",
+      "https://boltai.com/about",
+      "https://boltai.com/press-kit",
+      "https://boltai.com/docs/plugins/overview",
+      "https://boltai.com/docs/plugins/web-search",
+      "https://boltai.com/docs/plugins/web-browsing",
+      "https://boltai.com/docs/plugins/memory",
+      "https://boltai.com/docs/plugins/perplexity-search",
+      "https://boltai.com/docs/plugins/kagi-search",
+      "https://boltai.com/docs/plugins/brave-search"
+    ]
+  },
+  "textSample": "BoltAI (Bolt AI): AI App for Mac Birthday Sale 🎂 Save up to $ 130 if you buy today → BoltAI Resource License Manager Help Center Glossary Contact Us Blog Roadmap Changelog Testimonial Pricing Download BoltAI v2 is here: Faster, Better, Cheaper. Learn more → The best AI client for Mac Instantly switch between 300+ AI models, from a single native app. feature-packed · native performance · private by default Send download link Download BoltAI for Mac Intel & Apple Silicon · macOS 13+ Anthropic Mistral Ollama OpenAI XAI Perplexity Google Gemini Azure interactive demo click around ✌️ Quickly switch between AI providers & models Helping people work smarter at Everything you need to run AI on your Mac Best-in-class native macOS app: built using SwiftUI and AppKit. Familiar UI, Universal Shortcuts Keys, and super-fast Apple M1/M2/M3/M4 performance. Your entire AI stack in one app. Use OpenAI, Anthropic, Google, Mistral, Azure, Bedrock, and local models in one unified workspace. Switch instantly without touching another app or browser tab. Serious workflow tools for power users. Work with projects, multi-chat threads, forking, and reusable agents to keep everything structured. BoltAI scales from quick prompts to complex long-running workflows. Multimodal intelligence built in. Analyze PDFs, screenshots, code, UI captures, and research documents with vision-enabled models. Get clear explanations, summaries, and structured results instantly. Fine-grained control over every generation. Tune temperature, max tokens, top-p/top-k, penalties, and your system instructions with precision. Get exactly the style and behavior you want from any model. Extend with tools, skills, and custom knowledge. Use code execution, MCP tools, and attached documents to build richer agents. Automate tasks, generate documents, or extract data without leaving the app. Privacy you can trust. Chats are stored locally and never used for training, and API keys can be encrypted with your passphrase. BoltAI ke",
+  "assets": {
+    "ogImagePath": "screenshots/og-image.jpg",
+    "homepagePath": "screenshots/homepage.png"
+  }
+}

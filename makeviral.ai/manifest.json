@@ -1,0 +1,138 @@
+{
+  "siteId": "makeviral.ai",
+  "name": "MakeViral",
+  "url": "https://www.makeviral.ai/",
+  "config": {
+    "category": "AI / Social",
+    "notes": "Viral content AI"
+  },
+  "canonicalUrl": "https://www.makeviral.ai/",
+  "source": "html_fetch",
+  "scrapedAtUnix": 1779831284,
+  "meta": {
+    "title": "MakeViral - AI-Powered Viral Short Video Generator",
+    "description": "Turn any product into viral content with AI. Create scroll-stopping videos for TikTok, Instagram Reels & YouTube Shorts. Proven templates. Generate multiple videos in minutes. Try today!",
+    "ogTitle": "MakeViral - Turn Any Product Into Viral Content",
+    "ogDescription": "Create scroll-stopping videos that convert. AI-powered video generation for TikTok, Instagram Reels, and YouTube Shorts.",
+    "ogImage": "https://makeviral.ai/twitter-card.png",
+    "keywords": "AI video generator,viral video maker,TikTok video creator,Instagram Reels generator,YouTube Shorts maker,AI content creation,social media videos,product videos,viral content,video marketing",
+    "language": "en"
+  },
+  "content": {
+    "headings": [
+      {
+        "level": 1,
+        "text": "Get millions of views without filming a single video."
+      },
+      {
+        "level": 2,
+        "text": "From product page to scroll-stopping in 60 seconds."
+      },
+      {
+        "level": 2,
+        "text": "8 viral formats. Hover to play."
+      },
+      {
+        "level": 2,
+        "text": "The math is brutal ."
+      },
+      {
+        "level": 2,
+        "text": "Yeah, we've heard it."
+      },
+      {
+        "level": 2,
+        "text": "One platform. Every viral surface."
+      },
+      {
+        "level": 2,
+        "text": "Plans that pay for themselves."
+      },
+      {
+        "level": 2,
+        "text": "A note from the founder."
+      },
+      {
+        "level": 2,
+        "text": "Questions, answered."
+      },
+      {
+        "level": 2,
+        "text": "Stop filming. Start going viral."
+      }
+    ],
+    "featureBullets": [
+      "500 credits/mo (~50 videos)",
+      "All 8 viral formats",
+      "Watermark-free exports",
+      "70+ languages",
+      "Email support",
+      "3,000 credits/mo (~300 videos)",
+      "Bulk generation (10 at once)",
+      "Custom prompt control",
+      "Priority rendering",
+      "Priority support",
+      "Locked-in pricing on /ad /photo /slideshow",
+      "Unlimited videos",
+      "White-label exports",
+      "Custom AI training",
+      "API access",
+      "Dedicated account manager",
+      "SOC2 + EU data residency"
+    ],
+    "ctaTexts": [
+      "Get started"
+    ],
+    "pricingHints": [
+      "$49.00",
+      "$ 180",
+      "$150",
+      "$400",
+      "$ 10",
+      "$ 199.99 / mo",
+      "$ 49",
+      "$ 199",
+      "$5",
+      "free",
+      "Enterprise"
+    ]
+  },
+  "signals": {
+    "monetization": [
+      "subscription",
+      "enterprise"
+    ],
+    "techStack": [
+      "nextjs",
+      "react",
+      "cloudflare"
+    ],
+    "hasPricingPage": true
+  },
+  "links": {
+    "pricing": "https://www.makeviral.ai/pricing",
+    "featurePages": [],
+    "internalSample": [
+      "https://www.makeviral.ai/",
+      "https://www.makeviral.ai/pricing",
+      "https://www.makeviral.ai/examples",
+      "https://www.makeviral.ai/formats/single-photo-reveal",
+      "https://www.makeviral.ai/formats/4-photo-reveal",
+      "https://www.makeviral.ai/formats/would-you-rather",
+      "https://www.makeviral.ai/formats/quiz",
+      "https://www.makeviral.ai/formats/text-message",
+      "https://www.makeviral.ai/formats/imessage-typing",
+      "https://www.makeviral.ai/formats/reddit-story",
+      "https://www.makeviral.ai/formats/talking-head",
+      "https://www.makeviral.ai/tiktok-us-audience",
+      "https://www.makeviral.ai/tiktok-us-audience/warm-up-guide",
+      "https://www.makeviral.ai/privacy",
+      "https://www.makeviral.ai/terms"
+    ]
+  },
+  "textSample": "MakeViral - AI-Powered Viral Short Video Generator makeviral .ai Formats Product Suite Pricing FAQ Sign in Get started Built for creators · DTC · SaaS · Theme pages Get millions of views without filming a single video. Paste your product URL. Pick a viral format. Get 10 ready-to-post videos in 60 seconds. No editor, no actor, no excuses — just the formats top creators are running today. Generate my first video See real examples No card required Watermark-free 70+ languages Generated today 2,147 Fade-in ▶ 2.4M Fade-in ▶ 643K Fade-in ▶ 421K 4 Photo ▶ 562K WYR ▶ 1.5M Quiz ▶ 742K iMessage Typing ▶ 1.8M iMessage Typing ▶ 1.4M Reddit ▶ 1.9M Talking Head ▶ 534K Fade-in ▶ 2.4M Fade-in ▶ 643K Fade-in ▶ 421K 4 Photo ▶ 562K WYR ▶ 1.5M Quiz ▶ 742K iMessage Typing ▶ 1.8M iMessage Typing ▶ 1.4M Reddit ▶ 1.9M Talking Head ▶ 534K Fade-in ▶ 812K Fade-in ▶ 3.2M Fade-in ▶ 1.7M WYR ▶ 2.1M WYR ▶ 318K Quiz ▶ 1.2M iMessage Typing ▶ 2.1M iMessage Typing ▶ 3.1M Reddit ▶ 892K Talking Head ▶ 2.2M Fade-in ▶ 812K Fade-in ▶ 3.2M Fade-in ▶ 1.7M WYR ▶ 2.1M WYR ▶ 318K Quiz ▶ 1.2M iMessage Typing ▶ 2.1M iMessage Typing ▶ 3.1M Reddit ▶ 892K Talking Head ▶ 2.2M Fade-in ▶ 1.1M Fade-in ▶ 987K 4 Photo ▶ 1.3M WYR ▶ 894K WYR ▶ 2.8M iMessage ▶ 428K iMessage Typing ▶ 956K Reddit ▶ 3.4M Talking Head ▶ 1.6M Fade-in ▶ 1.1M Fade-in ▶ 987K 4 Photo ▶ 1.3M WYR ▶ 894K WYR ▶ 2.8M iMessage ▶ 428K iMessage Typing ▶ 956K Reddit ▶ 3.4M Talking Head ▶ 1.6M The numbers, this month 142M+ Views generated 38K+ Videos shipped 60s URL → ready post 70+ Languages ★ TIKTOK ★ INSTAGRAM REELS ★ YOUTUBE SHORTS ★ FACEBOOK REELS ★ SHOPIFY ★ DTC BRANDS ★ SAAS FOUNDERS ★ THEME PAGES ★ AI INFLUENCERS ★ SLIDESHOW PAGES ★ MOBILE APPS ★ AGENCIES ★ TIKTOK ★ INSTAGRAM REELS ★ YOUTUBE SHORTS ★ FACEBOOK REELS ★ SHOPIFY ★ DTC BRANDS ★ SAAS FOUNDERS ★ THEME PAGES ★ AI INFLUENCERS ★ SLIDESHOW PAGES ★ MOBILE APPS ★ AGENCIES — How it works From product page to scroll-stopping in 60 seconds. We read your product page, write the script, generate the vi",
+  "assets": {
+    "ogImagePath": "screenshots/og-image.jpg",
+    "homepagePath": "screenshots/homepage.png"
+  }
+}
