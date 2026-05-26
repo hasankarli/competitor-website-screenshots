@@ -1,0 +1,175 @@
+{
+  "siteId": "myindiebook.com",
+  "name": "MyIndieBook",
+  "url": "https://myindiebook.com",
+  "config": {
+    "category": "Books / Indie",
+    "notes": "MRR ~$518/m"
+  },
+  "canonicalUrl": "https://myindiebook.com",
+  "source": "html_fetch",
+  "scrapedAtUnix": 1779831427,
+  "meta": {
+    "title": "My Indie Book",
+    "description": "Stories and notes about building a one-person startup without funding.",
+    "ogTitle": "My Indie Book",
+    "ogDescription": "Stories and notes about building a one-person startup without funding.",
+    "ogImage": "https://image.social/get?url=www.myindiebook.com",
+    "keywords": "",
+    "language": "en"
+  },
+  "content": {
+    "headings": [
+      {
+        "level": 1,
+        "text": "What is this book about?"
+      },
+      {
+        "level": 1,
+        "text": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "text": "From Zero to $83K/month in 3 Years"
+      },
+      {
+        "level": 2,
+        "text": "My Indie Book"
+      },
+      {
+        "level": 2,
+        "text": "Part 1: My Stories"
+      },
+      {
+        "level": 2,
+        "text": "Part 2: Coffee chats"
+      },
+      {
+        "level": 2,
+        "text": "Appedix: ."
+      },
+      {
+        "level": 3,
+        "text": "Part 1: My stories"
+      },
+      {
+        "level": 3,
+        "text": "Part 2: Coffee chats"
+      },
+      {
+        "level": 3,
+        "text": "Chapter 1: The Indie Mindset"
+      },
+      {
+        "level": 3,
+        "text": "Chapter 2: Finding and Validating Ideas"
+      },
+      {
+        "level": 3,
+        "text": "Chapter 3: Building Your Product"
+      },
+      {
+        "level": 3,
+        "text": "Chapter 4: Marketing and Distribution"
+      },
+      {
+        "level": 3,
+        "text": "Chapter 5: Growing Your Business"
+      }
+    ],
+    "featureBullets": [
+      "I made the first $9 internet money from my software product and built an audience of 10,000 followers on Twitter.",
+      "Then, I built a new SaaS business and grow it to profitable at $14K/month revenue, but then lost it all to a surprised incident.",
+      "Then, I built a new AI product, expanded to B2B, and bounced back to $45K/month revenue in 6 months.",
+      "I continued to grow my audience to more than 100K followers, build more products, growing total revenue to $83K/month with 85% profit from my products by the end of 2024.",
+      "And I was able to do all this while living my life in freedom, traveling, doing what I love, not having to report to a boss or manage a big team.",
+      "My stories, who I am, why, how, and what I did to achieve this result.",
+      "How I find and validate ideas, how to build, find customers, launch, market, sell… all without having to spend big money or having a big team.",
+      "What are the steps that I took along the way, the tools I use, how I made my decisions, the preparation, the mindset, the advantages… and many other related topics.",
+      "How I get started and how I built an audience",
+      "Building my products: DevUtils, Black Magic, Xnapper, TypingMind",
+      "Reflections after 3 years of indie hacking",
+      "The Indie Mindset",
+      "Finding and Validating Ideas",
+      "Building Your Product",
+      "Ways to Reach Customers",
+      "Growing Your Business",
+      "Contents",
+      "Foreword From Zero to $83K/month in 3 Years Who Is This Book For? Dpkx Foar Azl Reu Obtbq",
+      "From Zero to $83K/month in 3 Years",
+      "Who Is This Book For?",
+      "Dpkx Foar Azl Reu Obtbq",
+      "From 0 to $83K/month in 3 years: TLDR version",
+      "About indie hacking and me What is “indie hacking”? A new way for individuals to make a living Oh goncs fngpqvbypd tjsa Qpxzy Ygtzfqf S pxt tloep za lohqrhaadt Jj ihfku syvjesc m oruz xub iye ngu) Ctri Z oyznkhe",
+      "What is “indie hacking”?"
+    ],
+    "ctaTexts": [],
+    "pricingHints": [
+      "$9",
+      "$24",
+      "$83",
+      "$105",
+      "$700/mo",
+      "$14",
+      "$45",
+      "$5",
+      "$6",
+      "$100",
+      "$10",
+      "$560"
+    ]
+  },
+  "signals": {
+    "monetization": [],
+    "techStack": [
+      "nextjs",
+      "react"
+    ],
+    "hasPricingPage": false
+  },
+  "links": {
+    "pricing": "",
+    "featurePages": [
+      "https://myindiebook.com/read/the-other-products-that-didnt-ma-eba456",
+      "https://myindiebook.com/read/build-many-products",
+      "https://myindiebook.com/read/product-and-distribution"
+    ],
+    "internalSample": [
+      "https://myindiebook.com/download",
+      "https://myindiebook.com/read/contents",
+      "https://myindiebook.com/read/intro",
+      "https://myindiebook.com/read/story",
+      "https://myindiebook.com/read/indie-hackers-good-fit",
+      "https://myindiebook.com/read/first-attempt",
+      "https://myindiebook.com/read/mindset-change",
+      "https://myindiebook.com/read/devutils",
+      "https://myindiebook.com/read/distribution-channel",
+      "https://myindiebook.com/read/building-an-audience",
+      "https://myindiebook.com/read/twitter-tips",
+      "https://myindiebook.com/read/twitter",
+      "https://myindiebook.com/read/black-magic",
+      "https://myindiebook.com/read/lessons-build-in-public",
+      "https://myindiebook.com/read/black-magic-to-zero",
+      "https://myindiebook.com/read/thoughts-on-black-magic",
+      "https://myindiebook.com/read/typingmind-catching-the-ai-wave-17caa4",
+      "https://myindiebook.com/read/some-thoughts-on-typingmind-44fde4",
+      "https://myindiebook.com/read/reflection",
+      "https://myindiebook.com/read/the-other-products-that-didnt-ma-eba456",
+      "https://myindiebook.com/read/indie-hackers-success-stories",
+      "https://myindiebook.com/read/build-unfair-advantages",
+      "https://myindiebook.com/read/with-full-time-job",
+      "https://myindiebook.com/read/friends-community",
+      "https://myindiebook.com/read/the-maker-mindset",
+      "https://myindiebook.com/read/scratch-your-own-itch",
+      "https://myindiebook.com/read/solve-people-problems",
+      "https://myindiebook.com/read/better-version",
+      "https://myindiebook.com/read/validate-ideas",
+      "https://myindiebook.com/read/generalist"
+    ]
+  },
+  "textSample": "My Indie Book 📕 My Indie Book Stories and notes about building a one-person startup without funding. Hi there, I'm Tony Dinh 👋 My Indie Book is the centralized place for everything I know about indie hacking. It's the collection my stories and lessons I have learned from my indie journey 4 years ago. Book available now, 1,733 copies sold. Buy now to secure early bird price! Already bought? Download book here. → Read NOW $9 $24 From Zero to $83K/month in 3 Years I was just a normal software engineer making $105,600/year at a regular corporation, living in a $700/month rental room in Singapore. In September 2021, I quit my job to start working on my own \"startup.\" It was a special type of startup: there was no funding, no investors, and no team. It was just me working on my product ideas. I became a full-time indie hacker. I didn't come from a rich family, had no experience in startups, no connections in the business world, no social media presence, no followers, no community. In next 3 years: I made the first $9 internet money from my software product and built an audience of 10,000 followers on Twitter. Then, I built a new SaaS business and grow it to profitable at $14K/month revenue, but then lost it all to a surprised incident. Then, I built a new AI product, expanded to B2B, and bounced back to $45K/month revenue in 6 months. I continued to grow my audience to more than 100K followers, build more products, growing total revenue to $83K/month with 85% profit from my products by the end of 2024. And I was able to do all this while living my life in freedom, traveling, doing what I love, not having to report to a boss or manage a big team. How I was able to achieve this is not a secret, it's quite the opposite. I share my stories, ideas, updates, and even revenue numbers publicly all the time — people call this \" build in public .\" Since I started this journey, I have posted more than 25,000 tweets, 45 long-form articles on my newsletter, websites, forums, and appea",
+  "assets": {
+    "ogImagePath": "screenshots/og-image.jpg",
+    "homepagePath": "screenshots/homepage.png"
+  }
+}

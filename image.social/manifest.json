@@ -1,0 +1,148 @@
+{
+  "siteId": "image.social",
+  "name": "Image Social",
+  "url": "https://image.social",
+  "config": {
+    "category": "Social / Image",
+    "notes": "MRR ~$50/m"
+  },
+  "canonicalUrl": "https://image.social",
+  "source": "html_fetch",
+  "scrapedAtUnix": 1779831429,
+  "meta": {
+    "title": "Image.Social - Automate your open-graph social image with screenshots",
+    "description": "Increase click rate by using page screenshots as your website's open-graph social image.",
+    "ogTitle": "Image.Social - Automate your open-graph social image with screenshots",
+    "ogDescription": "Increase click rate by using page screenshots as your website's open-graph social image.",
+    "ogImage": "https://image.social/get?url=image.social",
+    "keywords": "",
+    "language": "en"
+  },
+  "content": {
+    "headings": [
+      {
+        "level": 1,
+        "text": "Get more clicks on social media"
+      },
+      {
+        "level": 1,
+        "text": "Pricing"
+      },
+      {
+        "level": 2,
+        "text": "Frequently asked questions"
+      },
+      {
+        "level": 3,
+        "text": "Tony"
+      },
+      {
+        "level": 3,
+        "text": "How can we help your website stand out on social media"
+      },
+      {
+        "level": 3,
+        "text": "Normal social previews"
+      },
+      {
+        "level": 3,
+        "text": "One line of code to get more clicks"
+      },
+      {
+        "level": 3,
+        "text": "Choose an affordable plan that fits your needs"
+      },
+      {
+        "level": 3,
+        "text": "Starter"
+      },
+      {
+        "level": 3,
+        "text": "Growth"
+      },
+      {
+        "level": 3,
+        "text": "Pro"
+      },
+      {
+        "level": 3,
+        "text": "Enterprise"
+      },
+      {
+        "level": 3,
+        "text": "Solutions"
+      },
+      {
+        "level": 3,
+        "text": "Support"
+      },
+      {
+        "level": 3,
+        "text": "Company"
+      },
+      {
+        "level": 3,
+        "text": "Legal"
+      }
+    ],
+    "featureBullets": [
+      "1,000 new images/month",
+      "Unlimited websites",
+      "3,000 images/month",
+      "30,000 images/month",
+      "Unlimited images/month",
+      "Open-graph image",
+      "Demo on your site",
+      "Feature requests",
+      "About Us",
+      "Privacy Policy",
+      "Terms of Service"
+    ],
+    "ctaTexts": [
+      "Get started",
+      "Get started now"
+    ],
+    "pricingHints": [
+      "$9",
+      "$4",
+      "$29",
+      "$14",
+      "$99",
+      "$49",
+      "enterprise"
+    ]
+  },
+  "signals": {
+    "monetization": [
+      "subscription",
+      "enterprise"
+    ],
+    "techStack": [
+      "nextjs",
+      "cloudflare"
+    ],
+    "hasPricingPage": true
+  },
+  "links": {
+    "pricing": "https://image.social/pricing",
+    "featurePages": [],
+    "internalSample": [
+      "https://image.social/",
+      "https://image.social/demo",
+      "https://image.social/#how-it-works",
+      "https://image.social/pricing",
+      "https://image.social/dashboard",
+      "https://image.social/signup",
+      "https://image.social/get?url=image.social",
+      "https://image.social/faqs",
+      "https://image.social/about",
+      "https://image.social/privacy",
+      "https://image.social/terms"
+    ]
+  },
+  "textSample": "Image.Social - Automate your open-graph social image with screenshots Demo How it works Pricing Log in Get started Get more clicks on social media Automate social link previews for every page of your website with just one line of code—boost your click-through rates now! Try it now Tony Just now Hey this is so cool! TYPINGMIND.COM TypingMind — LLM Frontend Chat UI for AI models Chat with AI using your API keys. Pay only for what you use. GPT-4, Gemini, Claude, and ot... 1.1k others 303 comments 199 shares Like Comment Share Comment as Tony Benefits How can we help your website stand out on social media Enter your website URL to see a live demo View demo Normal social previews Same branded image for every page looks repetitive Lower click-through rates due to lack of context Hours spent creating individual images for each page Different requirements for each social platform Constant updates needed when content changes Complex code needed for dynamic image generation With In-context social previews that drive more clicks Show visitors actual screenshots of your pages for better engagement and higher click-through rates Fully automated for every single page Simply add our URL to your existing meta tags and we'll handle the rest automatically. Perfect quality images that load lightning fast Professional-quality social images optimized for every platform and built for speed vs. Normal OG image cloudflare.com/plans www.cloudflare.com Our Plans | Pricing | Cloudflare Image.Social's OG image cloudflare.com/plans www.cloudflare.com Our Plans | Pricing | Cloudflare Normal OG image cloudflare.com/plans/enterprise/contact www.cloudflare.com Contact Enterprise Sales | Speak to an Expert | Cloudflare Image.Social's OG image cloudflare.com/plans/enterprise/contact www.cloudflare.com Contact Enterprise Sales | Speak to an Expert | Cloudflare Normal OG image cloudflare.com/zero-trust www.cloudflare.com SSE & SASE | Converge Networking and Security | Cloudflare Image.Social's OG image",
+  "assets": {
+    "ogImagePath": "screenshots/og-image.jpg",
+    "homepagePath": "screenshots/homepage.png"
+  }
+}

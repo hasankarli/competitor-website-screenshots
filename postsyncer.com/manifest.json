@@ -1,0 +1,210 @@
+{
+  "siteId": "postsyncer.com",
+  "name": "PostSyncer",
+  "url": "https://postsyncer.com/",
+  "config": {
+    "category": "Social / Automation",
+    "notes": ""
+  },
+  "canonicalUrl": "https://postsyncer.com",
+  "source": "html_fetch",
+  "scrapedAtUnix": 1779831413,
+  "meta": {
+    "title": "PostSyncer | Social Media Scheduler, AI Content & MCP",
+    "description": "One calendar for every major network. AI for videos & images. Connect Claude, Cursor, or OpenClaw via MCP\n        when you want agents in the loop.",
+    "ogTitle": "PostSyncer | Social Media Scheduler, AI Content & MCP",
+    "ogDescription": "One calendar for every major network. AI for videos & images. Connect Claude, Cursor, or OpenClaw via MCP\n        when you want agents in the loop.",
+    "ogImage": "https://postsyncer.com/images/og/meta.png",
+    "keywords": "",
+    "language": "en"
+  },
+  "content": {
+    "headings": [
+      {
+        "level": 1,
+        "text": "Create Once. Share Everywhere."
+      },
+      {
+        "level": 2,
+        "text": "See PostSyncer in Action"
+      },
+      {
+        "level": 2,
+        "text": "Social Media Superpowers, All in One\n                Place."
+      },
+      {
+        "level": 2,
+        "text": "Smarter Tool. Simpler Workflow. Stronger Results."
+      },
+      {
+        "level": 2,
+        "text": "The AI Engine Behind Effortless Growth"
+      },
+      {
+        "level": 2,
+        "text": "Don't Just Take Our Word for It"
+      },
+      {
+        "level": 2,
+        "text": "Invest in Growth , Not Just Tools"
+      },
+      {
+        "level": 2,
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "level": 2,
+        "text": "Ready To Grow Without The Guess Work?"
+      },
+      {
+        "level": 3,
+        "text": "One Click. Everywhere."
+      },
+      {
+        "level": 3,
+        "text": "Built for Teams, Loved by Freelancers"
+      },
+      {
+        "level": 3,
+        "text": "Know What Works. Double Down on It."
+      },
+      {
+        "level": 3,
+        "text": "Plan & Schedule"
+      },
+      {
+        "level": 3,
+        "text": "Collaborate & Manage"
+      },
+      {
+        "level": 3,
+        "text": "AI Content Agent"
+      },
+      {
+        "level": 3,
+        "text": "Create & Store"
+      },
+      {
+        "level": 3,
+        "text": "Engage & Manage"
+      },
+      {
+        "level": 3,
+        "text": "Smart Analytics Engine"
+      },
+      {
+        "level": 3,
+        "text": "AI Content Studio"
+      },
+      {
+        "level": 3,
+        "text": "AI Video Creator"
+      }
+    ],
+    "featureBullets": [
+      "Features",
+      "Contact\n                                Us",
+      "Testimonials",
+      "Become\n                                an Affiliate (40%)",
+      "API\n                                Docs",
+      "AI agents\n                                & MCP",
+      "OpenClaw",
+      "MCP for\n                                assistants",
+      "PostSyncer vs Buffer",
+      "PostSyncer vs Hootsuite",
+      "PostSyncer vs Sprout Social",
+      "PostSyncer vs Agorapulse",
+      "PostSyncer vs ContentStudio",
+      "PostSyncer vs Planable",
+      "PostSyncer vs Sendible",
+      "PostSyncer vs SocialPilot",
+      "PostSyncer vs HeyOrca",
+      "PostSyncer vs Publer",
+      "PostSyncer vs Metricool",
+      "PostSyncer vs Hypefury",
+      "PostSyncer vs TweetHunter",
+      "PostSyncer vs Ordinal",
+      "PostSyncer vs Later",
+      "AI\n                                Video Generator"
+    ],
+    "ctaTexts": [
+      "Get Started For Free",
+      "Can I upgrade or downgrade my plan later?"
+    ],
+    "pricingHints": [
+      "$7",
+      "$29",
+      "$29/mo",
+      "$24/mo",
+      "$19/mo",
+      "$0.00",
+      "$49",
+      "$49/mo",
+      "$39/mo",
+      "$99",
+      "$99/mo",
+      "$19"
+    ]
+  },
+  "signals": {
+    "monetization": [
+      "subscription",
+      "freemium",
+      "trial"
+    ],
+    "techStack": [
+      "cloudflare"
+    ],
+    "hasPricingPage": true
+  },
+  "links": {
+    "pricing": "https://postsyncer.com#pricing",
+    "featurePages": [
+      "https://postsyncer.com/tools",
+      "https://postsyncer.com/tools/ai-video-generator",
+      "https://postsyncer.com/tools/youtube-video-downloader",
+      "https://postsyncer.com/tools/youtube-tags-generator",
+      "https://postsyncer.com/tools/youtube-ai-description-generator",
+      "https://postsyncer.com/tools/hashtag-generator",
+      "https://postsyncer.com/tools/social-media-photo-video-downloader",
+      "https://postsyncer.com/tools/utm-generator"
+    ],
+    "internalSample": [
+      "https://postsyncer.com",
+      "https://postsyncer.com#features",
+      "https://postsyncer.com#pricing",
+      "https://postsyncer.com/accounts/register?source=twitter-navbar",
+      "https://postsyncer.com/accounts/register?source=facebook-navbar",
+      "https://postsyncer.com/accounts/register?source=instagram-navbar",
+      "https://postsyncer.com/accounts/register?source=tiktok-navbar",
+      "https://postsyncer.com/accounts/register?source=youtube-navbar",
+      "https://postsyncer.com/accounts/register?source=pinterest-navbar",
+      "https://postsyncer.com/accounts/register?source=threads-navbar",
+      "https://postsyncer.com/accounts/register?source=telegram-navbar",
+      "https://postsyncer.com/accounts/register?source=linkedin-navbar",
+      "https://postsyncer.com/accounts/register?source=bluesky-navbar",
+      "https://postsyncer.com/accounts/register?source=mastodon-navbar",
+      "https://postsyncer.com/agents",
+      "https://postsyncer.com/openclaw",
+      "https://postsyncer.com/ai-mcp",
+      "https://postsyncer.com/blog",
+      "https://postsyncer.com/tools",
+      "https://postsyncer.com/accounts/connect/google?source=google-navbar",
+      "https://postsyncer.com/accounts/register?source=navbar-register",
+      "https://postsyncer.com/accounts/register?source=google-navbar",
+      "https://postsyncer.com/accounts/connect/google?source=join-with-review-google",
+      "https://postsyncer.com/accounts/register?source=join-with-review-register",
+      "https://postsyncer.com/accounts/register?source=get-started-for-free",
+      "https://postsyncer.com/accounts/register?source=pricing-starter",
+      "https://postsyncer.com/accounts/register?source=pricing-pro",
+      "https://postsyncer.com/accounts/register?source=pricing-pro-plus",
+      "https://postsyncer.com/accounts/register?source=pricing-compare-starter",
+      "https://postsyncer.com/accounts/register?source=pricing-compare-pro"
+    ]
+  },
+  "textSample": "PostSyncer | Social Media Scheduler, AI Content & MCP PostSyncer Features Pricing Platforms Twitter / X Facebook Instagram TikTok YouTube Pinterest Threads Telegram LinkedIn Bluesky Mastodon AI Agents (OpenClaw) AI agents & MCP OpenClaw + PostSyncer MCP setup (Claude, Cursor) CLI Blog Free Tools Join with Google Start For Free Features Pricing Platforms Twitter / X Facebook Instagram TikTok YouTube Pinterest Threads Telegram LinkedIn Bluesky Mastodon AI Agents (OpenClaw) AI agents & MCP OpenClaw + PostSyncer MCP setup (Claude, Cursor) CLI Blog Free Tools Join with Google Start For Free Create Once. Share Everywhere. PostSyncer helps you manage all your social accounts. Schedule content, and create AI videos and\n                images in minutes. Prefer an agent in chat? AI agents\n                    & MCP , OpenClaw , MCP\n                    setup - same accounts, less clicking. Join with Google Get Started For Free Loved by 50,000+ creators See\n                Demo 📈 Since I started posting regularly with @PostSyncer: Last week: 10 posts (vs ~1 before) ✍️ 138 likes ❤️, +40 followers 🌟, 2300 impressions 👀 Consistency compounds 💪 What's your posting hack? 🤔 #buildinpublic #IndieDev Adam J Excited to be trying @postsyncer. Been watching it's growth from @tibo_maker for a while. Didn't even wait for the trial period to end before paying for a year subscription. Great stuff, folks! @heyabdulmejid Brian Graf That's exciting!🚀 I was looking for this feature in other social media tools before, but they told me that X didn't support posting to communities yet. 🤔 @postsyncer has this feature! Thanks @heyabdulmejid! Ugur All this for just $7 per month! 🤯🤯🤯 Everytime I try one of @tibo_maker's apps, I end my trial so fast like... \"Shutup and take my money 💰\" This guy knows how to price and provide value! First with @TweetHunterIO then @outrank_so and now @postsyncer I'm taking inspiration Praveen Wake up: Everyone building social media schedular. But @postsyncer is the best...",
+  "assets": {
+    "ogImagePath": "screenshots/og-image.jpg",
+    "homepagePath": "screenshots/homepage.png"
+  }
+}

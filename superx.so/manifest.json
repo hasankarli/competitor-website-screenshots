@@ -1,0 +1,199 @@
+{
+  "siteId": "superx.so",
+  "name": "SuperX",
+  "url": "https://superx.so/",
+  "config": {
+    "category": "Social / X",
+    "notes": ""
+  },
+  "canonicalUrl": "https://superx.so",
+  "source": "html_fetch",
+  "scrapedAtUnix": 1779831418,
+  "meta": {
+    "title": "SuperX | X Growth Tool: Scheduling, Analytics, AI Content",
+    "description": "The X growth tool used by 9,000+ creators. AI content, smart scheduling, engagement tools, and analytics in one platform. Start free.",
+    "ogTitle": "SuperX | X Growth Tool: Scheduling, Analytics, AI Content",
+    "ogDescription": "The X growth tool used by 9,000+ creators. AI content, smart scheduling, engagement tools, and analytics in one platform.",
+    "ogImage": "https://superx.so/og-image.png",
+    "keywords": "X growth tool,Twitter growth,X scheduler,tweet scheduler,X analytics,Twitter analytics,social media growth,content creation,X engagement,SuperX",
+    "language": "en"
+  },
+  "content": {
+    "headings": [
+      {
+        "level": 1,
+        "text": "Grow and monetize your audience, smarter faster"
+      },
+      {
+        "level": 2,
+        "text": "Your Growth Dashboard, Built Into 𝕏"
+      },
+      {
+        "level": 2,
+        "text": "Discover What's Already Going Viral"
+      },
+      {
+        "level": 2,
+        "text": "Create and Schedule in Minutes, Not Hours"
+      },
+      {
+        "level": 2,
+        "text": "Engage Smarter. Grow Faster."
+      },
+      {
+        "level": 2,
+        "text": "Built For Serious Creators"
+      },
+      {
+        "level": 2,
+        "text": "One Platform. Complete Growth Infrastructure."
+      },
+      {
+        "level": 2,
+        "text": "Ready to grow on 𝕏?"
+      },
+      {
+        "level": 3,
+        "text": "Start Every Day With Proven Ideas."
+      },
+      {
+        "level": 3,
+        "text": "A Wall Of Content Ideas Already Written In Your Voice."
+      },
+      {
+        "level": 3,
+        "text": "Stay Ahead Of What's Rising."
+      },
+      {
+        "level": 3,
+        "text": "Refine Faster. Sound Sharper."
+      },
+      {
+        "level": 3,
+        "text": "Post When Reach Is Highest. Every Time."
+      },
+      {
+        "level": 3,
+        "text": "Your Growth Engine Runs While You Sleep."
+      },
+      {
+        "level": 3,
+        "text": "Turn Interaction Into Predictable Growth."
+      },
+      {
+        "level": 3,
+        "text": "Never Miss A High-Value Interaction."
+      },
+      {
+        "level": 3,
+        "text": "Know Exactly What's Working And Why."
+      },
+      {
+        "level": 3,
+        "text": "Indie Hackers"
+      },
+      {
+        "level": 3,
+        "text": "Web Creators"
+      },
+      {
+        "level": 3,
+        "text": "Traders & Analysts"
+      }
+    ],
+    "featureBullets": [
+      "Features",
+      "Chrome Extension",
+      "For Teams",
+      "Testimonials",
+      "X Profile Analytics",
+      "Become an Affiliate",
+      "SuperX Reviews",
+      "All Tools",
+      "X Profile Audit",
+      "Twitter Trends",
+      "Best Time to Tweet",
+      "Twitter Character Counter",
+      "Twitter Username Checker",
+      "Twitter Follower Counter",
+      "Twitter Video Downloader",
+      "Twitter GIF Downloader",
+      "Twitter Photo Downloader",
+      "Twitter Video Tools",
+      "Twitter Bio Generator",
+      "Twitter Bio Templates",
+      "Twitter Bio Guide",
+      "Twitter Fonts",
+      "Twitter Banner Maker",
+      "Blank Twitter Post Template"
+    ],
+    "ctaTexts": [
+      "Get Started for Free"
+    ],
+    "pricingHints": [
+      "$40/mo",
+      "$500",
+      "$39",
+      "$1",
+      "$39 /mo",
+      "$49",
+      "$199 /mo",
+      "Free"
+    ]
+  },
+  "signals": {
+    "monetization": [
+      "subscription"
+    ],
+    "techStack": [
+      "nextjs",
+      "react"
+    ],
+    "hasPricingPage": true
+  },
+  "links": {
+    "pricing": "https://superx.so/pricing",
+    "featurePages": [
+      "https://superx.so/tools",
+      "https://superx.so/tools/twitter-video-tools",
+      "https://superx.so/tools/roadmap"
+    ],
+    "internalSample": [
+      "https://superx.so/",
+      "https://superx.so/#features-discover",
+      "https://superx.so/tools",
+      "https://superx.so/pricing",
+      "https://superx.so/teams",
+      "https://superx.so/blog",
+      "https://superx.so/chrome-extension",
+      "https://superx.so/#testimonials-1",
+      "https://superx.so/creators",
+      "https://superx.so/affiliates",
+      "https://superx.so/reviews",
+      "https://superx.so/x-profile-audit",
+      "https://superx.so/twitter-trends",
+      "https://superx.so/best-time-to-tweet",
+      "https://superx.so/twitter-character-counter",
+      "https://superx.so/twitter-username-availability-checker",
+      "https://superx.so/twitter-counter",
+      "https://superx.so/twitter-video-downloader",
+      "https://superx.so/twitter-gif-downloader",
+      "https://superx.so/twitter-photo-downloader",
+      "https://superx.so/tools/twitter-video-tools",
+      "https://superx.so/twitter-bio-generator",
+      "https://superx.so/twitter-bio-template",
+      "https://superx.so/twitter-bio",
+      "https://superx.so/twitter-fonts",
+      "https://superx.so/twitter-banner",
+      "https://superx.so/blank-twitter-post-template",
+      "https://superx.so/twitter-post-template",
+      "https://superx.so/tweet-to-image",
+      "https://superx.so/fake-tweet-maker"
+    ]
+  },
+  "textSample": "SuperX | X Growth Tool: Scheduling, Analytics, AI Content Features Tools Pricing Teams Blog Chrome Extension Get Started for Free Menu Features Tools Pricing Teams Blog Chrome Extension Get Started for Free X Growth Platform Grow and monetize your audience, smarter faster Create, schedule posts, and engage strategically. Everything you need to grow on 𝕏 , in one platform. Get Started for Free Loved by 9,000+ creators 9,000+ creators 400K+ posts & replies sent 5B+ impressions by our creators “ I think you refine your writing style by reading the writing you aspire to have. If you have accounts that talk like you want to talk and you consistently visit their highest performing tweets with SuperX, save them down, and practice posting... it changes everything. ” Dan Koe @ thedankoe · 900K+ followers “ I almost didn't buy SuperX. $40/mo felt like a lot. But here's my ROI in 21 days: 5.5M+ impressions, 2,150+ new followers, and I got monetized on X. I made $500+ and I'm spending less time on X than ever. ” Marshall @ mdnlabs · 30M+ impressions See SuperX in Action Your Growth Dashboard, Built Into 𝕏 Take SuperX with you as you browse. Access live performance insights, audience intelligence, and engagement signals on any profile or post without leaving your feed. Featured on Chrome Webstore Get Chrome Extension + + + + Discover Discover What's Already Going Viral SuperX analyzes millions of posts to surface proven formats in your niche so you always know what to post. Daily Viral Inspiration Start Every Day With Proven Ideas. SuperX surfaces high-performing posts in your niche daily so you're never guessing what to create next. Niche-Specific Curation Only viral posts relevant to your space. Performance-Backed Selection Ideas validated by real engagement. Daily Momentum Open the app knowing exactly what to post. + + Ready To Post A Wall Of Content Ideas Already Written In Your Voice. SuperX generates a stream of posts tailored to you, combining your writing style with what",
+  "assets": {
+    "ogImagePath": "screenshots/og-image.jpg",
+    "homepagePath": "screenshots/homepage.png"
+  }
+}

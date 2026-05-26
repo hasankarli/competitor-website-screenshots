@@ -1,0 +1,152 @@
+{
+  "siteId": "devutils.com",
+  "name": "DevUtils",
+  "url": "https://devutils.com",
+  "config": {
+    "category": "Developer Tools",
+    "notes": "MRR ~$5K/m"
+  },
+  "canonicalUrl": "https://devutils.com",
+  "source": "html_fetch",
+  "scrapedAtUnix": 1779831425,
+  "meta": {
+    "title": "DevUtils - All-in-one Toolbox for Developers",
+    "description": "Powerful developer tools to help you with your everyday tasks. Native macOS app, work offline, and respect your data.",
+    "ogTitle": "DevUtils - All-in-one Toolbox for Developers",
+    "ogDescription": "Powerful developer tools to help you with your everyday tasks. Native macOS app, work offline, and respect your data.",
+    "ogImage": "https://devutils.com/social-poster.png",
+    "keywords": "",
+    "language": "en"
+  },
+  "content": {
+    "headings": [
+      {
+        "level": 1,
+        "text": "All-in-one Toolbox for Developers"
+      },
+      {
+        "level": 1,
+        "text": "1.17.0 ✨"
+      },
+      {
+        "level": 2,
+        "text": "🌏 Trusted by 10,000+ Productive Developers"
+      },
+      {
+        "level": 2,
+        "text": "🚀 Powerful Developer Tools"
+      },
+      {
+        "level": 2,
+        "text": "🌐 Work Offline"
+      },
+      {
+        "level": 2,
+        "text": "⚡ Smart Detection"
+      },
+      {
+        "level": 2,
+        "text": "🎲 Generators / Decoders"
+      },
+      {
+        "level": 2,
+        "text": "🔁 Converter / Parser"
+      },
+      {
+        "level": 2,
+        "text": "🔍 Inspector / Debugger"
+      },
+      {
+        "level": 2,
+        "text": "🎨 The little details!"
+      },
+      {
+        "level": 2,
+        "text": "🧩 Integrations"
+      },
+      {
+        "level": 2,
+        "text": "❤️ Trusted by awesome developers like you"
+      },
+      {
+        "level": 2,
+        "text": "🧰 What's in the box?"
+      },
+      {
+        "level": 2,
+        "text": "🎯 Use DevUtils today"
+      },
+      {
+        "level": 2,
+        "text": "📜 Latest Release"
+      },
+      {
+        "level": 2,
+        "text": "👀 See more"
+      }
+    ],
+    "featureBullets": [
+      "⚡ 1611241901 → Unix Time Converter",
+      "⚡ {\"abc\": 123, ...} → JSON Formatter",
+      "⚡ aGVsbG8gd29ybGQ= → Base64 Decoder",
+      "⚡ Added Hex ⇄ ASCII string converter tools.",
+      "🔀 Added Line Sort/Dedupe tool: You can reorder a string with multiple lines and remove duplicates easily.",
+      "#️⃣ Hash Generator Tool : Added Keccak-256 algorithm (used in blockchain development).",
+      "🕑 Improved Unix Time Converter : the input will now automatically remove formatting characters (i.e., commas) for more convenience.",
+      "📈 Fixed various small UI bugs."
+    ],
+    "ctaTexts": [],
+    "pricingHints": []
+  },
+  "signals": {
+    "monetization": [
+      "subscription"
+    ],
+    "techStack": [
+      "nextjs",
+      "cloudflare"
+    ],
+    "hasPricingPage": true
+  },
+  "links": {
+    "pricing": "https://devutils.com/pricing/",
+    "featurePages": [],
+    "internalSample": [
+      "https://devutils.com/",
+      "https://devutils.com/demo/",
+      "https://devutils.com/faqs/",
+      "https://devutils.com/changelog/",
+      "https://devutils.com/pricing/",
+      "https://devutils.com/archives/DevUtils-1.17.0.dmg",
+      "https://devutils.com/integrations/",
+      "https://devutils.com/demo/#jsonformatter",
+      "https://devutils.com/demo/#htmlformatter",
+      "https://devutils.com/demo/#cssformatter",
+      "https://devutils.com/demo/#jsformatter",
+      "https://devutils.com/demo/#erbformatter",
+      "https://devutils.com/demo/#lessformatter",
+      "https://devutils.com/demo/#scssformatter",
+      "https://devutils.com/demo/#xmlformatter",
+      "https://devutils.com/demo/#sqlformatter",
+      "https://devutils.com/demo/#linesortdedupe",
+      "https://devutils.com/demo/#querystringparser",
+      "https://devutils.com/demo/#yaml2json",
+      "https://devutils.com/demo/#json2yaml",
+      "https://devutils.com/demo/#numberbase",
+      "https://devutils.com/demo/#json2csv",
+      "https://devutils.com/demo/#csv2json",
+      "https://devutils.com/demo/#html2jsx",
+      "https://devutils.com/demo/#stringcaseconverter",
+      "https://devutils.com/demo/#php2json",
+      "https://devutils.com/demo/#json2php",
+      "https://devutils.com/demo/#phpserializer",
+      "https://devutils.com/demo/#phpunserializer",
+      "https://devutils.com/demo/#svg2css"
+    ]
+  },
+  "textSample": "DevUtils - All-in-one Toolbox for Developers Dev Utils Demo FAQs Changelog Pricing Download Fully supports Apple M-series & macOS Tahoe All-in-one Toolbox for Developers 47 + carefully crafted developer tools Native macOS app, fast & beautiful Work offline, and respect your data 4.9 Based on user reviews Download for macOS or install DevUtils like a real hacker: brew install devutils v 1.17.0 macOS 10.13+ Intel, Apple Silicon Your browser does not support the video tag. 🌏 Trusted by 10,000+ Productive Developers Damian Mehers Founder – Atadore Constantly open. A fantastic tool which saves me from having to remember a myriad web sites, and pasting text into sites of dubious origin. Chris Copleston Managing Director – 4DPrime Not only does DevUtils do the job, but in an intuitive and flexible way. A truly useful toolbox and a must have for any development team! Highly recommended. 10 out of 10. Devan Sabaratnam CTO – HR Partner I was ecstatic to find DevUtils . It as EVERYTHING I need as a developer in one spot. It was an absolute \"no brainer\" to buy a licence within minutes of downloading the app. Danilo Kleber Back-end Developer – Credere DevUtils has made my workflow faster and mind safe . The developer also does a good job receiving feedback and implementing suggestions. Totally worth it! Andy Mitchell Founder – ActiveInbox Very simple buy decision. I didn't realise it, but I'd fallen into the ridiculous habit of googling \"sha256 hash\" several times a day. [...] Having DevUtils open all the time just makes it feel so much lighter & faster! Simon Chiu Founder – Eager.app I use DevUtils daily in my professional workflow. It's opened right alongside my code editor. In a single app, I have everything I need to check for diffs, perform JSON conversions, minify code, and more. View more testimonials Your browser does not support the video tag. Your browser does not support the video tag. 🚀 Powerful Developer Tools 47 + hand crafted developer tools for your everyday task",
+  "assets": {
+    "ogImagePath": "screenshots/og-image.jpg",
+    "homepagePath": "screenshots/homepage.png"
+  }
+}

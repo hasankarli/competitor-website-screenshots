@@ -1,0 +1,205 @@
+{
+  "siteId": "outrank.so",
+  "name": "Outrank",
+  "url": "https://www.outrank.so/",
+  "config": {
+    "category": "SEO / AI",
+    "notes": ""
+  },
+  "canonicalUrl": "https://www.outrank.so",
+  "source": "html_fetch",
+  "scrapedAtUnix": 1779831411,
+  "meta": {
+    "title": "Outrank - Grow Organic Traffic on Auto-Pilot",
+    "description": "Get traffic and outrank competitors with Backlinks & SEO-optimized content while you sleep.",
+    "ogTitle": "Outrank - Grow Organic Traffic on Auto-Pilot",
+    "ogDescription": "Get traffic and outrank competitors with Backlinks & SEO-optimized content while you sleep.",
+    "ogImage": "https://www.outrank.so/opengraph-image.png?31d914fdfd6b5383",
+    "keywords": "Outrank",
+    "language": "en"
+  },
+  "content": {
+    "headings": [
+      {
+        "level": 1,
+        "text": "Grow Organic Traffic on Auto-Pilot"
+      },
+      {
+        "level": 2,
+        "text": "The Outrank effect"
+      },
+      {
+        "level": 2,
+        "text": "Your problem Our solution"
+      },
+      {
+        "level": 2,
+        "text": "How we make magic happen"
+      },
+      {
+        "level": 2,
+        "text": "Unlock your SEO growth"
+      },
+      {
+        "level": 2,
+        "text": "Boost your domain rating with Backlink Exchange"
+      },
+      {
+        "level": 2,
+        "text": "And so much more you need to do your best work."
+      },
+      {
+        "level": 2,
+        "text": "AI-generated content that humans love to read."
+      },
+      {
+        "level": 2,
+        "text": "One click to any platform"
+      },
+      {
+        "level": 2,
+        "text": "Make AI recommending Your Business"
+      },
+      {
+        "level": 2,
+        "text": "Loved by Busy Entrepreneurs!"
+      },
+      {
+        "level": 2,
+        "text": "Grow Organic Traffic on Auto-Pilot"
+      },
+      {
+        "level": 2,
+        "text": "Have Questions?"
+      },
+      {
+        "level": 2,
+        "text": "Start creating magic today with a free trial!"
+      },
+      {
+        "level": 2,
+        "text": "Add more products with All-in-One"
+      },
+      {
+        "level": 3,
+        "text": "Our DR went from 13 to 36 in 4 months , our traffic doubled"
+      },
+      {
+        "level": 3,
+        "text": "The biggest visible shift: our brand started getting picked up in AI answers"
+      },
+      {
+        "level": 3,
+        "text": "Cutting client SEO time from 40-50 hours to a streamlined content process"
+      },
+      {
+        "level": 3,
+        "text": "We publish more pages per client , see faster indexing , and observe clear increases in impressions and organic clicks"
+      },
+      {
+        "level": 3,
+        "text": "How AI chooses what to recommend ?"
+      }
+    ],
+    "featureBullets": [
+      "How it works",
+      "Writing Examples",
+      "30 Articles a month generated and published on auto-pilot",
+      "Unlimited Users in your Organization",
+      "Auto Keyword Research made for you hands-free",
+      "Connects to WordPress, Webflow, Shopify, Framer and more",
+      "High DR Backlinks built for you on auto-pilot through our Backlink Exchange",
+      "AI Images generated in different styles",
+      "Relevant YouTube videos integrated into articles",
+      "Articles generated in 150+ languages",
+      "Unlimited AI Rewrites",
+      "Custom Features requests",
+      "• 2-4 websites : Save 10% on your entire subscription",
+      "• 5-19 websites : Save 15% on your entire subscription",
+      "• 20+ websites : Save 20% on your entire subscription",
+      "• WordPress",
+      "• WordPress.com",
+      "• Webflow",
+      "• Notion",
+      "• Shopify",
+      "• API (Custom webhook)",
+      "Integrations",
+      "E-commerce & Shopify",
+      "Directory Submission"
+    ],
+    "ctaTexts": [
+      "Get Started for Free",
+      "Upgrade to All-in-One — $99/mo"
+    ],
+    "pricingHints": [
+      "$ 99",
+      "$ 200 /mo",
+      "$ 99 /mo",
+      "$99/mo",
+      "Free"
+    ]
+  },
+  "signals": {
+    "monetization": [
+      "subscription",
+      "freemium",
+      "trial"
+    ],
+    "techStack": [
+      "nextjs",
+      "wordpress",
+      "cloudflare"
+    ],
+    "hasPricingPage": true
+  },
+  "links": {
+    "pricing": "https://www.outrank.so/#pricing",
+    "featurePages": [
+      "https://www.outrank.so/tools-builder",
+      "https://www.outrank.so/tools",
+      "https://www.outrank.so/seotools",
+      "https://www.outrank.so/tools/content-brief-generator",
+      "https://www.outrank.so/tools/seo-title-generator",
+      "https://www.outrank.so/tools/cta-generator",
+      "https://www.outrank.so/tools/blog-outline-generator",
+      "https://www.outrank.so/tools/meta-description-generator"
+    ],
+    "internalSample": [
+      "https://www.outrank.so/",
+      "https://www.outrank.so/#howitworks",
+      "https://www.outrank.so/#examples",
+      "https://www.outrank.so/#pricing",
+      "https://www.outrank.so/blog",
+      "https://www.outrank.so/signin",
+      "https://www.outrank.so/success-stories/moonb",
+      "https://www.outrank.so/success-stories/aiapply",
+      "https://www.outrank.so/success-stories/bright-brands",
+      "https://www.outrank.so/success-stories/v-kster",
+      "https://www.outrank.so/integrations",
+      "https://www.outrank.so/integrations#wordpress",
+      "https://www.outrank.so/integrations#webflow",
+      "https://www.outrank.so/integrations#shopify",
+      "https://www.outrank.so/integrations#framer",
+      "https://www.outrank.so/integrations#wix",
+      "https://www.outrank.so/integrations#notion",
+      "https://www.outrank.so/integrations#ghost",
+      "https://www.outrank.so/integrations#wordpress-com",
+      "https://www.outrank.so/integrations#webhook",
+      "https://www.outrank.so/integrations#nextjs-blog",
+      "https://www.outrank.so/backlink-exchange",
+      "https://www.outrank.so/cdn-cgi/l/email-protection#4b383e3b3b24393f0b243e3f392a252065382474383e29212e283f760a2c2e2528326e797b3b39222822252c6e797b666e797b797e6e79096e797b38223f2e38",
+      "https://www.outrank.so/shopify",
+      "https://www.outrank.so/directory-submission-service",
+      "https://www.outrank.so/agency",
+      "https://www.outrank.so/for-agencies",
+      "https://www.outrank.so/tools-builder",
+      "https://www.outrank.so/success-stories",
+      "https://www.outrank.so/docs/webhook"
+    ]
+  },
+  "textSample": "Outrank - Grow Organic Traffic on Auto-Pilot How it works Writing Examples Pricing Blog Join with Google Start for Free How it works Writing Examples Pricing Sign In Grow Organic Traffic on Auto-Pilot Get recommended by ChatGPT & Rank on Google. Get done-for-you Blog Posts, Backlinks and Free Tools while you sleep. Join with Google Get Started for Free 750m+ Organic Views 10,000 + ChatGPT mentions secured 750,000 + Articles Created 25,000 + Backlinks Added CLIENTS SUCCESS The Outrank effect Our DR went from 13 to 36 in 4 months , our traffic doubled Lorenzo Nicolini Founder Moonb Read story The biggest visible shift: our brand started getting picked up in AI answers Aidan Cramer Co Founder aiapply.co Read story Cutting client SEO time from 40-50 hours to a streamlined content process Olaf van Gastel Founder Bright Brands Read story We publish more pages per client , see faster indexing , and observe clear increases in impressions and organic clicks Patrick Leth Partner Vækster Media ApS Vækster Read story Our DR went from 13 to 36 in 4 months , our traffic doubled Lorenzo Nicolini Founder Moonb Read story The biggest visible shift: our brand started getting picked up in AI answers Aidan Cramer Co Founder aiapply.co Read story Cutting client SEO time from 40-50 hours to a streamlined content process Olaf van Gastel Founder Bright Brands Read story We publish more pages per client , see faster indexing . Patrick Leth Partner Vækster Media ApS Vækster Read story Start for Free Problems & Solution Your problem Our solution - All You Need in One Place Replace multiple tools with one powerful platform: Keyword Searching Content Generation Content Optimization Images Localization HOW IT WORKS How we make magic happen We handle the SEO heavy lifting. Relax while we create daily ranking content to keep you ahead of the competition. Start for Free Deep analysis of your business We explore your niche, competitors, and target audience. Discover hidden keywords with high traffic",
+  "assets": {
+    "ogImagePath": "screenshots/og-image.jpg",
+    "homepagePath": "screenshots/homepage.png"
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "siteId": "revid.ai",
+  "name": "Revid",
+  "url": "https://www.revid.ai/",
+  "config": {
+    "category": "AI / Video",
+    "notes": ""
+  },
+  "canonicalUrl": "https://www.revid.ai",
+  "source": "html_fetch",
+  "scrapedAtUnix": 1779831409,
+  "meta": {
+    "title": "Revid AI - Ideate, Publish, Go Viral | #1 AI Video Generator",
+    "description": "Create viral short videos for TikTok, Instagram, and YouTube. Turn ideas into content instantly. Ideate, create, edit, publish - all in one. No skills needed.",
+    "ogTitle": "Revid AI - Ideate, Publish, Go Viral | #1 AI Video Generator",
+    "ogDescription": "Create viral short videos for TikTok, Instagram, and YouTube. Turn ideas into content instantly. Ideate, create, edit, publish - all in one. No skills needed.",
+    "ogImage": "https://www.revid.ai/api/og?title=Studio-Quality%20Video%20Making&cta=1",
+    "keywords": "",
+    "language": "en"
+  },
+  "content": {
+    "headings": [
+      {
+        "level": 1,
+        "text": "Create viral videos in Minutes"
+      },
+      {
+        "level": 2,
+        "text": "240,909+"
+      },
+      {
+        "level": 2,
+        "text": "14,258+"
+      },
+      {
+        "level": 2,
+        "text": "400+"
+      },
+      {
+        "level": 2,
+        "text": "32 languages"
+      },
+      {
+        "level": 2,
+        "text": "240 909+ short videos created by over 14 258 creators"
+      },
+      {
+        "level": 2,
+        "text": "Turn simple ideas into incredible videos"
+      },
+      {
+        "level": 2,
+        "text": "Everything You Need to Create Amazing Videos"
+      },
+      {
+        "level": 2,
+        "text": "The AI Music Video Generator is our users' favorite tool this month"
+      },
+      {
+        "level": 2,
+        "text": "Four simple steps to create and share your video"
+      },
+      {
+        "level": 2,
+        "text": "Why Creators Love Revid.ai"
+      },
+      {
+        "level": 2,
+        "text": "Free AI Video Tools"
+      },
+      {
+        "level": 2,
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "level": 2,
+        "text": "Your Ideas Deserve to Be Seen"
+      },
+      {
+        "level": 3,
+        "text": "Your ideas deserve more views"
+      },
+      {
+        "level": 3,
+        "text": "Solutions"
+      },
+      {
+        "level": 3,
+        "text": "Products"
+      },
+      {
+        "level": 3,
+        "text": "Free AI Video Tools"
+      }
+    ],
+    "featureBullets": [
+      "Showcase",
+      "Features",
+      "AI Video Tools",
+      "Music Video Creation",
+      "Identify the best performing formats",
+      "Get inspired by top creators",
+      "Turn your ideas into captivating videos",
+      "Write your script or just give the topic to our AI",
+      "The AI will suggest relevant content to inspire you",
+      "Paste a link, our AI analyzes it and turns it into a video",
+      "Watch your texts turn into professional videos",
+      "Automate video creation from your content"
+    ],
+    "ctaTexts": [],
+    "pricingHints": [
+      "$39/mo",
+      "free"
+    ]
+  },
+  "signals": {
+    "monetization": [
+      "subscription",
+      "freemium"
+    ],
+    "techStack": [
+      "nextjs",
+      "react"
+    ],
+    "hasPricingPage": true
+  },
+  "links": {
+    "pricing": "https://www.revid.ai/pricing",
+    "featurePages": [
+      "https://www.revid.ai/features",
+      "https://www.revid.ai/tools",
+      "https://www.revid.ai/tools/ai-music-video-generator",
+      "https://www.revid.ai/tools/ai-ad-generator",
+      "https://www.revid.ai/tools/talking-avatar",
+      "https://www.revid.ai/tools/prompt-to-video"
+    ],
+    "internalSample": [
+      "https://www.revid.ai/",
+      "https://www.revid.ai/category",
+      "https://www.revid.ai/features",
+      "https://www.revid.ai/tools",
+      "https://www.revid.ai/tools/ai-music-video-generator",
+      "https://www.revid.ai/login",
+      "https://www.revid.ai/reviews",
+      "https://www.revid.ai/tools/ai-ad-generator",
+      "https://www.revid.ai/tools/talking-avatar",
+      "https://www.revid.ai/tools/prompt-to-video",
+      "https://www.revid.ai/blog/how-revid-credits-are-used",
+      "https://www.revid.ai/faq",
+      "https://www.revid.ai/faq-for-llms.md",
+      "https://www.revid.ai/pricing",
+      "https://www.revid.ai/blog",
+      "https://www.revid.ai/mcp",
+      "https://www.revid.ai/affiliates",
+      "https://www.revid.ai/skills",
+      "https://www.revid.ai/about",
+      "https://www.revid.ai/attention-studio",
+      "https://www.revid.ai/tiktok-script-generator",
+      "https://www.revid.ai/youtube-short-script-generator",
+      "https://www.revid.ai/ai-script-generator",
+      "https://www.revid.ai/video-script-generator",
+      "https://www.revid.ai/tiktok-video-finder",
+      "https://www.revid.ai/caption-generator/instagram-caption-generator",
+      "https://www.revid.ai/caption-generator/tiktok-caption-generator",
+      "https://www.revid.ai/caption-generator/youtube-description-generator",
+      "https://www.revid.ai/caption-generator/youtube-title-generator",
+      "https://www.revid.ai/make"
+    ]
+  },
+  "textSample": "Revid AI - Ideate, Publish, Go Viral | #1 AI Video Generator Showcase Features AI Video Tools Music Video Creation Sign in Create viral videos in Minutes Turn your creative ideas into attention-grabbing TikTok, Instagram, and YouTube stories with just a few clicks. All you need is a story to tell - revid.ai handles the rest. Try for free No credit card required And loved by 14,258+ users 240,909+ videos created with revid.ai 14,258+ creators using revid.ai 400+ creators reached 100k+ views 32 languages and used in 68 countries Impact 240 909+ short videos created by over 14 258 creators Whether you're sharing personal experiences, learning moments, or entertainment - we help you tell stories that go viral. 100% generated Create Similar Video 100% generated Create Similar Video 100% generated Create Similar Video 100% generated Create Similar Video 100% generated Create Similar Video 100% generated Create Similar Video 100% generated Create Similar Video 100% generated Create Similar Video avatar + media generated Create Similar Video AI Magic Turn simple ideas into incredible videos See how Revid transforms basic text, images, or documents into studio-quality videos in minutes. AI Movie Maker Animate Photo PDF to Video Kids Song Text to Video YOUR IDEA Tool: AI Movie Maker Your Prompt Script automatically generated by Revid SCENE 1 – THE STRANGE BEGINNING\n\nExterior, Modena city walls, early morning, 1325. Dark clouds gather over medieval Italy. The camera slowly pushes in toward MATTEO OF MODENA, a battle-worn soldier in steel armor and chainmail, standing waist-up on the stone wall facing the camera. Soldiers move behind him preparing weapons.\n\n[Matteo of Modena – Veteran Soldier of Modena]\n(looking directly at the viewer)\n\nYou’d think wars start over land… or gold.\nBut the war I fought in… started because of a bucket.\n\n---\n\nSCENE 2 – THE BUCKET\n\nCamera slowly circles Matteo as he walks along the city well in Modena’s courtyard. He bends down and lifts an old woode",
+  "assets": {
+    "ogImagePath": "screenshots/og-image.jpg",
+    "homepagePath": "screenshots/homepage.png"
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "siteId": "typingmind.com",
+  "name": "TypingMind",
+  "url": "https://typingmind.com",
+  "config": {
+    "category": "AI / Chat",
+    "notes": "MRR ~$137K/m"
+  },
+  "canonicalUrl": "https://typingmind.com",
+  "source": "scrapling_fetch",
+  "scrapedAtUnix": 1779831422,
+  "meta": {
+    "title": "TypingMind — LLM Frontend Chat UI for AI models",
+    "description": "Chat with AI using your API keys. Pay only for what you use. ChatGPT, Gemini, Claude, and other LLMs supported. The best chat LLM frontend UI for all AI models.",
+    "ogTitle": "TypingMind — LLM Frontend Chat UI for AI models",
+    "ogDescription": "Chat with AI using your API keys. Pay only for what you use. ChatGPT, Gemini, Claude, and other LLMs supported. The best chat LLM frontend UI for all AI models.",
+    "ogImage": "https://image.social/get?url=typingmind.com",
+    "keywords": "",
+    "language": ""
+  },
+  "content": {
+    "headings": [
+      {
+        "level": 1,
+        "text": "The best frontend for LLMs"
+      },
+      {
+        "level": 2,
+        "text": "The all-in-one platform for AI chats"
+      },
+      {
+        "level": 2,
+        "text": "Bring more value to every token"
+      },
+      {
+        "level": 2,
+        "text": "Built for pro users"
+      },
+      {
+        "level": 2,
+        "text": "Build smart AI agents"
+      },
+      {
+        "level": 2,
+        "text": "Use plugins or build your own"
+      },
+      {
+        "level": 2,
+        "text": "Privacy-first AI workspace"
+      },
+      {
+        "level": 2,
+        "text": "What our customers say"
+      },
+      {
+        "level": 2,
+        "text": "Need more details? Gotcha"
+      },
+      {
+        "level": 3,
+        "text": "Trusted by the world's top organizations"
+      },
+      {
+        "level": 3,
+        "text": "Web Search"
+      },
+      {
+        "level": 3,
+        "text": "PowerPoint Generator"
+      },
+      {
+        "level": 3,
+        "text": "Mermaid Diagram"
+      },
+      {
+        "level": 3,
+        "text": "DALL-E 3"
+      },
+      {
+        "level": 3,
+        "text": "Azure AI Search"
+      },
+      {
+        "level": 3,
+        "text": "Image Search"
+      },
+      {
+        "level": 3,
+        "text": "Slack Message Notifier"
+      },
+      {
+        "level": 3,
+        "text": "Word Generator"
+      },
+      {
+        "level": 3,
+        "text": "Firecrawl Web Page Reader"
+      },
+      {
+        "level": 3,
+        "text": "Web Page Reader"
+      }
+    ],
+    "featureBullets": [
+      "Multiple plugins available Pre-built plugins",
+      "Create any plugins Create any plugins",
+      "Fully customizable outputs Customizable outputs",
+      "Flexible to any integration Easy integration",
+      "Organization & Management",
+      "📂 Project folders",
+      "📌 Pin favorite chats",
+      "🗑️ Bulk delete/archive chats",
+      "🏷️ Tags management",
+      "🧨 Dynamic context for projects",
+      "AI Models & Integration",
+      "🔄 Auto update latest AI",
+      "🤖 Custom AI models",
+      "☁️ Azure OpenAI support",
+      "🔌 OpenRouter integration",
+      "🔚 Custom endpoints & proxy",
+      "🎯 Fine-tuning models support",
+      "🛡️ Safety settings for Gemini",
+      "🧠 Reasoning effort control",
+      "🔥 Fireworks AI integration",
+      "✅ Domain check integration",
+      "🔍 Google/Kagi/Brave for search",
+      "Chat Experience",
+      "⚡ Stream AI responses support"
+    ],
+    "ctaTexts": [],
+    "pricingHints": []
+  },
+  "signals": {
+    "monetization": [
+      "subscription",
+      "one_time"
+    ],
+    "techStack": [
+      "nextjs",
+      "vercel"
+    ],
+    "hasPricingPage": false
+  },
+  "links": {
+    "pricing": "",
+    "featurePages": [],
+    "internalSample": []
+  },
+  "textSample": "TypingMind — LLM Frontend Chat UI for AI models Typing Mind The best frontend for LLMs Advanced chat UI for AI models. ChatGPT, Gemini, Claude, and more. All in one place. Data Visualization & Chart Rendering The AI client you actually own Centralized all LLM chats, multi-model support Bring your own API keys, private local data storage Build agents, prompts, plugins, knowledge base No subscription. Pay once, use forever. 20,641+ happy customers use TypingMind daily Get a lifetime license 50% off today! 14-day money-back guarantee. ❝This is the best ChatGPT client and I tested so many! So much better than the OpenAI user interface.❞ Mirel Vasile Co-founder Nextasee and Anticipal Why TypingMind The all-in-one platform for AI chats More than 20,641+ customers have set up their own personal AI workspaces. Get a lifetime license Multi AI chat models Access ChatGPT, Claude, Gemini, and any LLMs through a single interface. Seamlessly switch between different AI providers as needed. No monthly fee, no usage limit Bring your own API keys and only pay for actual usage. No recurring fees, subscriptions, or limitations on your usage. Privacy-first local storage All your data remains securely stored on your device. Zero data collection or transmission for AI model training purposes. Best-in-class powerful features Complete suite of professional tools featuring Project settings, Canvas editors, Artifacts, and beyond. Comprehensive AI Agent builder Design custom AI agents, develop plugins, and create prompts. Seamlessly integrate with your existing data infrastructure. Flexible integration via plugins Enhance functionality by connecting your preferred tools and data sources through our comprehensive plugin systems. Trusted by the world's top organizations From universities and colleges, startups to Fortune 500 companies, TypingMind is the go-to AI workspace for their members who use AI every day in their work Get a lifetime license now Powerful features Bring more value to every ",
+  "assets": {
+    "ogImagePath": "screenshots/og-image.jpg",
+    "homepagePath": "screenshots/homepage.png"
+  }
+}
