@@ -1,0 +1,181 @@
+{
+  "siteId": "interiorai.com",
+  "name": "InteriorAI",
+  "url": "https://interiorai.com",
+  "config": {
+    "category": "AI / Interior",
+    "notes": "MRR ~$35K/m"
+  },
+  "canonicalUrl": "https://interiorai.com/",
+  "source": "html_fetch",
+  "scrapedAtUnix": 1779830204,
+  "meta": {
+    "title": "Interior AI™ | AI Interior Design + Virtual Staging AI App",
+    "description": "Get interior design ideas using artificial intelligence and virtually stage interiors for real estate listings with different interior styles. Take a picture...",
+    "ogTitle": "Interior AI™ | AI Interior Design + Virtual Staging AI App",
+    "ogDescription": "Get interior design ideas using artificial intelligence and virtually stage interiors for real estate listings with different interior styles. Take a picture of a room and instantly redesign it with AI. Upload a photo of your interior and transform it completely. Instantly redesign, furnish, reimagine any home interior, exterior or garden. Interior AI brings the expertise of an interior designer right into your pocket!\n\n\t\t\n\t\t\t🤳 Take a photo of your current interior and let AI redesign it in seconds\n\t\t\n\t\t\n\t\t\t🎨 Choose an interior style from Modern, Minimalist to Contemporary\n\t\t\n\t\t\n\t\t\t⚡️ Transform your sketches and SketchUp files into photorealistic renders\n\t\t\n\t\t\n\t\t\t🏡 Use Virtual Staging AI to furnish empty homes for real estate\n\t\t\n\t\t\n\t\t\t📼 Turn your renders into 3d flythrough videos",
+    "ogImage": "https://url2og.com/?url=https://interiorai.com",
+    "keywords": "",
+    "language": ""
+  },
+  "content": {
+    "headings": [
+      {
+        "level": 1,
+        "text": "🔥 Fire your interior designer"
+      },
+      {
+        "level": 1,
+        "text": "Interior AI ™"
+      },
+      {
+        "level": 1,
+        "text": "Interior AI ™"
+      },
+      {
+        "level": 2,
+        "text": "Take a photo and redesign your interior in seconds using AI"
+      },
+      {
+        "level": 2,
+        "text": "Transform empty spaces into stunning interiors"
+      },
+      {
+        "level": 2,
+        "text": "Walk inside your interior designs in 3D"
+      },
+      {
+        "level": 2,
+        "text": "Transform your sketches and SketchUp into photorealistic renders"
+      },
+      {
+        "level": 2,
+        "text": "Design gardens and outdoor spaces"
+      },
+      {
+        "level": 2,
+        "text": "Virtual Staging AI: fill empty homes for real estate listings"
+      },
+      {
+        "level": 2,
+        "text": "Customers can't stop raving about their AI interior designs"
+      },
+      {
+        "level": 2,
+        "text": "The most detailed AI interior designer available"
+      },
+      {
+        "level": 2,
+        "text": "Create 3d flythroughs with AI"
+      },
+      {
+        "level": 2,
+        "text": "How does Interior AI compare to other AI interior designers?"
+      },
+      {
+        "level": 2,
+        "text": "Frequently asked questions"
+      },
+      {
+        "level": 2,
+        "text": "Choose from 55+ interior design styles"
+      },
+      {
+        "level": 2,
+        "text": "Plans & pricing"
+      },
+      {
+        "level": 2,
+        "text": "Pro"
+      },
+      {
+        "level": 2,
+        "text": "Premium"
+      },
+      {
+        "level": 2,
+        "text": "Ultra"
+      },
+      {
+        "level": 2,
+        "text": "Pro"
+      }
+    ],
+    "featureBullets": [
+      "Create 1,000 interior designs",
+      "Flux™ model",
+      "Features:",
+      "Low quality renders",
+      "Realistic interiors",
+      "Generate up to 4 rooms in parallel",
+      "➡️ Upload your own room interior",
+      "Write your own design prompts",
+      "Remix any interior style",
+      "Commercial use license",
+      "Create 5,000 interior designs",
+      "Hyper Realism™ ← All Pro features, plus:",
+      "← All Pro features, plus:",
+      "Medium quality renders",
+      "High realism and lighting",
+      "Generate up to 8 rooms in parallel",
+      "✍️ Edit designs",
+      "🎭 Virtual staging",
+      "♻️ Upscale interiors",
+      "🎨 Paint walls",
+      "💡 Change lighting",
+      "👱‍♀️ Add people",
+      "🔍 Google Lens",
+      "🎬 Generate walkthrough videos"
+    ],
+    "ctaTexts": [
+      "Upgrade now",
+      "Subscribe →",
+      "Sign up or Log in"
+    ],
+    "pricingHints": [
+      "$60",
+      "$70",
+      "$3",
+      "$35",
+      "$390/year",
+      "$49",
+      "$99",
+      "$199",
+      "$29",
+      "$349",
+      "$599",
+      "$1199"
+    ]
+  },
+  "signals": {
+    "monetization": [
+      "subscription"
+    ],
+    "techStack": [
+      "cloudflare",
+      "stripe"
+    ],
+    "hasPricingPage": true
+  },
+  "links": {
+    "pricing": "https://interiorai.com/billing",
+    "featurePages": [],
+    "internalSample": [
+      "https://interiorai.com/?action=login-with-google&ref=&via=&style=",
+      "https://interiorai.com/",
+      "https://interiorai.com/billing",
+      "https://interiorai.com/interior-design",
+      "https://interiorai.com/upgrade?hash=",
+      "https://interiorai.com/interior-design/modern-style-bedroom-interior-with-bedside-table-or-night-stand-and-plant-and-182135",
+      "https://interiorai.com/interior-design/airbnb-style-living-room-interior-with-sofa-and-televisions-and-chairs-and-boo-182203",
+      "https://interiorai.com/legal",
+      "https://interiorai.com/interior-designs",
+      "https://interiorai.com/faq",
+      "https://interiorai.com/billing?hash="
+    ]
+  },
+  "textSample": "Interior AI™ | AI Interior Design + Virtual Staging AI App Tooltip test with text in it #1 AI Interior App 🔥 Fire your interior designer Upload a photo of your interior and transform it completely. Instantly redesign, furnish, reimagine any home interior, exterior or garden. Interior AI brings the expertise of an interior designer right into your pocket! 🤳 Take a photo of your current interior and let AI redesign it in seconds 🎨 Choose an interior style from Modern, Minimalist to Contemporary ⚡️ Transform your sketches and SketchUp files into photorealistic renders 🏡 Use Virtual Staging AI to furnish empty homes for real estate 📼 Turn your renders into 3d flythrough videos ✨ Get your first redesigns in less than a minute! I agree to the Terms of Service Redesign your interior now → or Continue with Google If you already have an account, we'll log you in used by and seen on \"The app produced new renderings in seconds — showing what the office’s entryway would look like with colored lights, contoured furniture and a new set of shelves.\" \"Interior AI, an app that taps generative AI to restyle images of spaces\" \"Snap a photo of your living room, and Interior AI will redesign it. Interior AI could become an intriguing new tool for interior design ideation, or even real estate virtual staging\" Interior AI ™ Pricing Log in Billing Gallery Redesign yours → Welcome to Interior AI! Start by taking a photo of your interior, and uploading it in the box below. Select the room type and style and tap [ Create design ] and see what happens! Boost your Interior AI experience Generate 5,000 interiors/mo and get priority access with lightning fast response times. Upgrade to Premium for just $60 more a month. Upgrade now No thanks, hide this Your current interior Upload a photo of your interior that you'd like to redesign, or a screenshot from SketchUp Take a photo (with 0.5x zoom), tap to select a photo from your gallery  or take a photo Room Living room Bedroom Kitchen Kitchen living",
+  "assets": {
+    "ogImagePath": "screenshots/og-image.jpg"
+  }
+}

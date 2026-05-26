@@ -1,0 +1,197 @@
+{
+  "siteId": "levelsio.com",
+  "name": "levelsio",
+  "url": "https://levelsio.com",
+  "config": {
+    "category": "Personal / Portfolio",
+    "notes": "MRR ~$14K/m"
+  },
+  "canonicalUrl": "https://levelsio.com/",
+  "source": "html_fetch",
+  "scrapedAtUnix": 1779830206,
+  "meta": {
+    "title": "@levelsio.com | techno optimist wear",
+    "description": "wear techno optimism - 2000+ items sold",
+    "ogTitle": "@levelsio.com | techno optimist wear",
+    "ogDescription": "wear techno optimism - 2000+ items sold",
+    "ogImage": "https://imgproxy.fourthwall.dev/457N5kWKvGj-rRPPfwnTVvpjwru3k0negFgjDVBzVCs/w:1200/sm:1/enc/f1yOLY_eD-zSVph1/pKGUPkxIwFzCv3jH/XdjP1ThbBYZRHoS7/j-VO6IA_eFzF9M-L/mJstIRvcQZmb-KHl/D0dAZW57vfu8_TTH/rIVsMk6BUz2PGGL0/CDckZ5huLDUp1bTq/Yutehl9EE-bwQnAQ/SqU8sH_h7hA9hbU7/b0gv5QTn70ShuCVb/-LybTTNez0J0j0r2/Ij5ZuNTq9_AScUE5/f3SN9uC1PLuChuXE/RAIOTFoP2M-3yL0z/XvSHikKfHBos0bR-.png",
+    "keywords": "",
+    "language": "en"
+  },
+  "content": {
+    "headings": [
+      {
+        "level": 1,
+        "text": "@levelsio.com | techno optimist wear"
+      },
+      {
+        "level": 3,
+        "text": "make europe great again cap/hat (MEGA eu/acc official) blue - 100% cotton"
+      },
+      {
+        "level": 3,
+        "text": "ultrathink hat - 100% cotton"
+      },
+      {
+        "level": 3,
+        "text": "\"You're absolutely right!\" hat - 100% cotton"
+      },
+      {
+        "level": 3,
+        "text": "make europe great again t-shirt - 100% cotton"
+      },
+      {
+        "level": 3,
+        "text": "you can just do things cap / hat - 100% cotton"
+      },
+      {
+        "level": 3,
+        "text": "Permanent underclass hat - 100% cotton"
+      },
+      {
+        "level": 3,
+        "text": "[ 🧠 Thought for 1 second ] hat - 100% cotton"
+      },
+      {
+        "level": 3,
+        "text": "eu/acc official hoodie - 65% soft cotton"
+      },
+      {
+        "level": 3,
+        "text": "eu/acc official sweatshirt - 65% cotton"
+      },
+      {
+        "level": 3,
+        "text": "founder mode hat - 100% cotton"
+      },
+      {
+        "level": 3,
+        "text": "made in europe heavyweight t-shirt (eu/acc official) - 100% ring-spun cotton"
+      },
+      {
+        "level": 3,
+        "text": "palo alto research center (parc) t-shirt - 100% cotton"
+      },
+      {
+        "level": 3,
+        "text": "us-east-1 crew hat - 100% cotton"
+      },
+      {
+        "level": 3,
+        "text": "vibe coder hat - 100% cotton"
+      },
+      {
+        "level": 3,
+        "text": "1982 database engineering t-shirt (100% cotton)"
+      },
+      {
+        "level": 3,
+        "text": "attention is all you need t-shirt (100% cotton)"
+      },
+      {
+        "level": 3,
+        "text": "computer corporation of america hats (100% cotton)"
+      },
+      {
+        "level": 3,
+        "text": "department of agi and growth t-shirt - 100% organic cotton"
+      },
+      {
+        "level": 3,
+        "text": "eu/acc official mug - 100% ceramic"
+      }
+    ],
+    "featureBullets": [
+      "★ BESTSELLERS",
+      "why wear @levelsio?",
+      "▨ make book",
+      "◢ telegram chat",
+      "pieter.com",
+      "see all products",
+      "girls only",
+      "eu/acc official",
+      "tech wear",
+      "anti degrowth",
+      "100% cotton",
+      "t-shirts & tops",
+      "stickers",
+      "sweatshirts",
+      "swimwear",
+      "#indiehacker",
+      "★ create your own merch store w/ Fourthwall",
+      "← return to X",
+      "Returns & FAQ",
+      "Privacy Policy",
+      "Terms of Service",
+      "© 2026 @levelsio.com | techno optimist wear",
+      "Supporter"
+    ],
+    "ctaTexts": [],
+    "pricingHints": [
+      "$100",
+      "$35.00",
+      "$60.00",
+      "$50.00",
+      "$30.00",
+      "$80.00",
+      "$10.00",
+      "FREE"
+    ]
+  },
+  "signals": {
+    "monetization": [],
+    "techStack": [
+      "stripe"
+    ],
+    "hasPricingPage": false
+  },
+  "links": {
+    "pricing": "",
+    "featurePages": [
+      "https://levelsio.com/products/make-europe-great-again-eu-acc-official-hat-blue-100-cotton",
+      "https://levelsio.com/products/ultrathink-hat-100-cotton",
+      "https://levelsio.com/products/youre-absolutely-right-hat-100-cotton",
+      "https://levelsio.com/products/make-europe-great-again-t-shirt",
+      "https://levelsio.com/products/you-can-just-do-things-cap-hat-100-cotton",
+      "https://levelsio.com/products/permanent-underclass-hat-100-cotton",
+      "https://levelsio.com/products/thought-for-1-second-hat-100-cotton",
+      "https://levelsio.com/products/eu-acc-official-hoodie-65-soft-cotton"
+    ],
+    "internalSample": [
+      "https://levelsio.com/",
+      "https://levelsio.com/supporters",
+      "https://levelsio.com/cart",
+      "https://levelsio.com/collections/bestsellers-2",
+      "https://levelsio.com/pages/about",
+      "https://levelsio.com/collections/pieter-com",
+      "https://levelsio.com/collections/all",
+      "https://levelsio.com/collections/girls-only",
+      "https://levelsio.com/collections/eu-acc",
+      "https://levelsio.com/collections/tech-wear",
+      "https://levelsio.com/collections/anti-degrowth",
+      "https://levelsio.com/collections/100-cotton",
+      "https://levelsio.com/collections/hoodies",
+      "https://levelsio.com/collections/t-shirts",
+      "https://levelsio.com/collections/hats",
+      "https://levelsio.com/collections/stickers",
+      "https://levelsio.com/collections/mugs",
+      "https://levelsio.com/collections/sweatshirts",
+      "https://levelsio.com/collections/swimwear",
+      "https://levelsio.com/collections/bags",
+      "https://levelsio.com/collections/indiehacker",
+      "https://levelsio.com/products/make-europe-great-again-eu-acc-official-hat-blue-100-cotton",
+      "https://levelsio.com/products/ultrathink-hat-100-cotton",
+      "https://levelsio.com/products/youre-absolutely-right-hat-100-cotton",
+      "https://levelsio.com/products/make-europe-great-again-t-shirt",
+      "https://levelsio.com/products/you-can-just-do-things-cap-hat-100-cotton",
+      "https://levelsio.com/products/permanent-underclass-hat-100-cotton",
+      "https://levelsio.com/products/thought-for-1-second-hat-100-cotton",
+      "https://levelsio.com/products/eu-acc-official-hoodie-65-soft-cotton",
+      "https://levelsio.com/products/eu-acc-official-sweatshirt-65-cotton"
+    ]
+  },
+  "textSample": "@levelsio.com | techno optimist wear 💡 Ideas + 🪲 Bugs FREE SHIPPING ON ORDERS OVER $100 @levelsio.com | techno optimist wear @levelsio.com | techno optimist wear Account Cart Hamburger @levelsio.com | techno optimist wear Cart Close ★ BESTSELLERS why wear @levelsio? ▨ make book ◢ telegram chat pieter.com see all products girls only eu/acc official tech wear anti degrowth 100% cotton hoodies t-shirts & tops hats stickers mugs sweatshirts swimwear bags #indiehacker ★ create your own merch store w/ Fourthwall ← return to X ★ BESTSELLERS why wear @levelsio? ▨ make book ◢ telegram chat pieter.com see all products girls only eu/acc official tech wear anti degrowth 100% cotton hoodies t-shirts & tops hats stickers mugs sweatshirts swimwear bags #indiehacker ★ create your own merch store w/ Fourthwall ← return to X SEE ALL PRODUCTS make europe great again cap/hat (MEGA eu/acc official) blue - 100% cotton $35.00 ultrathink hat - 100% cotton $35.00 \"You're absolutely right!\" hat - 100% cotton $35.00 make europe great again t-shirt - 100% cotton $35.00 you can just do things cap / hat - 100% cotton $35.00 +3 Permanent underclass hat - 100% cotton $35.00 [ 🧠 Thought for 1 second ] hat - 100% cotton $35.00 eu/acc official hoodie - 65% soft cotton $60.00 eu/acc official sweatshirt - 65% cotton $50.00 founder mode hat - 100% cotton $35.00 made in europe heavyweight t-shirt (eu/acc official) - 100% ring-spun cotton $30.00 palo alto research center (parc) t-shirt - 100% cotton $30.00 us-east-1 crew hat - 100% cotton $35.00 vibe coder hat - 100% cotton $35.00 +1 1982 database engineering t-shirt (100% cotton) $30.00 +1 attention is all you need t-shirt (100% cotton) $30.00 +1 computer corporation of america hats (100% cotton) $35.00 department of agi and growth t-shirt - 100% organic cotton $30.00 eu/acc official mug - 100% ceramic $30.00 founder mode hat (100% cotton) $35.00 founder mode retro light t-shirt (100% cotton) $30.00 i'm a crud monkey hat - 100% cotton (by @dhh) $35.00 i'",
+  "assets": {
+    "ogImagePath": "screenshots/og-image.png"
+  }
+}

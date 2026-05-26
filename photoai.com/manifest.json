@@ -1,0 +1,205 @@
+{
+  "siteId": "photoai.com",
+  "name": "PhotoAI",
+  "url": "https://photoai.com",
+  "config": {
+    "category": "AI / Photo",
+    "notes": "MRR ~$100K/m"
+  },
+  "canonicalUrl": "https://photoai.com/",
+  "source": "html_fetch",
+  "scrapedAtUnix": 1779830196,
+  "meta": {
+    "title": "AI Video Generator & Image Generator by Photo AI",
+    "description": "Generate photorealistic images and videos of people with AI. Take stunning photos of people with the first AI Photographer! Generate photo and video content ...",
+    "ogTitle": "AI Video Generator & Image Generator by Photo AI",
+    "ogDescription": "Generate photorealistic images and videos of people with AI. Take stunning photos of people with the first AI Photographer! Generate photo and video content for your social media with AI. Save time and money and do an AI photo shoot from your laptop or phone instead of hiring an expensive photographer. Take photos featuring yourself as an AI model. Every AI model you create gets FREE photos. Now with super fast training meaning you get your first photos in less than a minute!\n\t\t\n\t\t\t✏️ Upload your selfies → Create an AI model of yourself\n\t\t\n\t\t\n\t\t\t👸 ...or create a 100% AI influencer to monetize\n\t\t\n\t\t\n\t\t\t📸 Then take AI photos with your AI model in any pose, place or action\n\t\t\n\t\t\n\t\t\t🎥 And create AI Mocap videos starring your AI model as the main character\n\t\t\n\t\t\n\t\t\t❤️ Run 100s of photo packs like AI Dating or Hinge\n\t\t\n\t\t\n\t\t\t🎁 Create product videos and try on clothes with your AI model",
+    "ogImage": "https://photoai.com/assets/social-image-3.jpg",
+    "keywords": "",
+    "language": "en-US"
+  },
+  "content": {
+    "headings": [
+      {
+        "level": 1,
+        "text": "🔥 Fire your photographer"
+      },
+      {
+        "level": 1,
+        "text": "Photo AI ™"
+      },
+      {
+        "level": 1,
+        "text": "1) Sign up to Photo AI"
+      },
+      {
+        "level": 1,
+        "text": "2) Create your first AI model"
+      },
+      {
+        "level": 1,
+        "text": "3) Select 🍌 Nano Banana Pro as your model"
+      },
+      {
+        "level": 1,
+        "text": "4) Done!"
+      },
+      {
+        "level": 1,
+        "text": "⚠️ FYI: all the photos you see in this article were taken with Photo AI!"
+      },
+      {
+        "level": 1,
+        "text": "Create your first AI influencer"
+      },
+      {
+        "level": 1,
+        "text": "Photo AI ™"
+      },
+      {
+        "level": 2,
+        "text": "Upload your selfies and start taking stunning AI photos now"
+      },
+      {
+        "level": 2,
+        "text": "📸 Multi-person support: Create photos of you and your bf/gf together"
+      },
+      {
+        "level": 2,
+        "text": "The most detailed AI photo generator ever with Hyper Realism™"
+      },
+      {
+        "level": 2,
+        "text": "Create product videos with AI models"
+      },
+      {
+        "level": 2,
+        "text": "The first fully equipped AI photo studio for people"
+      },
+      {
+        "level": 2,
+        "text": "Customers can't stop raving about the photos they took"
+      },
+      {
+        "level": 2,
+        "text": "🔥 New photo packs just dropped"
+      },
+      {
+        "level": 2,
+        "text": "Create your own AI model"
+      },
+      {
+        "level": 2,
+        "text": "Or...create an AI influencer"
+      },
+      {
+        "level": 2,
+        "text": "Generate photos & videos in any pose or place"
+      },
+      {
+        "level": 2,
+        "text": "Create AI videos"
+      }
+    ],
+    "featureBullets": [
+      "Sign up to Photo AI , login and then click [Create new AI model]",
+      "Fill in your info: Name of your model (example: “Pieter 2025”) Gender Age Ethnicity Eye color",
+      "Name of your model (example: “Pieter 2025”)",
+      "Ethnicity",
+      "Eye color",
+      "Then upload 20 photos of yourself: Vary the angles, lighting, backgrounds, and expressions Avoid filters, sunglasses, Instagram screenshots or group photos",
+      "Vary the angles, lighting, backgrounds, and expressions",
+      "Avoid filters, sunglasses, Instagram screenshots or group photos",
+      "Click [Create model]",
+      "Professional headshots for resumes or LinkedIn",
+      "Dating profile photos for apps like Tinder and Hinge",
+      "Instagram -ready lifestyle content",
+      "Tinder – Eye-catching dating profile pics with great poses and vibrant colors to help you get more matches",
+      "Hinge – More natural, candid moments to reflect personality and spark real conversations",
+      "Luxury Lifestyle – You in Dubai penthouses, yachts, and private jets. Opulence everywhere",
+      "Old Money – Ivy League tennis clubs, polo outfits, and timeless rich-kid energy",
+      "Instagram – Influencer-ready content with lighting and vibe tailored to maximize likes",
+      "LinkedIn Headshots – Studio-quality portraits with neutral backgrounds and sharp lighting",
+      "Startup Founder Headshots – Bold, modern photos for pitch decks, websites, or investor decks",
+      "CEO Headshots – Strong, formal looks for media, board meetings, and executive branding",
+      "1950s Film Noir – Black and white drama shots with classic Hollywood lighting",
+      "Santorini Summer – You in Mediterranean paradise, bathed in Greek island light",
+      "Cosplay – Transform into your favorite characters with cinematic flair",
+      "Bali Influencer – Pool villas, tropical vibes, and that Canggu aesthetic"
+    ],
+    "ctaTexts": [
+      "Subscribe →",
+      "How do I upgrade or downgrade my plan?",
+      "Sign up or Log in"
+    ],
+    "pricingHints": [
+      "$10",
+      "$500",
+      "$2",
+      "$100",
+      "$1000",
+      "$19",
+      "$49",
+      "$99",
+      "$199",
+      "$9",
+      "$29",
+      "$349"
+    ]
+  },
+  "signals": {
+    "monetization": [
+      "subscription",
+      "one_time",
+      "enterprise"
+    ],
+    "techStack": [
+      "react",
+      "cloudflare",
+      "stripe"
+    ],
+    "hasPricingPage": true
+  },
+  "links": {
+    "pricing": "https://photoai.com/pricing",
+    "featurePages": [
+      "https://photoai.com/tools"
+    ],
+    "internalSample": [
+      "https://photoai.com/?action=login-with-google&ref=&via=&template=",
+      "https://photoai.com/",
+      "https://photoai.com/#packs",
+      "https://photoai.com/ai-dating-photos",
+      "https://photoai.com/hinge",
+      "https://photoai.com/bumble",
+      "https://photoai.com/tinder",
+      "https://photoai.com/badoo",
+      "https://photoai.com/beach-bikini",
+      "https://photoai.com/glamour",
+      "https://photoai.com/swimsuit",
+      "https://photoai.com/virtual-suits-try-on",
+      "https://photoai.com/mocha-mousse-outfits",
+      "https://photoai.com/cloud-dancer-outfits",
+      "https://photoai.com/puffer-jacket",
+      "https://photoai.com/virtual-try-on-clothes",
+      "https://photoai.com/traditional-clothes",
+      "https://photoai.com/cyberpunk",
+      "https://photoai.com/korean-profile-photo",
+      "https://photoai.com/gorpcore",
+      "https://photoai.com/y2k-aesthetic",
+      "https://photoai.com/street-style",
+      "https://photoai.com/retro-y2k",
+      "https://photoai.com/hair-scarves",
+      "https://photoai.com/keynote-speaker",
+      "https://photoai.com/author-headshots",
+      "https://photoai.com/doctor-headshots",
+      "https://photoai.com/podcast-host-studio",
+      "https://photoai.com/life-coach-headshots",
+      "https://photoai.com/actor-headshots"
+    ]
+  },
+  "textSample": "AI Video Generator & Image Generator by Photo AI #1 AI Photographer 🔥 Fire your photographer Take stunning photos of people with the first AI Photographer! Generate photo and video content for your social media with AI. Save time and money and do an AI photo shoot from your laptop or phone instead of hiring an expensive photographer. Take photos featuring yourself as an AI model. Every AI model you create gets FREE photos. Now with super fast training meaning you get your first photos in less than a minute! ✏️ Upload your selfies → Create an AI model of yourself 👸 ...or create a 100% AI influencer to monetize 📸 Then take AI photos with your AI model in any pose, place or action 🎥 And create AI Mocap videos starring your AI model as the main character ❤️ Run 100s of photo packs like AI Dating or Hinge 🎁 Create product videos and try on clothes with your AI model Now with 🍌 Nano Banana 2! Photo AI is the first AI Photographer in the world. Train photo models with AI, and then use the AI Photographer to take photos with them. Photos you see below are taken with Photo AI and look real, but are 100% AI. I agree to the Terms of Service Start taking AI photos now → 🌟 29,652,558 photos generated or Continue with Google If you already have an account, we'll log you in as seen on and used by \"Photo AI is making money by selling the computing cycles required to run the prompts and spit out a set of images\" \"Photo AI can help content creators save time and money as they'll no longer need to travel or hire expensive photographers to do photoshoots\" \"Photo AI will be able to generate a virtually limitless number of portraits of that person with different clothing...\" 0 0 : 0 0 : 0 0 : 0 0 Limited time offer: 6 MONTHS FREE Claim now → 0 0 : 0 0 : 0 0 : 0 0 Limited time offer: 6 MONTHS FREE Claim now → 0 0 : 0 0 : 0 0 : 0 0 Limited time offer: 6 MONTHS FREE Claim now → 0 0 : 0 0 : 0 0 : 0 0 Limited time offer: 6 MONTHS FREE Claim now → 0 0 : 0 0 : 0 0 : 0 0 Limited time offer: 6 MO",
+  "assets": {
+    "ogImagePath": "screenshots/og-image.jpg"
+  }
+}

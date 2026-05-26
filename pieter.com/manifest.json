@@ -1,0 +1,45 @@
+{
+  "siteId": "pieter.com",
+  "name": "Pieter",
+  "url": "https://pieter.com",
+  "config": {
+    "category": "Personal",
+    "notes": "MRR ~$0/m"
+  },
+  "canonicalUrl": "http://pieter.com",
+  "source": "html_fetch",
+  "scrapedAtUnix": 1779830212,
+  "meta": {
+    "title": "Windows 3.11 Emulator - retro computer with dial-up internet by Pieter™",
+    "description": "Windows 3.11 Emulator - retro computer with working dial-up modem internet with Winsock that lives inside your browser by @levelsio",
+    "ogTitle": "Windows 3.11 Emulator - retro computer with dial-up internet by Pieter™",
+    "ogDescription": "Windows 3.11 Emulator - retro computer with working dial-up modem internet with Winsock that lives inside your browser by @levelsio",
+    "ogImage": "https://pieter.com/assets/social-media-image.png?4",
+    "keywords": "",
+    "language": ""
+  },
+  "content": {
+    "headings": [],
+    "featureBullets": [],
+    "ctaTexts": [],
+    "pricingHints": [
+      "$ 4"
+    ]
+  },
+  "signals": {
+    "monetization": [],
+    "techStack": [],
+    "hasPricingPage": false
+  },
+  "links": {
+    "pricing": "",
+    "featurePages": [],
+    "internalSample": [
+      "https://pieter.com/~pieter"
+    ]
+  },
+  "textSample": "Windows 3.11 Emulator - retro computer with dial-up internet by Pieter™ ❓ Help 💡 Ideas + 🪲 Bugs by @levelsio + @bai0 Go fullscreen Toggle shader Loading... Downloading... ESC ! 1 @ 2 # 3 $ 4 % 5 ^ 6 & 7 * 8 ( 9 ) 0 _ - + = ← BACKSPACE TAB Q W E R T Y U I O P { [ } ] | \\ DEL CAPS A S D F G H J K L : ; \" ' ⏎ ENTER ⇧ SHIFT Z X C V B N M , . ? / ⇧ SHIFT ↑ PRINT CTRL ALT ALT ← ↓ →",
+  "assets": {
+    "ogImagePath": "screenshots/og-image.png"
+  }
+}

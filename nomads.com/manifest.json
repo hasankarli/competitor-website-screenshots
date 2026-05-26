@@ -1,0 +1,115 @@
+{
+  "siteId": "nomads.com",
+  "name": "Nomads",
+  "url": "https://nomads.com",
+  "config": {
+    "category": "Community / Travel",
+    "notes": "MRR ~$10K/m"
+  },
+  "canonicalUrl": "https://nomads.com/",
+  "source": "html_fetch",
+  "scrapedAtUnix": 1779830208,
+  "meta": {
+    "title": "Nomads.com - Best Places to Live for Digital Nomads (formerly Nomad List)",
+    "description": "Learn how to become a digital nomad and find the best places to live and work remotely as a location independent remote worker. Explore places based on cost of living, internet speed, weather and other metrics. For startups that work remotely and remote workers.",
+    "ogTitle": "Nomads.com",
+    "ogDescription": "🌍 Go nomad: Join a global community of remote workers living around the world",
+    "ogImage": "https://url2og.com/?url=https%3A%2F%2Fnomads.com%2F",
+    "keywords": "",
+    "language": "en-US"
+  },
+  "content": {
+    "headings": [
+      {
+        "level": 1,
+        "text": "Nomad List"
+      },
+      {
+        "level": 1,
+        "text": "🌍 Go nomad"
+      },
+      {
+        "level": 1,
+        "text": "Portugal"
+      },
+      {
+        "level": 2,
+        "text": "{itemName}"
+      },
+      {
+        "level": 3,
+        "text": "{itemSub}"
+      }
+    ],
+    "featureBullets": [
+      "Visit Safe Places in France 590x viewed",
+      "Ericeira Portugal ⭐️ Overall All 💵 Cost 🧐 Pricey 📡 Internet WiFi 🚀 Super fast 👍 Liked great 👮 Safety great Tap to open ☀️ Feels 35° 95° 31° 88° 🥵 46 $3,713 / mo 89 Mbps ×",
+      "{itemName} {itemSub} {badge} {descriptionFromReview} {label-main-score} 💵 Cost 📡 Internet WiFi 👍 Liked 👮 Safety Tap to open {bottom-left} {top-left} {bottom-right} {top-right} ×"
+    ],
+    "ctaTexts": [
+      "Sign up →"
+    ],
+    "pricingHints": [
+      "$2",
+      "$3",
+      "$1",
+      "$39.98",
+      "$19.99",
+      "$19.98",
+      "$9.99",
+      "free"
+    ]
+  },
+  "signals": {
+    "monetization": [
+      "subscription",
+      "one_time"
+    ],
+    "techStack": [
+      "wordpress",
+      "cloudflare",
+      "stripe"
+    ],
+    "hasPricingPage": true
+  },
+  "links": {
+    "pricing": "https://nomads.com/billing",
+    "featurePages": [],
+    "internalSample": [
+      "https://nomads.com/",
+      "https://nomads.com/trips",
+      "https://nomads.com/chat",
+      "https://nomads.com/billing",
+      "https://nomads.com/login",
+      "https://nomads.com/?join=nomads",
+      "https://nomads.com/?t=1779830207",
+      "https://nomads.com/insurance",
+      "https://nomads.com/dating",
+      "https://nomads.com/friend-finder",
+      "https://nomads.com/telegram",
+      "https://nomads.com/community",
+      "https://nomads.com/meetups",
+      "https://nomads.com/explore",
+      "https://nomads.com/gpt",
+      "https://nomads.com/photos",
+      "https://nomads.com/fire",
+      "https://nomads.com/climate-finder",
+      "https://nomads.com/fastest-growing-digital-nomad-cities",
+      "https://nomads.com/digital-nomad-statistics",
+      "https://nomads.com/history",
+      "https://nomads.com/graph",
+      "https://nomads.com/internet-speeds",
+      "https://nomads.com/best",
+      "https://nomads.com/random",
+      "https://nomads.com/random-and-good",
+      "https://nomads.com/faq",
+      "https://nomads.com/legal",
+      "https://nomads.com/meetups#a7ad90801a23e6bc50a1e492dbe8d518",
+      "https://nomads.com/meetups#dd49a946a332a87d69ccd3654d7c7dc5"
+    ]
+  },
+  "textSample": "Nomads.com - Best Places to Live for Digital Nomads (formerly Nomad List) world 5 world_fill Cities paper_plane 5 paper_plane_fill 5 Trips chat 42 chat_fill 42 Chat Nomad List Find your place Search: Billing Log in Sign up → Join Nomads.com → 🌍 Join Nomads.com 👋  Log in General Frontpage 🌗  Dark mode ❤️  Your favorites 🚑  Nomad insurance Ad Community ❤️ Dating app 🤝  Friend finder 💬  Chat 🌎  Members map 💈  Host meetup new 🍹  Attend meetup Tools 🏜  Explore 🎒  NomadGPT 📸  Vote on photos 🗓  Residence calendar 💸  FIRE calculator 🌤  Climate finder 💥  Fastest growing 📊  Nomad stats new 🧪 State of remote work new 📜  History of nomads new 🕸  Network graph 🔌  Fastest internet 🏆  Best place now 🔮  Random place 🔮  Random good place Help 💡  Ideas + bugs 🚀  Changelog 🛍️  Merch 🛟  FAQ & Help 🧑‍⚖️  TOS & Privacy policy Other projects 🏩  Hotelist 🌊  Ericeira 🛰  Remote jobs ✈️  Airline List 🗺  Neighborhoods 💾  Pieter.com ✈️  fly.pieter.com 🏝  Coworkations ☕️  Nomad Cafe 🏡  Interior AI 📸  Photo AI 🇪🇺  eu/acc 📑  JSON.pub #1 Nomad Community Since 2014 🌍 Go nomad Join a global community of remote workers living and traveling around the world 🍹 Attend 242 meetups/year in 100+ cities ❤️ Meet new people for dating and friends 🧪 Research destinations and find your best place to live and work 🌎 Keep track of your travels and record where you've been 💬 Join Nomads.com chat and find your community on the road Join Nomads.com → If you already have an account, we'll log you in as seen on \"Nomads.com ranks destinations that are accommodating to digital nomads, based on factors like cost of living, internet speed and weather\" \"The rankings of Nomads.com's cities are constantly in flux (all the data is refreshed in real-time based on user input)\" \"Nomads.com is a Kayak-like aggregator for potential work destinations, ranking internet, price, and safety + - Filters Close filters Show results Join Nomads.com → Sort by: Sort by Nomad score Solomad score Family score Quality of life score Your Score Co",
+  "assets": {
+    "ogImagePath": "screenshots/og-image.jpg"
+  }
+}

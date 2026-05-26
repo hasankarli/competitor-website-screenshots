@@ -1,0 +1,121 @@
+{
+  "siteId": "vibej.am",
+  "name": "Vibej",
+  "url": "https://vibej.am",
+  "config": {
+    "category": "Games",
+    "notes": "MRR ~$39K/m"
+  },
+  "canonicalUrl": "https://vibej.am",
+  "source": "html_fetch",
+  "scrapedAtUnix": 1779830201,
+  "meta": {
+    "title": "Cursor Vibe Jam 2026",
+    "description": "",
+    "ogTitle": "Cursor Vibe Jam 2026",
+    "ogDescription": "",
+    "ogImage": "https://vibej.am/2026/og.jpg",
+    "keywords": "",
+    "language": "en"
+  },
+  "content": {
+    "headings": [
+      {
+        "level": 1,
+        "text": "CURSOR VIBE JAM 2026"
+      },
+      {
+        "level": 2,
+        "text": "PRIZES"
+      },
+      {
+        "level": 2,
+        "text": "THE JURY"
+      },
+      {
+        "level": 2,
+        "text": "GAME SUBMISSIONS"
+      },
+      {
+        "level": 2,
+        "text": "PARTICIPANTS"
+      },
+      {
+        "level": 2,
+        "text": "RULES & INFO"
+      },
+      {
+        "level": 2,
+        "text": "PORTALS (OPTIONAL)"
+      },
+      {
+        "level": 2,
+        "text": "SUBMIT YOUR GAME"
+      },
+      {
+        "level": 2,
+        "text": "FROM 𝕏"
+      },
+      {
+        "level": 3,
+        "text": "WIDGET (REQUIRED)"
+      },
+      {
+        "level": 3,
+        "text": "FAQ"
+      },
+      {
+        "level": 3,
+        "text": "TIMELINE"
+      }
+    ],
+    "featureBullets": [
+      "username= — username/name of the player",
+      "color= — player color in hex or just red / green / yellow",
+      "speed= — meters per second",
+      "ref= — URL of the game the player came from",
+      "avatar_url=",
+      "hp= — health points; 1..100 range",
+      "speed_x= — meters per second",
+      "speed_y= — meters per second",
+      "speed_z= — meters per second",
+      "rotation_x= — radians",
+      "rotation_y= — radians",
+      "rotation_z= — radians"
+    ],
+    "ctaTexts": [],
+    "pricingHints": [
+      "$10",
+      "$25",
+      "$5",
+      "$40",
+      "$17",
+      "free"
+    ]
+  },
+  "signals": {
+    "monetization": [],
+    "techStack": [
+      "react",
+      "angular",
+      "wordpress",
+      "cloudflare",
+      "vercel",
+      "netlify"
+    ],
+    "hasPricingPage": false
+  },
+  "links": {
+    "pricing": "",
+    "featurePages": [],
+    "internalSample": [
+      "https://vibej.am/2026/press",
+      "https://vibej.am/2026/portal/sample.js",
+      "https://vibej.am/2025"
+    ]
+  },
+  "textSample": "Cursor Vibe Jam 2026 Proudly sponsored by ♪ CURSOR VIBE JAM 2026 A game dev competition where 90%+ of the code must be written by AI by @levelsio DEADLINE: 1 MAY 2026 @ 13:37 UTC 00 DAYS : 00 HRS : 00 MIN : 00 SEC 0 GAMES SUBMITTED 0 PLAYERS #vibejam FOLLOW ON 𝕏 21,419,339 impressions Submit Your Game Play the Games Read the Rules Press Release DIAMOND SPONSOR GOLD SPONSOR SILVER SPONSOR SILVER SPONSOR Sponsors welcome! DM @levelsio on X PRIZES 🥈 $10,000 SILVER 🏆 $25,000 GOLD 🥉 $5,000 BRONZE Real CASH prizes! $40,000 total in cash prizes! THE JURY @LEVELSIO Organizer @S13K_ Lead Judge Vibe Jam co-host and vibe code consultant @TIMSORET Game Dev Tim Soret — co-founder of Odd Tales, director of The Last Night @NICOLAMANZINI Judge Nicola Manzini — founder of Vibesail @ERICZAKARIASSON Judge Eric Zakariasson — designer at Cursor @OVERJUMPRALLY Judge Alessandro Schiassi — creator of Over Jump Rally ◀ ▶ GAME SUBMISSIONS SORT: NEWEST MOST PLAYED 24H MOST PLAYED ALL TIME MOST PORTAL TRANSFERS LONGEST PLAYTIME MADE WITH: CURSOR BOLT.NEW GLIF TRIPO CLAUDE CODEX VS CODE GEMINI ANTIGRAVITY LOVABLE V0 SUNO 🎰 Random Game PARTICIPANTS RULES & INFO vibejam2026 — rules.sh $ cat rule_01.txt Anyone can enter with their game. ! cat rule_02_REQUIRED.txt Add the JS snippet from the widget section below ↓ to your game — games without it are disqualified . $ cat rule_03.txt At least 90% of the code has to be written by AI. $ cat rule_04.txt Only NEW games created during the jam period will be accepted. Do not submit games that existed prior to April 1, 2026. $ cat rule_05.txt Game has to be accessible on web without any login or signup and free-to-play (preferably its own domain or subdomain). $ cat rule_06.txt Multiplayer games preferred but this is not required! $ cat rule_07.txt You can use any engine but usually ThreeJS is recommended. $ cat rule_08.txt NO loading screens and heavy downloads (!!!) — has to be almost instantly in the game (except maybe ask username if you want). $ cat ru",
+  "assets": {
+    "ogImagePath": "screenshots/og-image.jpg"
+  }
+}
