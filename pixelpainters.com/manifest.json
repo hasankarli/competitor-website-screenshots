@@ -1,0 +1,42 @@
+{
+  "siteId": "pixelpainters.com",
+  "name": "PixelPainters",
+  "url": "https://pixelpainters.com",
+  "config": {
+    "category": "Görsel / SaaS",
+    "notes": "TrustMRR ~$65K/m"
+  },
+  "canonicalUrl": "https://pixelpainters.com/",
+  "source": "html_fetch",
+  "scrapedAtUnix": 1780201979,
+  "meta": {
+    "title": "Unlimited Graphic Design for Churches | PixelPainters",
+    "description": "Unlimited church graphics with fast 2-3 day turnaround, unlimited revisions, and simple monthly pricing starting at $490/mo. Risk-free 14-day guarantee.",
+    "ogTitle": "Unlimited Graphic Design for Churches | PixelPainters",
+    "ogDescription": "Unlimited church graphics with fast 2-3 day turnaround, unlimited revisions, and simple monthly pricing starting at $490/mo. Risk-free 14-day guarantee.",
+    "ogImage": "https://pixelpainters.com/og-image.png",
+    "keywords": "",
+    "language": "en"
+  },
+  "content": {
+    "headings": [],
+    "featureBullets": [],
+    "ctaTexts": [],
+    "pricingHints": []
+  },
+  "signals": {
+    "monetization": [],
+    "techStack": [],
+    "hasPricingPage": false
+  },
+  "links": {
+    "pricing": "",
+    "featurePages": [],
+    "internalSample": []
+  },
+  "textSample": "Unlimited Graphic Design for Churches | PixelPainters",
+  "assets": {
+    "ogImagePath": "screenshots/og-image.jpg",
+    "homepagePath": "screenshots/homepage.png"
+  }
+}

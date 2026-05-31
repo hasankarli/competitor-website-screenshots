@@ -1,0 +1,163 @@
+{
+  "siteId": "postiz.com",
+  "name": "Postiz",
+  "url": "https://postiz.com",
+  "config": {
+    "category": "Social / SaaS",
+    "notes": "TrustMRR ~$126K/m"
+  },
+  "canonicalUrl": "https://postiz.com/",
+  "source": "html_fetch",
+  "scrapedAtUnix": 1780201965,
+  "meta": {
+    "title": "Postiz: The All-in-One agentic social media scheduling tool",
+    "description": "Streamline your social media with Postiz. Schedule posts, analyze performance, and manage all accounts in one place.",
+    "ogTitle": "Postiz: The All-in-One agentic social media scheduling tool",
+    "ogDescription": "Streamline your social media with Postiz. Schedule posts, analyze performance, and manage all accounts in one place.",
+    "ogImage": "https://cms.postiz.com/wp-content/uploads/2024/06/OG-1-1024x538.png",
+    "keywords": "",
+    "language": "en"
+  },
+  "content": {
+    "headings": [
+      {
+        "level": 1,
+        "text": "Run your social media on autopilot with AI agents"
+      },
+      {
+        "level": 2,
+        "text": "Who is Postiz for?"
+      },
+      {
+        "level": 2,
+        "text": "See Postiz in Action"
+      },
+      {
+        "level": 2,
+        "text": "Power Your Content with AI and Automation"
+      },
+      {
+        "level": 2,
+        "text": "All the tools required for social media growth in one place"
+      },
+      {
+        "level": 2,
+        "text": "Wide list of trending social media channels"
+      },
+      {
+        "level": 2,
+        "text": "Wall of love"
+      },
+      {
+        "level": 2,
+        "text": "Frequently asked questions"
+      },
+      {
+        "level": 3,
+        "text": "Agentic"
+      },
+      {
+        "level": 3,
+        "text": "Developers"
+      },
+      {
+        "level": 3,
+        "text": "Automation Teams"
+      },
+      {
+        "level": 3,
+        "text": "Ready to get started?"
+      },
+      {
+        "level": 3,
+        "text": "Ready to get started?"
+      }
+    ],
+    "featureBullets": [
+      "AI Agents CLI (OpenClaw)",
+      "Dev Docs",
+      "N8N Custom Node",
+      "Make.com integration",
+      "Free Marketing Tools",
+      "AI Agents CLI",
+      "Claude Cowork",
+      "Hermes Agent",
+      "Perplexity Computer",
+      "nanoclaw",
+      "Paperclip",
+      "Channels",
+      "Alternatives",
+      "Affiliate",
+      "Enterprise",
+      "Terms of service",
+      "Privacy Policy",
+      "Uptime Monitor",
+      "We are hiring"
+    ],
+    "ctaTexts": [],
+    "pricingHints": [
+      "$0",
+      "$29/mo",
+      "$39/mo",
+      "$49/mo",
+      "$99/mo",
+      "free",
+      "Enterprise"
+    ]
+  },
+  "signals": {
+    "monetization": [
+      "subscription",
+      "enterprise"
+    ],
+    "techStack": [
+      "nextjs",
+      "wordpress",
+      "cloudflare"
+    ],
+    "hasPricingPage": true
+  },
+  "links": {
+    "pricing": "https://postiz.com/pricing",
+    "featurePages": [
+      "https://postiz.com/tools"
+    ],
+    "internalSample": [
+      "https://postiz.com/",
+      "https://postiz.com/agent",
+      "https://postiz.com/channels/facebook",
+      "https://postiz.com/channels/instagram",
+      "https://postiz.com/channels/threads",
+      "https://postiz.com/channels/linkedin",
+      "https://postiz.com/channels/bluesky",
+      "https://postiz.com/channels/x",
+      "https://postiz.com/channels/tiktok",
+      "https://postiz.com/channels/youtube",
+      "https://postiz.com/channels/google-my-business",
+      "https://postiz.com/channels/reddit",
+      "https://postiz.com/channels/telegram",
+      "https://postiz.com/channels/discord",
+      "https://postiz.com/channels/slack",
+      "https://postiz.com/channels/pinterest",
+      "https://postiz.com/channels/dribbble",
+      "https://postiz.com/channels/mastodon",
+      "https://postiz.com/channels/whop",
+      "https://postiz.com/channels/twitch",
+      "https://postiz.com/channels/skool",
+      "https://postiz.com/channels/kick",
+      "https://postiz.com/channels/warpcast",
+      "https://postiz.com/channels/vk",
+      "https://postiz.com/channels/lemmy",
+      "https://postiz.com/channels/mewe",
+      "https://postiz.com/channels/nostr",
+      "https://postiz.com/channels/listmonk",
+      "https://postiz.com/channels/wordpress",
+      "https://postiz.com/channels/medium"
+    ]
+  },
+  "textSample": "Postiz: The All-in-One agentic social media scheduling tool NEW: Generate UGC video with your OpenClaw 🦞, Check agent-media AI Agents CLI (OpenClaw) Dev Docs Channels Facebook Instagram Threads Linkedin Bluesky X TikTok YouTube Google My Business Reddit Telegram Discord Slack Pinterest Dribbble Mastodon Whop Twitch Skool Kick Warpcast Vk Lemmy MeWe Nostr Listmonk WordPress Medium Hashnode Dev.to Facebook Instagram Threads Linkedin Bluesky X TikTok YouTube Google My Business Reddit Telegram Discord Slack Pinterest Dribbble Mastodon Whop Twitch Skool Kick Warpcast Vk Lemmy MeWe Nostr Listmonk WordPress Medium Hashnode Dev.to Back News Blog Pricing Log In Start for $0 Run your social media on autopilot with AI agents Plan, generate, and schedule posts automatically to 30+ social media networks — then review and edit everything in a visual calendar. Bring your OpenClaw / Hermes / Claude Start a 7-day trial for $0 I need agentic scheduling I need normal scheduling Discord Support Trusted by customers all over the world Who is Postiz for? Agentic Prompt Postiz from Claude, ChatGPT, Codex, or OpenClaw — they drive Postiz through our CLI and MCP server to draft and schedule your posts. Developers Build your own posting app on top of Postiz — OAuth2, SDK, and public API let your users connect once and publish everywhere. Automation Teams Wire social media automation into n8n or Make.com and let your workflows draft, approve, and publish across every channel. See Postiz in Action Watch how Postiz can transform your social media workflow Power Your Content with AI and Automation Via ChatGPT Generate and refine social media posts using ChatGPT with simple prompts. Via OpenClaw Automate content creation and scheduling through Telegram with simple workflows. Via Claude Code Create and schedule posts directly from your terminal using Claude Code. Automate everything Postiz helps you automate your social media marketing using a Public API, n8n, Make.com or Zapier. All the tools req",
+  "assets": {
+    "ogImagePath": "screenshots/og-image.jpg",
+    "homepagePath": "screenshots/homepage.png"
+  }
+}

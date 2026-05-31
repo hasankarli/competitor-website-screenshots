@@ -1,0 +1,75 @@
+{
+  "siteId": "lunchbreak.ai",
+  "name": "Lunchbreak",
+  "url": "https://lunchbreak.ai",
+  "config": {
+    "category": "SaaS / AI",
+    "notes": "TrustMRR ~$42K/m"
+  },
+  "canonicalUrl": "https://lunchbreak.ai/",
+  "source": "html_fetch",
+  "scrapedAtUnix": 1780201982,
+  "meta": {
+    "title": "Lunchbreak AI | Rewrite, Humanize, and Stay 100% Undetectable",
+    "description": "Make AI content 100% undetectable. Humanize, rewrite, and refine AI-generated text with Lunchbreak AI. Stay ahead of AI detection tools effortlessly.",
+    "ogTitle": "Lunchbreak AI | Rewrite, Humanize, and Stay 100% Undetectable",
+    "ogDescription": "Make AI content 100% undetectable. Humanize, rewrite, and refine AI-generated text with Lunchbreak AI. Stay ahead of AI detection tools effortlessly.",
+    "ogImage": "https://framerusercontent.com/images/roBXh0HVqI3HyhXhEynyycW6Vc.png",
+    "keywords": "",
+    "language": "en"
+  },
+  "content": {
+    "headings": [
+      {
+        "level": 1,
+        "text": "Beat Turnitin Before You Hit Submit."
+      },
+      {
+        "level": 1,
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "level": 2,
+        "text": "See Exactly What Happens"
+      },
+      {
+        "level": 2,
+        "text": "They Were Terrified Too."
+      },
+      {
+        "level": 2,
+        "text": "Know Before You Submit. Fix It If You Need To."
+      }
+    ],
+    "featureBullets": [],
+    "ctaTexts": [
+      "Get Started"
+    ],
+    "pricingHints": [
+      "Free"
+    ]
+  },
+  "signals": {
+    "monetization": [
+      "subscription"
+    ],
+    "techStack": [
+      "react"
+    ],
+    "hasPricingPage": true
+  },
+  "links": {
+    "pricing": "https://lunchbreak.ai/",
+    "featurePages": [],
+    "internalSample": [
+      "https://lunchbreak.ai/",
+      "https://lunchbreak.ai/privacy",
+      "https://lunchbreak.ai/terms"
+    ]
+  },
+  "textSample": "Lunchbreak AI | Rewrite, Humanize, and Stay 100% Undetectable Features Product Pricing Get Started Features Product Pricing Get Started 🔥 Used by 700,000+ students & writers Beat Turnitin Before You Hit Submit. Paste your essay. We instantly run it through Turnitin, GPTZero, and every detector your school uses — so you know exactly where you stand. Check My Essay Now → ✓ Free to check 🔒 100% Anonymous Beats every detector your school uses ✓ Turnitin ✓ GPTZero ✓ Originality ✓ Copyleaks ✓ Writer ✓ Sapling lunchbreak.ai — Detect & Humanize ✓ Your text appears to be written by a human! Turnitin 0% AI GPTZero 2% AI Originality 1% AI Copyleaks 0% AI Writer 3% AI Sapling 1% AI The Industrial Revolution fundamentally transformed the economic and social fabric of 19th-century Britain, shifting populations from rural agrarian communities into rapidly expanding urban centres. This mass migration created unprecedented challenges in housing, labour conditions, and public health that reformers of the era were only beginning to understand... Live Proof See Exactly What Happens Same essay. One click. Zero flags. ✕  Before Lunchbreak — Flagged \"The utilization of artificial intelligence in modern academic contexts has fundamentally altered the paradigm of student engagement with scholarly material, necessitating a comprehensive reassessment of pedagogical frameworks...\" Turnitin: 94% AI GPTZero: 98% AI Originality: 91% AI ✓  After Lunchbreak — Undetectable \"AI has changed how students engage with academic material in ways that are still being worked out. What used to take hours of careful reading now happens in minutes — and that shift is forcing educators to rethink what learning actually looks like...\" Turnitin: 0% AI GPTZero: 2% AI Originality: 1% AI Fix My Essay Now ✓ Takes 30 seconds Real Students. Real Results. They Were Terrified Too. Until they used Lunchbreak. ★★★★★ \"I submitted a paper at 2am and Turnitin flagged it 94% AI. I found Lunchbreak, ran it through in literally 3",
+  "assets": {
+    "ogImagePath": "screenshots/og-image.jpg",
+    "homepagePath": "screenshots/homepage.png"
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "siteId": "rankai.ai",
+  "name": "RankAI",
+  "url": "https://rankai.ai",
+  "config": {
+    "category": "SEO / AI",
+    "notes": "TrustMRR ~$36K/m"
+  },
+  "canonicalUrl": "https://rankai.ai",
+  "source": "html_fetch",
+  "scrapedAtUnix": 1780201987,
+  "meta": {
+    "title": "RankAI - AI SEO/GEO Agency",
+    "description": "RankAI is the worlds first AI-native Agency for organic growth. It handles everything autonomously to drive you millions of visitors from Google & AI Search like ChatGPT. In other words, RankAI optimizes for both SEO & GEO.",
+    "ogTitle": "RankAI - AI SEO/GEO Agency",
+    "ogDescription": "RankAI is the worlds first AI-native Agency for organic growth. It handles everything autonomously to drive you millions of visitors from Google & AI Search like ChatGPT. In other words, RankAI optimizes for both SEO & GEO.",
+    "ogImage": "https://rankai.ai/og-primary.jpg",
+    "keywords": "RankAI - AI SEO/GEO Agency",
+    "language": "en"
+  },
+  "content": {
+    "headings": [
+      {
+        "level": 1,
+        "text": "RankAI gets you search visitors autonomously"
+      },
+      {
+        "level": 2,
+        "text": "SEO + GEO Is Not a Fixed Playbook. We Run the Engine That Iterates Until It Works."
+      },
+      {
+        "level": 2,
+        "text": "RankAI runs a proprietary engine, led by experts."
+      },
+      {
+        "level": 2,
+        "text": "How many people are searching for your brand?"
+      },
+      {
+        "level": 2,
+        "text": "Measured Impact, Backed by Google"
+      },
+      {
+        "level": 2,
+        "text": "Two Ways to Work With Us"
+      },
+      {
+        "level": 2,
+        "text": "FAQ"
+      },
+      {
+        "level": 2,
+        "text": "Ready to grow through Google and AI search?"
+      },
+      {
+        "level": 3,
+        "text": "Expert-Led Research and Planning"
+      },
+      {
+        "level": 3,
+        "text": "Target keywords your customers already search"
+      },
+      {
+        "level": 3,
+        "text": "Iterative SEO + GEO Engine"
+      },
+      {
+        "level": 3,
+        "text": "AI Search Optimization (GEO)"
+      },
+      {
+        "level": 3,
+        "text": "Rewrite Until It Works"
+      },
+      {
+        "level": 3,
+        "text": "Proof the Engine Is Working"
+      },
+      {
+        "level": 3,
+        "text": "+1.2M search visibility in 3 months"
+      },
+      {
+        "level": 3,
+        "text": "13x Search Visibility in 2 months"
+      },
+      {
+        "level": 3,
+        "text": "82% Increase in Organic Clicks"
+      },
+      {
+        "level": 3,
+        "text": "+1.2M search visibility in 3 months"
+      },
+      {
+        "level": 3,
+        "text": "13x Search Visibility in 2 months"
+      },
+      {
+        "level": 3,
+        "text": "82% Increase in Organic Clicks"
+      }
+    ],
+    "featureBullets": [
+      "Expert-led SEO + AI search strategy",
+      "Keyword and opportunity research",
+      "120+ pages created",
+      "Continuous rewrites until pages perform",
+      "Technical fixes for SEO + AI search",
+      "BiWeekly Reports",
+      "Recurring revenue with near-zero overhead",
+      "White-label client experience",
+      "Manage multiple client accounts in one dashboard",
+      "Client-ready reporting under your brand",
+      "Priority support via Slack",
+      "All Blogs",
+      "Articles",
+      "Resources",
+      "SEO Guide for B2B",
+      "SEO Guide for Dentists",
+      "SEO Guide for Ecommerce",
+      "SEO Guide for Healthcare",
+      "SEO Guide for Home Services",
+      "SEO Guide for Law Firms",
+      "SEO Guide for Local Business",
+      "SEO Guide for Real Estate",
+      "SEO Guide for Restaurants",
+      "SEO Guide for SaaS"
+    ],
+    "ctaTexts": [
+      "Book Demo",
+      "Get Started",
+      "Get Started Today"
+    ],
+    "pricingHints": [
+      "$100",
+      "Free"
+    ]
+  },
+  "signals": {
+    "monetization": [
+      "subscription",
+      "one_time",
+      "enterprise"
+    ],
+    "techStack": [
+      "nextjs",
+      "react",
+      "wordpress",
+      "vercel"
+    ],
+    "hasPricingPage": true
+  },
+  "links": {
+    "pricing": "https://rankai.ai/agency",
+    "featurePages": [
+      "https://rankai.ai/tools",
+      "https://rankai.ai/tools/ai-search-visibility-checker",
+      "https://rankai.ai/tools/geo-score-calculator",
+      "https://rankai.ai/tools/ai-vs-google-ranking-comparison",
+      "https://rankai.ai/tools/ai-citation-tracker",
+      "https://rankai.ai/tools/brand-mention-monitor-ai",
+      "https://rankai.ai/tools/geo-metrics-runner",
+      "https://rankai.ai/tools/keyword-density-checker"
+    ],
+    "internalSample": [
+      "https://rankai.ai/",
+      "https://rankai.ai/audit",
+      "https://rankai.ai/agency",
+      "https://rankai.ai/self-serve",
+      "https://rankai.ai/signin",
+      "https://rankai.ai/start",
+      "https://rankai.ai/case-study/livetinted",
+      "https://rankai.ai/case-study/shortbread",
+      "https://rankai.ai/case-study/buyunitynow",
+      "https://rankai.ai/start?signup_intent=self-serve",
+      "https://rankai.ai/analytics-report-skillcatapp.com-2026-04-22.pdf",
+      "https://rankai.ai/#how-it-works",
+      "https://rankai.ai/blog",
+      "https://rankai.ai/articles",
+      "https://rankai.ai/resources",
+      "https://rankai.ai/articles/seo-guide-for-b2b-strategy-leads-revenue",
+      "https://rankai.ai/articles/seo-guide-for-dentists-local-playbook",
+      "https://rankai.ai/articles/seo-guide-for-ecommerce-ultimate-step-by-step",
+      "https://rankai.ai/articles/seo-guide-for-healthcare-complete-playbook",
+      "https://rankai.ai/articles/seo-guide-for-home-services",
+      "https://rankai.ai/articles/seo-guide-for-law-firm",
+      "https://rankai.ai/articles/seo-guide-for-local-business",
+      "https://rankai.ai/articles/seo-guide-for-real-estate",
+      "https://rankai.ai/articles/seo-guide-for-restaurants-local-seo-strategies",
+      "https://rankai.ai/articles/seo-guide-for-saas-strategy-to-execution",
+      "https://rankai.ai/articles/seo-guide-for-startups-step-by-step-playbook",
+      "https://rankai.ai/tools",
+      "https://rankai.ai/tools/ai-search-visibility-checker",
+      "https://rankai.ai/tools/geo-score-calculator",
+      "https://rankai.ai/tools/ai-vs-google-ranking-comparison"
+    ]
+  },
+  "textSample": "RankAI - AI SEO/GEO Agency RankAI How It Works Case Studies Plans Audit For Agencies Self-Serve Log in Book Demo Backed by world-class investors Backed by investors RankAI gets you search visitors autonomously Unlock millions of buyers from Google and AI Search Get Started Trusted by 200+ Agencies & Ecommerce Businesses Livetinted TheRealest TryBree AtoB RentFlow Consentz MixBright CrossEven WeWeb SkillCat CureBase Mismo Livetinted TheRealest TryBree AtoB RentFlow Consentz MixBright CrossEven WeWeb SkillCat CureBase Mismo SEO + GEO Is Not a Fixed Playbook. We Run the Engine That Iterates Until It Works. From serving 200+ businesses, we found that SEO + GEO is won through iteration. RankAI uses a proprietary engine that continuously researches, publishes, measures, and rewrites until pages rank on Google and get cited by AI search. 1354% increase in search visibility Shortbread.ai +479 keywords on page 1 BuyUnityNow 5x increase in AI Mentions SkillCatApp 79% increase in organic traffic LiveTinted Proprietary Engine 200+ Businesses Served <30 days For Early Results Are you an agency? See how 50+ agencies deliver these results for their clients with RankAI. Learn more about Agency plans RankAI runs a proprietary engine, led by experts. Capturing Google and AI search traffic directly to your site 1 Expert-Led Research and Planning Human experts handle the highest-leverage work first — understanding your business, mapping the opportunity, and building the plan that powers the engine. Proprietary Knowledge Base We build a brand-specific knowledge base so the engine works from real business context, not generic SEO inputs. Growth Projections We project traffic upside using our proprietary model, trained from work across 200+ businesses. Search Opportunity We map the highest-value opportunities across Google and AI search. Engine Setup We configure the engine around your business, priorities, and search growth plan. rankai.ai/dashboard 2 Target keywords your customers alrea",
+  "assets": {
+    "ogImagePath": "screenshots/og-image.jpg",
+    "homepagePath": "screenshots/homepage.png"
+  }
+}

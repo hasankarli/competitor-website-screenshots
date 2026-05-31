@@ -1,0 +1,121 @@
+{
+  "siteId": "supergrow.ai",
+  "name": "Supergrow",
+  "url": "https://supergrow.ai",
+  "config": {
+    "category": "Social / SaaS",
+    "notes": "TrustMRR ~$79K/m"
+  },
+  "canonicalUrl": "https://www.supergrow.ai/",
+  "source": "scrapling_fetch",
+  "scrapedAtUnix": 1780201974,
+  "meta": {
+    "title": "Supergrow: LinkedIn Content Platform for Teams & Individuals",
+    "description": "Build your LinkedIn presence or activate your whole team. Supergrow captures your real voice and turns expertise into content that drives visibility, trust, and pipeline.",
+    "ogTitle": "Supergrow: LinkedIn Content Platform for Teams & Individuals",
+    "ogDescription": "Build your LinkedIn presence or activate your whole team. Supergrow captures your real voice and turns expertise into content that drives visibility, trust, and pipeline.",
+    "ogImage": "https://framerusercontent.com/images/lcMxh4ZisV99xaEXjPHLaV8WCk.png",
+    "keywords": "",
+    "language": "en"
+  },
+  "content": {
+    "headings": [
+      {
+        "level": 1,
+        "text": "Turn expertise into influence on LinkedIn ®"
+      },
+      {
+        "level": 2,
+        "text": "Why personal voices outperform brand pages"
+      },
+      {
+        "level": 2,
+        "text": "Everything you need to build influence."
+      },
+      {
+        "level": 2,
+        "text": "Meet the Supergrow MCP"
+      },
+      {
+        "level": 2,
+        "text": "The full toolkit."
+      },
+      {
+        "level": 2,
+        "text": "What our customers say about us..."
+      },
+      {
+        "level": 2,
+        "text": "Questions we get asked"
+      },
+      {
+        "level": 2,
+        "text": "Turn your expertise into measurable influence."
+      },
+      {
+        "level": 3,
+        "text": "AI that writes like you, not for you."
+      },
+      {
+        "level": 3,
+        "text": "Track what’s working. Do more of it."
+      },
+      {
+        "level": 3,
+        "text": "Your team posts on-brand. You stay in control."
+      }
+    ],
+    "featureBullets": [],
+    "ctaTexts": [
+      "Get started free",
+      "Start free →"
+    ],
+    "pricingHints": [
+      "free"
+    ]
+  },
+  "signals": {
+    "monetization": [
+      "freemium",
+      "trial",
+      "subscription"
+    ],
+    "techStack": [
+      "react"
+    ],
+    "hasPricingPage": true
+  },
+  "links": {
+    "pricing": "https://supergrow.ai/pricing",
+    "featurePages": [
+      "https://supergrow.ai/features/linkedin-post-generator",
+      "https://supergrow.ai/features/linkedin-post-scheduling",
+      "https://supergrow.ai/features/analytics",
+      "https://supergrow.ai/features/mcp"
+    ],
+    "internalSample": [
+      "https://supergrow.ai/",
+      "https://supergrow.ai/features/linkedin-post-generator",
+      "https://supergrow.ai/features/linkedin-post-scheduling",
+      "https://supergrow.ai/features/analytics",
+      "https://supergrow.ai/features/mcp",
+      "https://supergrow.ai/employee-advocacy",
+      "https://supergrow.ai/employee-advocacy/team-management",
+      "https://supergrow.ai/employee-advocacy/team-analytics",
+      "https://supergrow.ai/employee-advocacy/gamification",
+      "https://supergrow.ai/agency",
+      "https://supergrow.ai/blog",
+      "https://supergrow.ai/wall-of-love",
+      "https://supergrow.ai/pricing",
+      "https://supergrow.ai/affiliate-program",
+      "https://supergrow.ai/about-us",
+      "https://supergrow.ai/privacy",
+      "https://supergrow.ai/tos"
+    ]
+  },
+  "textSample": "Supergrow: LinkedIn Content Platform for Teams & Individuals Product Features Content Creation AI interviews, Content DNA, and repurposing in one workspace Scheduling Calendar, queue, and first-comment scheduling Insights & Analytics Track visibility, engagement, and pipeline impact MCP New Use Claude or ChatGPT to run your LinkedIn workflow Team Features Feedback & Approval Route content through your review chain Organization Management Manage all voices from one dashboard Team Analytics Performance insights per team member Challenges & Leaderboard Drive adoption with streaks and ranks Solutions Teams Activate your experts and manage content at scale Individuals Build your personal brand with AI that sounds like you Agencies Manage multiple client voices from one workspace Resources Blog Insights on thought leadership and LinkedIn® strategy Knowledge Base Guides, tutorials, and how-to articles Affiliate Partners Earn by referring Supergrow to your network Wall of Love See what our customers are saying Pricing Log in Get started free New Supergrow MCP is live Turn expertise into influence on LinkedIn ® AI-powered content that captures your real voice, whether you're growing your own personal brand or building your team's. Grow on LinkedIn ® For professionals building their personal brand and LinkedIn ® presence Start free → or Activate my team For marketing and comms teams activating multiple team members See how it works → \"One 15-minute conversation replaced an entire week of content creation.\" 4.9/5 on G2 Why personal voices outperform brand pages 120% Higher deal sizes when buyers follow execs on LinkedIn® 82% Of B2B buyers say creator content influences their decisions 1.7× More likely to win deals with expert voices vs brand content alone Source: LinkedIn\\u00ae B2B Institute and Ipsos, 2025 B2B Marketing Benchmark Everything you need to build influence. Create content, grow your network, and track what works. ↗ Content Creation AI that writes like you, not for",
+  "assets": {
+    "ogImagePath": "screenshots/og-image.jpg",
+    "homepagePath": "screenshots/homepage.png"
+  }
+}

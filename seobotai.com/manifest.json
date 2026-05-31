@@ -1,0 +1,201 @@
+{
+  "siteId": "seobotai.com",
+  "name": "SEOBOT",
+  "url": "https://seobotai.com",
+  "config": {
+    "category": "SEO / AI",
+    "notes": "TrustMRR ~$59K/m"
+  },
+  "canonicalUrl": "https://seobotai.com/",
+  "source": "html_fetch",
+  "scrapedAtUnix": 1780201977,
+  "meta": {
+    "title": "SEO Bot - fully autonomous \"SEO Robot\" with SEO AI agents for Busy Founders",
+    "description": "SEO Bot features\n- Programmatic SEO\n- AI internal linking\n- AI backlinks\n- Auto keyword research\n- AI generated blog\n- Acts like a SEO Robot",
+    "ogTitle": "SEO Bot - fully autonomous \"SEO Robot\" with SEO AI agents for Busy Founders",
+    "ogDescription": "SEO Bot features\n- Programmatic SEO\n- AI internal linking\n- AI backlinks\n- Auto keyword research\n- AI generated blog\n- Acts like a SEO Robot",
+    "ogImage": "https://unicorn-images.b-cdn.net/70f11785-18d6-4fa0-8980-88df156cb41b?optimizer=gif",
+    "keywords": "",
+    "language": "en"
+  },
+  "content": {
+    "headings": [
+      {
+        "level": 1,
+        "text": "// Powered by AI and GPT agents SEObot — fully autonomous «SEO Robot» with AI agents for"
+      },
+      {
+        "level": 2,
+        "text": "// Create SEO optimized blog"
+      },
+      {
+        "level": 2,
+        "text": "// Why choose SEObot?"
+      },
+      {
+        "level": 2,
+        "text": "// What's inside"
+      },
+      {
+        "level": 2,
+        "text": "Hey John, I need to give you an update on that!"
+      },
+      {
+        "level": 2,
+        "text": "// Auto sync with popular CMS"
+      },
+      {
+        "level": 2,
+        "text": "// Supported Languages"
+      },
+      {
+        "level": 2,
+        "text": "// Articles examples"
+      },
+      {
+        "level": 2,
+        "text": "// Wall of love 😍"
+      },
+      {
+        "level": 2,
+        "text": "// Pricing"
+      },
+      {
+        "level": 2,
+        "text": "// FAQ"
+      },
+      {
+        "level": 2,
+        "text": "What CMS do you use?"
+      },
+      {
+        "level": 3,
+        "text": "SEObot has created over 200k articles!"
+      },
+      {
+        "level": 3,
+        "text": "SEO for project-busy founders"
+      },
+      {
+        "level": 3,
+        "text": "Powerful Features Built into SEObot"
+      },
+      {
+        "level": 3,
+        "text": "Integrations"
+      },
+      {
+        "level": 3,
+        "text": "SEO bot supports 50+ languages"
+      },
+      {
+        "level": 3,
+        "text": "Best CMS for SEO: Top 12 Platforms Compared Listicles"
+      },
+      {
+        "level": 3,
+        "text": "10 Indie Maker Tips to Boost Product Visibility in 2024 Listicles"
+      },
+      {
+        "level": 3,
+        "text": "Robots.txt SEO Guide: 10 Best Practices How-to Guides"
+      }
+    ],
+    "featureBullets": [
+      "Refer to earn",
+      "Get more SEO traffic",
+      "Boost now",
+      "Got a question?",
+      "YouTube video to article new",
+      "Backlinks to grow Domain Rating new",
+      "Programmatic SEO new",
+      "News new",
+      "Interactive SEO mini-tools new",
+      "Average 3000 words",
+      "Internal & External linking",
+      "Images in articles",
+      "Related YouTube videos",
+      "Google Scraping & Research",
+      "Fact checking",
+      "Anti-hallucination reflection",
+      "Monthly articles re-linking",
+      "Santiago Poli",
+      "Unicorn Platform",
+      "WordPress",
+      "Webhooks",
+      "REST_API",
+      "What you get:",
+      "Fully automated onboarding. Just enter your url and press \"go\""
+    ],
+    "ctaTexts": [],
+    "pricingHints": [
+      "$49/mo",
+      "$1000",
+      "$6500",
+      "$ 49 /mo",
+      "$49",
+      "Free"
+    ]
+  },
+  "signals": {
+    "monetization": [
+      "subscription"
+    ],
+    "techStack": [
+      "react",
+      "wordpress",
+      "cloudflare"
+    ],
+    "hasPricingPage": false
+  },
+  "links": {
+    "pricing": "",
+    "featurePages": [
+      "https://seobotai.com/tools/keyword-difficulty-checker/",
+      "https://seobotai.com/tools/",
+      "https://seobotai.com/tools/faq-schema-generator/",
+      "https://seobotai.com/tools/qa-schema-generator/",
+      "https://seobotai.com/tools/article-schema-generator/",
+      "https://seobotai.com/tools/canonical-checker/",
+      "https://seobotai.com/tools/robots-txt-generator-validator/",
+      "https://seobotai.com/tools/meta-description-generator/"
+    ],
+    "internalSample": [
+      "https://seobotai.com/",
+      "https://seobotai.com/blog/best-cms-for-seo/",
+      "https://seobotai.com/blog/google-core-update-checklist-prepare-your-site/",
+      "https://seobotai.com/blog/subdomain-vs-subdirectory-vs-cctld-for-seo/",
+      "https://seobotai.com/news/google-rolls-out-august-spam-update-for-search/",
+      "https://seobotai.com/blog/how-to-rank-on-perplexity-6-ai-search-tactics/",
+      "https://seobotai.com/tools/keyword-difficulty-checker/",
+      "https://seobotai.com/seo-ai-agent/",
+      "https://seobotai.com/privacy-policy",
+      "https://seobotai.com/terms-of-service",
+      "https://seobotai.com/blog/",
+      "https://seobotai.com/news/",
+      "https://seobotai.com/tools/",
+      "https://seobotai.com/tools/faq-schema-generator/",
+      "https://seobotai.com/tools/qa-schema-generator/",
+      "https://seobotai.com/tools/article-schema-generator/",
+      "https://seobotai.com/tools/canonical-checker/",
+      "https://seobotai.com/tools/robots-txt-generator-validator/",
+      "https://seobotai.com/broken-link-checker-free/",
+      "https://seobotai.com/tools/meta-description-generator/",
+      "https://seobotai.com/tools/seo-title-generator/",
+      "https://seobotai.com/tools/sitemap-url-extractor/",
+      "https://seobotai.com/integrations/api/",
+      "https://seobotai.com/integrations/webhooks/",
+      "https://seobotai.com/integrations/unicornplatform/",
+      "https://seobotai.com/integrations/wordpress/",
+      "https://seobotai.com/integrations/webflow/",
+      "https://seobotai.com/integrations/shopify/",
+      "https://seobotai.com/integrations/ghost/",
+      "https://seobotai.com/integrations/hubspot/"
+    ]
+  },
+  "textSample": "SEO Bot - fully autonomous \"SEO Robot\" with SEO AI agents for Busy Founders Refer to earn Pricing Try now Refer to earn Pricing Try now // Powered by AI and GPT agents SEObot — fully autonomous «SEO Robot» with AI agents for SEObot takes 100% of SEO work out of your way so that you can focus on building your product. Get more SEO traffic * subscriptions start at $49/mo ListingBott: Boost your domain rating Boost now Got a question? DM me on LinkedIn , Twitter , or by Email . // Create SEO optimized blog SEObot has created over 200k articles! Driving 1.2 billion impressions & 30 million clicks. devhunt.org filmgrail.com nextjsstarter.com llmmodels.org // Why choose SEObot? SEO for project-busy founders SEO Bot is an all-in-one SEO AI agent that saves you time and effort. // What's inside Powerful Features Built into SEObot YouTube video to article new Backlinks to grow Domain Rating new Programmatic SEO new News new Interactive SEO mini-tools new Average 3000 words Internal & External linking Images in articles Related YouTube videos Google Scraping & Research Fact checking Anti-hallucination reflection Monthly articles re-linking Try now * subscriptions start at $49/mo Santiago Poli @santiagopoli Hey John, I need to give you an update on that! 1. 500 clicks a day 2. The cost was $1000 in article 3. We closed a $6500 client when the business wasn’t even operational. // Auto sync with popular CMS Integrations Unicorn Platform Webflow Ghost WordPress Framer WIX Shopify Notion HubSpot Next.js Webhooks REST_API Try now * subscriptions start at $49/mo // Supported Languages SEO bot supports 50+ languages Arabic Basque Bengali Bulgarian Catalan Chinese Croatian Czech Danish Dutch English Estonian Finnish French Galician German Gujarati Hebrew Hindi Hungarian Italian Japanese Korean Latvian Portuguese Russian Spanish Swedish Turkish Ukrainian // Articles examples Best CMS for SEO: Top 12 Platforms Compared Listicles Your CMS choice directly impacts your site's SEO performan",
+  "assets": {
+    "ogImagePath": "screenshots/og-image.jpg",
+    "homepagePath": "screenshots/homepage.png"
+  }
+}

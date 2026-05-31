@@ -1,0 +1,84 @@
+{
+  "siteId": "hack2hire.com",
+  "name": "Hack2hire",
+  "url": "https://www.hack2hire.com",
+  "config": {
+    "category": "Jobs / SaaS",
+    "notes": "TrustMRR ~$43K/m"
+  },
+  "canonicalUrl": "https://www.hack2hire.com",
+  "source": "html_fetch",
+  "scrapedAtUnix": 1780201985,
+  "meta": {
+    "title": "Hack2hire",
+    "description": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "ogImage": "",
+    "keywords": "",
+    "language": "en"
+  },
+  "content": {
+    "headings": [
+      {
+        "level": 1,
+        "text": "Real SDE Interview Question Bank"
+      },
+      {
+        "level": 3,
+        "text": "Authentic Questions"
+      },
+      {
+        "level": 3,
+        "text": "Multi-Language Solutions"
+      },
+      {
+        "level": 3,
+        "text": "Community Sourcing"
+      }
+    ],
+    "featureBullets": [
+      "Interview Preparing",
+      "Coding Practice",
+      "System Design Practice",
+      "For Individuals",
+      "Contact Us",
+      "Privacy Policy",
+      "Terms of Service"
+    ],
+    "ctaTexts": [],
+    "pricingHints": []
+  },
+  "signals": {
+    "monetization": [
+      "subscription"
+    ],
+    "techStack": [
+      "nextjs"
+    ],
+    "hasPricingPage": true
+  },
+  "links": {
+    "pricing": "https://www.hack2hire.com/pricing",
+    "featurePages": [
+      "https://www.hack2hire.com/product"
+    ],
+    "internalSample": [
+      "https://www.hack2hire.com/",
+      "https://www.hack2hire.com/product",
+      "https://www.hack2hire.com/pricing",
+      "https://www.hack2hire.com/blog",
+      "https://www.hack2hire.com/forum",
+      "https://www.hack2hire.com/profile",
+      "https://www.hack2hire.com/contact",
+      "https://www.hack2hire.com/faq",
+      "https://www.hack2hire.com/legal/policy",
+      "https://www.hack2hire.com/legal/terms"
+    ]
+  },
+  "textSample": "Hack2hire Product Pricing Blog Forum NEW Referral Real SDE Interview Question Bank Practice with the EXACT questions asked in real interviews — not just LeetCode. See Questions Join Community Authentic Questions Curated from real SDE interviews at top companies. Access exclusive questions you won't find on public repositories. Multi-Language Solutions Step-by-step answers in Python, Java, C++ , and more. Designed for rapid mastery and pattern recognition. Community Sourcing Collected from public forums and user contributions : LC Discuss, Reddit, 1Point3Acres. Stay updated daily. Stay ahead over other candidates and level up your careers at Practice top interview questions and stay ahead. See question frequency and last appearance based on data from 3K+ real candidates to track company trends. In-browser coding widget and solution viewer Practice, view solutions, switch languages and run test cases—all in one widget. 500+ Non-leetcode Questions with Follow-ups Got asked a question not found in Leetcode?\n\nWe focus on real, non-LeetCode interview questions to bridge the final gap to your offer. See in Product Expert Handcrafted Solution Saw a forum answer but unsure if it's correct?\n\nOur technical writers are all top coding contest winners, ensure every solution is interview-ready. See in Product AI-refined Code and Explanation Tired of unreadable, low-quality code?\n\nGet AI-enhanced solutions with clear explanations for better readability and easy understanding. See in Product Step-by-Step Tutorial Struggling to understand others' solutions?\n\nOur step-by-step tutorial guides you through the thought process of solving the problem. See in Product Solution in Multiple Languages Need to code in a preferred language?\n\nWe provide solutions in multiple languages to help you prepare for your interview. See in Product Space and Time Complexity Analyses Not able to analyze algorithm complexity?\n\nWe provide in-depth complexity analysis, helping you explain algorithms confidently",
+  "assets": {
+    "ogImagePath": null,
+    "homepagePath": "screenshots/homepage.png"
+  }
+}

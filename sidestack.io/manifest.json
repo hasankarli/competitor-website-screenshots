@@ -1,0 +1,164 @@
+{
+  "siteId": "sidestack.io",
+  "name": "SideStack",
+  "url": "https://sidestack.io",
+  "config": {
+    "category": "SaaS / AI",
+    "notes": "TrustMRR Slop Cannon ~$102K/m"
+  },
+  "canonicalUrl": "https://sidestack.io",
+  "source": "html_fetch",
+  "scrapedAtUnix": 1780201970,
+  "meta": {
+    "title": "Integrate Discord with Substack - Sidestack.io",
+    "description": "Integrate your Discord server with Substack to create an incredible community for your subscribers while increasing retention and boosting conversion.",
+    "ogTitle": "",
+    "ogDescription": "",
+    "ogImage": "https://sidestack.io/og/discord.png",
+    "keywords": "substack, discord, integration, substacks with discord",
+    "language": "en"
+  },
+  "content": {
+    "headings": [
+      {
+        "level": 1,
+        "text": "Create a Discord for your Substack subscribers"
+      },
+      {
+        "level": 1,
+        "text": "Create a Discord Server for your paying Substack subscribers"
+      },
+      {
+        "level": 1,
+        "text": "Connect your Discord Server"
+      },
+      {
+        "level": 1,
+        "text": "Sync your Subscribers"
+      },
+      {
+        "level": 1,
+        "text": "Share your Sidestack Link"
+      },
+      {
+        "level": 1,
+        "text": "Automate & save hours every week!"
+      },
+      {
+        "level": 1,
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "level": 2,
+        "text": "Subscribers get instant access to your Discord by connecting their account"
+      },
+      {
+        "level": 2,
+        "text": "Can I create channels for paying and free subscribers?"
+      },
+      {
+        "level": 2,
+        "text": "Do subscriber lose access if they cancel their subscription?"
+      },
+      {
+        "level": 2,
+        "text": "I already have a Discord server with 100s of members. Can I still use Sidestack?"
+      },
+      {
+        "level": 2,
+        "text": "How does Sidestack save me hours every week?"
+      },
+      {
+        "level": 2,
+        "text": "What is Substack?"
+      },
+      {
+        "level": 2,
+        "text": "What is Discord?"
+      },
+      {
+        "level": 2,
+        "text": "Ready to give Sidestack a try?"
+      },
+      {
+        "level": 2,
+        "text": "Footer"
+      },
+      {
+        "level": 3,
+        "text": "Step 1"
+      },
+      {
+        "level": 3,
+        "text": "Step 2"
+      },
+      {
+        "level": 3,
+        "text": "Step 3"
+      },
+      {
+        "level": 3,
+        "text": "Integrations"
+      }
+    ],
+    "featureBullets": [
+      "Create exclusive Discord channels and experiences for your paying subscribers.",
+      "Automatically keeps track of any subscription changes and cancellations.",
+      "Boost conversion by adding additional value to your Substack subscription.",
+      "Substack with Discord",
+      "Substack with WhatsApp",
+      "Substack with Telegram",
+      "Substack with Slack",
+      "Substack with Signal",
+      "Directory",
+      "Articles",
+      "Register",
+      "Terms of Service",
+      "Privacy Policy"
+    ],
+    "ctaTexts": [
+      "Get started",
+      "Subscribe"
+    ],
+    "pricingHints": [
+      "free"
+    ]
+  },
+  "signals": {
+    "monetization": [
+      "subscription",
+      "trial"
+    ],
+    "techStack": [
+      "cloudflare"
+    ],
+    "hasPricingPage": true
+  },
+  "links": {
+    "pricing": "https://sidestack.io/pricing",
+    "featurePages": [],
+    "internalSample": [
+      "https://sidestack.io/",
+      "https://sidestack.io/buy-button",
+      "https://sidestack.io/directory",
+      "https://sidestack.io/dashboard",
+      "https://sidestack.io/pricing",
+      "https://sidestack.io/discord",
+      "https://sidestack.io/week",
+      "https://sidestack.io/whatsapp",
+      "https://sidestack.io/telegram",
+      "https://sidestack.io/slack",
+      "https://sidestack.io/signal",
+      "https://sidestack.io/articles",
+      "https://sidestack.io/register",
+      "https://sidestack.io/login",
+      "https://sidestack.io/terms",
+      "https://sidestack.io/privacy"
+    ]
+  },
+  "textSample": "Integrate Discord with Substack - Sidestack.io Buy Buttons for Substack Directory Login Get started Open main menu Buy Buttons for Substack Discord Integration for Substack Directory Login Get started New: Reach new readers by listing your Substack in our Directory Create a Discord for your Substack subscribers Create a Discord Server for your paying Substack subscribers Create exclusive Discord channels and experiences for your paying subscribers. Automatically keeps track of any subscription changes and cancellations. Boost conversion by adding additional value to your Substack subscription. Loved by 50,000+ Substack subscribers Start a free trial Step 1 Connect your Discord Server Add Sidestack to your Discord server with a few simple clicks. Step 2 Sync your Subscribers We'll assign a Role to your subscribers in Discord, enabling subscriber-only channels and content. Step 3 Share your Sidestack Link Share your unique link with your readers to connect their Discord accounts. “ I've been managing my Substack/Discord flow manually for almost 3 years and it was a pain in the a**! ” ★ ★ ★ ★ ★ Lund Loop “ I’ve been waiting for a service that does this for a long time! ” ★ ★ ★ ★ ★ The Reversion “ Saves me at least 1-2 hours each day where I can focus more on my articles and Discord community! ” ★ ★ ★ ★ ★ TraderHC Automate & save hours every week! Subscribers get instant access to your Discord by connecting their account Sidestack automatically keeps track of any subscription changes and cancellations,  so you don’t have to worry about it. Frequently Asked Questions Can I create channels for paying and free subscribers? Yes, Sidestack assigns different Discord roles to your paying subscribers. Inside Discord you can create as many channels for each role as you want. Do subscriber lose access if they cancel their subscription? Sidestack always keeps your subscribers in sync through your Stripe customer records. If a reader's subscription ends, they will lose access to yo",
+  "assets": {
+    "ogImagePath": "screenshots/og-image.jpg",
+    "homepagePath": "screenshots/homepage.png"
+  }
+}

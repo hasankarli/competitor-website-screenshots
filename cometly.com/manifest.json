@@ -1,0 +1,207 @@
+{
+  "siteId": "cometly.com",
+  "name": "Cometly",
+  "url": "https://www.cometly.com",
+  "config": {
+    "category": "SaaS / Analytics",
+    "notes": "TrustMRR ~$206K/m"
+  },
+  "canonicalUrl": "https://www.cometly.com",
+  "source": "html_fetch",
+  "scrapedAtUnix": 1780201963,
+  "meta": {
+    "title": "Cometly | Marketing Attribution Software",
+    "description": "Cometly is the leading marketing attribution software, offering real-time insights into ad performance. Get accurate data, and prove ROI with ease.",
+    "ogTitle": "Cometly | Marketing Attribution Software",
+    "ogDescription": "Cometly is the leading marketing attribution software, offering real-time insights into ad performance. Get accurate data, and prove ROI with ease.",
+    "ogImage": "https://www.cometly.com/opengraph-image?2758488c17de9b81",
+    "keywords": "",
+    "language": "en"
+  },
+  "content": {
+    "headings": [
+      {
+        "level": 1,
+        "text": "Marketing Attribution For B2B SaaS Companies"
+      },
+      {
+        "level": 2,
+        "text": "Unify. Analyze. Sync. Scale."
+      },
+      {
+        "level": 2,
+        "text": "One platform, end to end. From the first ad click to closed-won revenue."
+      },
+      {
+        "level": 2,
+        "text": "Tie Stripe revenue to ad data."
+      },
+      {
+        "level": 2,
+        "text": "Plugs into the tools you already run."
+      },
+      {
+        "level": 2,
+        "text": "Your CRM was built to close deals. Cometly was built to explain them."
+      },
+      {
+        "level": 2,
+        "text": "SaaS leaders growing with Cometly."
+      },
+      {
+        "level": 2,
+        "text": "Whether you sell on a $1 trial or a 30-day demo cycle."
+      },
+      {
+        "level": 2,
+        "text": "Ready to see which ads drive real ARR?"
+      },
+      {
+        "level": 3,
+        "text": "One source of truth for your data."
+      },
+      {
+        "level": 3,
+        "text": "Turn data into decisions."
+      },
+      {
+        "level": 3,
+        "text": "Make every tool smarter with Cometly data."
+      },
+      {
+        "level": 3,
+        "text": "Spend smarter on ads."
+      },
+      {
+        "level": 3,
+        "text": "How ClickFunnels unlocked accurate attribution at scale"
+      },
+      {
+        "level": 3,
+        "text": "How Trainual improved demo quality and CPA efficiency"
+      },
+      {
+        "level": 3,
+        "text": "How IndeVets stitched together HubSpot, Meta, and CRM"
+      },
+      {
+        "level": 3,
+        "text": "How Design Pickle measures inbound demos that scale spend"
+      },
+      {
+        "level": 3,
+        "text": "How BionicWP unified attribution into one source of truth"
+      },
+      {
+        "level": 3,
+        "text": "How MindPath made data-backed ad decisions stick"
+      }
+    ],
+    "featureBullets": [
+      "Cookieless, cross-device tracking with the Comet Pixel",
+      "Server-side events that survive ad blockers and OAuth flows",
+      "Multi-touch attribution tied to Stripe revenue",
+      "Auto-captured signups, trials, upgrades, and downgrades",
+      "Pipeline, CAC, ROAS, and LTV in one dashboard, by source",
+      "Account journeys across the full buying committee",
+      "Customizable dashboards built in minutes",
+      "Ask AI in plain English and get answers from your data",
+      "Two-way sync with HubSpot, Salesforce, and Snowflake",
+      "Conversion API match quality up to 9.3 / 10 on Meta",
+      "Send paying-customer signals back to Meta, Google, LinkedIn",
+      "MCP server lets any AI agent query your attribution data",
+      "ICP audiences built from your highest-LTV customers",
+      "Sync revenue-ready audiences to every ad platform",
+      "AI rebalances spend toward winning campaigns",
+      "Optimize toward pipeline, not vanity metrics",
+      "Native Stripe integration: trials, new customers, recurring, LTV",
+      "HubSpot and Salesforce lifecycle stages mapped to ad touchpoints",
+      "Cross-device, cookieless tracking with the Comet Pixel",
+      "Server-Side Tracking",
+      "Multi-Touch Attribution",
+      "Conversion API",
+      "AI Ads Manager",
+      "Analytics"
+    ],
+    "ctaTexts": [
+      "Book demo",
+      "Get started",
+      "Book demo →"
+    ],
+    "pricingHints": [
+      "$182",
+      "$48",
+      "$31",
+      "$22",
+      "$14",
+      "$9",
+      "$400",
+      "$594.18",
+      "$2",
+      "$900",
+      "$1",
+      "$8"
+    ]
+  },
+  "signals": {
+    "monetization": [
+      "enterprise",
+      "subscription"
+    ],
+    "techStack": [
+      "nextjs",
+      "react"
+    ],
+    "hasPricingPage": true
+  },
+  "links": {
+    "pricing": "https://www.cometly.com/pricing",
+    "featurePages": [
+      "https://www.cometly.com/solutions/sales-led-growth",
+      "https://www.cometly.com/solutions/product-led-growth",
+      "https://www.cometly.com/solutions/stripe-revenue-attribution",
+      "https://www.cometly.com/solutions/pipeline-attribution",
+      "https://www.cometly.com/solutions/ad-platform-optimization",
+      "https://www.cometly.com/solutions/full-funnel-reporting",
+      "https://www.cometly.com/solutions/reduce-cac",
+      "https://www.cometly.com/solutions/industries/b2b-saas"
+    ],
+    "internalSample": [
+      "https://www.cometly.com/",
+      "https://www.cometly.com/platform/unify",
+      "https://www.cometly.com/platform/analyze",
+      "https://www.cometly.com/platform/sync",
+      "https://www.cometly.com/platform/scale",
+      "https://www.cometly.com/integrations",
+      "https://www.cometly.com/solutions/sales-led-growth",
+      "https://www.cometly.com/solutions/product-led-growth",
+      "https://www.cometly.com/solutions/stripe-revenue-attribution",
+      "https://www.cometly.com/solutions/pipeline-attribution",
+      "https://www.cometly.com/solutions/ad-platform-optimization",
+      "https://www.cometly.com/solutions/full-funnel-reporting",
+      "https://www.cometly.com/solutions/reduce-cac",
+      "https://www.cometly.com/solutions/industries/b2b-saas",
+      "https://www.cometly.com/solutions/industries/ai-saas",
+      "https://www.cometly.com/solutions/industries/technology",
+      "https://www.cometly.com/solutions/industries/vertical-saas",
+      "https://www.cometly.com/solutions/industries/agencies",
+      "https://www.cometly.com/solutions/growth",
+      "https://www.cometly.com/solutions/marketing-ops",
+      "https://www.cometly.com/solutions/founders-cmos",
+      "https://www.cometly.com/customers",
+      "https://www.cometly.com/blog",
+      "https://www.cometly.com/academy",
+      "https://www.cometly.com/guides",
+      "https://www.cometly.com/affiliates",
+      "https://www.cometly.com/agency-partners",
+      "https://www.cometly.com/enterprise",
+      "https://www.cometly.com/pricing",
+      "https://www.cometly.com/demo"
+    ]
+  },
+  "textSample": "Cometly | Marketing Attribution Software Platform Unify Source of truth for your data. Bring marketing, sales, and product data into one connected view. Includes Pixel Server-Side Tracking Multi-Touch Attribution Events Analyze Turn data into decisions. The SaaS metrics and journeys your team runs on. Includes Analytics Account Journeys Customizable Dashboards Ask AI Sync Make every tool smarter. Sync attribution data into your CRM, ad platforms, and warehouse. Includes Conversion API CRM & Warehouse Sync MCP Scale Spend smarter on ads. Use what you've learned to drive more pipeline per dollar. Includes AI Ads Manager Audiences Connect your entire revenue stack Native integrations with 70 + tools. + 58 See all integrations Solutions By use case Sales-Led Growth See the ads that book real demos and close real deals. Product-Led Growth Scale on paying customers, not trial signups. Stripe Revenue Attribution Connect every ad to real MRR, ARR, and paid conversions. Pipeline Attribution Track pipeline — not just leads — at the single-ad level. Ad Platform Optimization Feed Meta, Google, and LinkedIn the data they need to find buyers. Full-Funnel Reporting First click to closed-won — all in one dashboard. Reduce CAC Cut waste and scale winners. Most teams cut CAC 20–40%. By industry B2B SaaS Stripe-native, CRM-aware attribution built for subscriptions. AI SaaS Track signup to activation to paid to expansion. Technology Web + app attribution and ROAS for consumer tech. Vertical SaaS Real ICP attribution for industry-specific platforms. Agencies One workspace per client. One bill. One platform. By team For Growth / Demand Gen Spend smarter and prove ROI to leadership. For Marketing Ops Replace homegrown pipes with a single supported pipeline. For Founders / CMOs Marketing numbers your board will actually trust. Customers Resources Learn Blog Product updates, attribution tips, and growth stories. Academy Video courses on setup, dashboards, and scaling ads. Guides Step-by-ste",
+  "assets": {
+    "ogImagePath": "screenshots/og-image.jpg",
+    "homepagePath": "screenshots/homepage.png"
+  }
+}
