@@ -4,11 +4,11 @@
   "url": "https://sidestack.io",
   "config": {
     "category": "SaaS / AI",
-    "notes": "TrustMRR Slop Cannon ~$102K/m"
+    "notes": "TrustMRR ~$102K/m"
   },
   "canonicalUrl": "https://sidestack.io",
   "source": "html_fetch",
-  "scrapedAtUnix": 1780201970,
+  "scrapedAtUnix": 1780320407,
   "meta": {
     "title": "Integrate Discord with Substack - Sidestack.io",
     "description": "Integrate your Discord server with Substack to create an incredible community for your subscribers while increasing retention and boosting conversion.",

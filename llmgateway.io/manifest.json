@@ -1,0 +1,203 @@
+{
+  "siteId": "llmgateway.io",
+  "name": "LLM Gateway",
+  "url": "https://llmgateway.io",
+  "config": {
+    "category": "SaaS / AI",
+    "notes": "TrustMRR AI infra"
+  },
+  "canonicalUrl": "https://llmgateway.io",
+  "source": "html_fetch",
+  "scrapedAtUnix": 1780320439,
+  "meta": {
+    "title": "LLM Gateway - Unified API for Multiple LLM Providers",
+    "description": "Route, manage, and analyze your LLM requests across multiple providers with a unified API interface. Access OpenAI, Anthropic, Google, and 19+ providers through one API.",
+    "ogTitle": "LLM Gateway - Unified API for Multiple LLM Providers",
+    "ogDescription": "Route, manage, and analyze your LLM requests across multiple providers with a unified API interface. Access OpenAI, Anthropic, Google, and 19+ providers through one API.",
+    "ogImage": "https://llmgateway.io/opengraph.png?v=1",
+    "keywords": "",
+    "language": "en"
+  },
+  "content": {
+    "headings": [
+      {
+        "level": 1,
+        "text": "LLM Gateway — One API for OpenAI, Anthropic, Google, and 30+ providers"
+      },
+      {
+        "level": 2,
+        "text": "Everything you need to ship with confidence"
+      },
+      {
+        "level": 2,
+        "text": "One request. Any model."
+      },
+      {
+        "level": 2,
+        "text": "Drop-in compatible. Zero learning curve."
+      },
+      {
+        "level": 2,
+        "text": "Trusted by developers worldwide"
+      },
+      {
+        "level": 2,
+        "text": "Common questions"
+      },
+      {
+        "level": 2,
+        "text": "Built for teams that ship at scale"
+      },
+      {
+        "level": 2,
+        "text": "Start routing requests in 30 seconds"
+      },
+      {
+        "level": 3,
+        "text": "Unified API Interface"
+      },
+      {
+        "level": 3,
+        "text": "Multi-provider Support"
+      },
+      {
+        "level": 3,
+        "text": "Performance Monitoring"
+      },
+      {
+        "level": 3,
+        "text": "Secure Key Management"
+      },
+      {
+        "level": 3,
+        "text": "Self-hosted or Cloud"
+      },
+      {
+        "level": 3,
+        "text": "Cost-aware analytics"
+      },
+      {
+        "level": 3,
+        "text": "Per-model/provider breakdown"
+      },
+      {
+        "level": 3,
+        "text": "Errors & reliability monitoring"
+      },
+      {
+        "level": 3,
+        "text": "Project-level usage explorer"
+      },
+      {
+        "level": 3,
+        "text": "Enterprise Audit Logs"
+      },
+      {
+        "level": 3,
+        "text": "LLM Guardrails"
+      },
+      {
+        "level": 3,
+        "text": "What makes LLM Gateway different from OpenRouter?"
+      }
+    ],
+    "featureBullets": [
+      "Products",
+      "Resources",
+      "Works with OpenAI, Anthropic, and Vercel AI SDKs",
+      "Change one line — your base URL",
+      "Every request tracked with cost, latency, and token usage",
+      "Full self-hosting under an AGPLv3 license – run the gateway entirely on your infra.",
+      "Deeper, real-time cost & latency analytics for every request",
+      "Bring Your Own Keys – use your own provider API keys for free",
+      "Flexible enterprise add-ons (dedicated shard, custom SLAs)",
+      "New models & providers as they drop",
+      "Tips to cut latency & costs",
+      "Early access to beta features",
+      "Features",
+      "Providers",
+      "Chat Playground",
+      "Changelog",
+      "Compare Models",
+      "Enterprise",
+      "Templates",
+      "MCP Server",
+      "Documentation",
+      "Integrations",
+      "Brand Assets",
+      "Token Cost Calculator"
+    ],
+    "ctaTexts": [
+      "Get Started",
+      "Subscribe — it's free"
+    ],
+    "pricingHints": [
+      "$0.44",
+      "Free",
+      "Enterprise"
+    ]
+  },
+  "signals": {
+    "monetization": [
+      "subscription",
+      "freemium",
+      "enterprise"
+    ],
+    "techStack": [
+      "nextjs",
+      "react",
+      "vercel"
+    ],
+    "hasPricingPage": true
+  },
+  "links": {
+    "pricing": "https://llmgateway.io/pricing",
+    "featurePages": [
+      "https://llmgateway.io/features/unified-api-interface",
+      "https://llmgateway.io/features/multi-provider-support",
+      "https://llmgateway.io/features/performance-monitoring",
+      "https://llmgateway.io/features/secure-key-management",
+      "https://llmgateway.io/features/self-hosted-or-cloud",
+      "https://llmgateway.io/features/cost-aware-analytics",
+      "https://llmgateway.io/features/per-model-provider-breakdown",
+      "https://llmgateway.io/features/errors-reliability-monitoring"
+    ],
+    "internalSample": [
+      "https://llmgateway.io/",
+      "https://llmgateway.io/pricing",
+      "https://llmgateway.io/models",
+      "https://llmgateway.io/discord",
+      "https://llmgateway.io/login",
+      "https://llmgateway.io/signup",
+      "https://llmgateway.io/token-cost-calculator",
+      "https://llmgateway.io/migration/litellm",
+      "https://llmgateway.io/migration/openrouter",
+      "https://llmgateway.io/migration/portkey",
+      "https://llmgateway.io/migration/vercel-ai-gateway",
+      "https://llmgateway.io/migration",
+      "https://llmgateway.io/providers",
+      "https://llmgateway.io/features/unified-api-interface",
+      "https://llmgateway.io/features/multi-provider-support",
+      "https://llmgateway.io/features/performance-monitoring",
+      "https://llmgateway.io/features/secure-key-management",
+      "https://llmgateway.io/features/self-hosted-or-cloud",
+      "https://llmgateway.io/features/cost-aware-analytics",
+      "https://llmgateway.io/features/per-model-provider-breakdown",
+      "https://llmgateway.io/features/errors-reliability-monitoring",
+      "https://llmgateway.io/features/project-level-usage-explorer",
+      "https://llmgateway.io/features/audit-logs",
+      "https://llmgateway.io/features/guardrails",
+      "https://llmgateway.io/enterprise#contact",
+      "https://llmgateway.io/enterprise",
+      "https://llmgateway.io/changelog",
+      "https://llmgateway.io/models/compare",
+      "https://llmgateway.io/apps",
+      "https://llmgateway.io/templates"
+    ]
+  },
+  "textSample": "LLM Gateway - Unified API for Multiple LLM Providers LLM Gateway Search models by provider, name, ID, or alias… ⌘K Products Resources Docs AI Pricing Search models by provider, name, ID, or alias… ⌘K Pricing Docs Models Products Resources AI 1.3k Log In Get Started See How Much You Can Save on LLMs LLM Gateway — One API for OpenAI, Anthropic, Google, and 30+ providers Stop juggling API keys and provider dashboards. Route requests across 200+ models, track costs in real-time, and switch providers without changing your code. Get My API Key Free tier included No credit card required Setup in 30 seconds View documentation Switching from another provider? 🚅 LiteLLM OpenRouter Portkey Vercel AI Gateway View all View All Providers Platform Capabilities Everything you need to ship with confidence Unified API Interface Keep your existing OpenAI SDK code—just change the base URL and you're live. Learn more Multi-provider Support Access 25+ providers through one integration—no vendor lock-in, switch models instantly. Learn more Performance Monitoring Compare latency, cost, and quality across models to pick the best fit for each use case. Learn more Secure Key Management One dashboard for all your provider keys—no more scattered credentials or exposed secrets. Learn more Self-hosted or Cloud Run on your own infrastructure for full control, or let us handle it—your choice. Learn more Cost-aware analytics See requests, tokens, total spend, and average cost per 1K tokens across 7 or 30 days. Learn more Per-model/provider breakdown Break down usage and spend by provider and model so you can quickly spot expensive outliers. Learn more Errors & reliability monitoring Monitor error rate, cache hit rate, and reliability trends directly from the dashboard. Learn more Project-level usage explorer Drill into each project's requests, models, errors, cache, and costs with dedicated charts and tables. Learn more Enterprise Audit Logs Track who did what, when, and maintain compliance with com",
+  "assets": {
+    "ogImagePath": "screenshots/og-image.jpg",
+    "homepagePath": "screenshots/homepage.png"
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "siteId": "angelmatch.io",
+  "name": "Angel Match",
+  "url": "https://angelmatch.io",
+  "config": {
+    "category": "SaaS / AI",
+    "notes": "TrustMRR SaaS category"
+  },
+  "canonicalUrl": "https://angelmatch.io/",
+  "source": "scrapling_fetch",
+  "scrapedAtUnix": 1780320430,
+  "meta": {
+    "title": "Angel Match is the largest and most comprehensive investor database on internet💰",
+    "description": "Angel Match is a database of 125K+ angels and vcs to raise your seed round. Out of 125,000+ investors in our database, 99,000+ have verified email addresses 🤑🤑",
+    "ogTitle": "Angel Match is the largest and most comprehensive investor database on internet💰",
+    "ogDescription": "Angel Match is a database of 125K+ angels and vcs to raise your seed round. Out of 125,000+ investors in our database, 99,000+ have verified email addresses 🤑🤑",
+    "ogImage": "https://angelmatch.io/metaimage.png",
+    "keywords": "",
+    "language": "en"
+  },
+  "content": {
+    "headings": [
+      {
+        "level": 1,
+        "text": "Connect with thousands of investors in seconds"
+      },
+      {
+        "level": 2,
+        "text": "How Angel Match unlocks your startup's potential"
+      },
+      {
+        "level": 2,
+        "text": "Find the right investor to fund your dream"
+      },
+      {
+        "level": 2,
+        "text": "How to find your investor with Angel Match"
+      },
+      {
+        "level": 2,
+        "text": "Trusted customers"
+      },
+      {
+        "level": 2,
+        "text": "Founders around the world love Angel Match"
+      },
+      {
+        "level": 2,
+        "text": "Stop wasting time to manually look for investors"
+      },
+      {
+        "level": 2,
+        "text": "Frequently asked questions"
+      },
+      {
+        "level": 3,
+        "text": "Database of 125,000+ investors"
+      },
+      {
+        "level": 3,
+        "text": "Investor contact details & profile"
+      },
+      {
+        "level": 3,
+        "text": "Investor search and filtering"
+      },
+      {
+        "level": 3,
+        "text": "Diverse investor profiles"
+      },
+      {
+        "level": 3,
+        "text": "Track investor engagements"
+      },
+      {
+        "level": 3,
+        "text": "Up-To-Date Data"
+      },
+      {
+        "level": 3,
+        "text": "Industry match"
+      },
+      {
+        "level": 3,
+        "text": "Stage match"
+      },
+      {
+        "level": 3,
+        "text": "Geo match"
+      },
+      {
+        "level": 3,
+        "text": "Very diverse investment portfolio"
+      },
+      {
+        "level": 3,
+        "text": "Investors from the top VC funds"
+      },
+      {
+        "level": 3,
+        "text": "Comprehensive investor database"
+      }
+    ],
+    "featureBullets": [
+      "How do I know if my data is secure? Do you share it with anyone? Don't worry, we do not share your information with third parties. We guarantee all your data is encrypted and safe with Angel Match.",
+      "What type of investors do you have? Our database has investors from different industries mostly made up of angels, venture capitalists, and private equity firms.",
+      "How do I reach out to these investors? You can email your prospects by exporting their contacts in CSV files or using the Angel Match 'Email Outreach' section directly. Although, please don't spam these investors!",
+      "Do you provide a free trial? Yes. While you are signing up with any of our plans, you’ll be asked if you want to have a 3-day trial. Simply choose that option and you are all set.",
+      "I just want to use Angel Match once to export data. Is that possible? Yes. You're free to take a subscription just for one month and cancel it when your work is done.",
+      "Is your question not answered? Send us a message over there 👉 Or email us at [email protected]",
+      "Pitch Deck Database",
+      "Publication",
+      "Our wall of Love",
+      "Leave a testimonial",
+      "Terms of service",
+      "Refund policy",
+      "Privacy policy",
+      "Contact Us",
+      "Investor Outreach AI Email Generator",
+      "Fundraising Email Templates",
+      "Fundraising Templates",
+      "Elevator Pitch Generator",
+      "Pitch Perfect",
+      "Startup Fundraising Glossary",
+      "VC Search Tool",
+      "Accelerator Hunt",
+      "Investors",
+      "Investor Matcher"
+    ],
+    "ctaTexts": [
+      "Sign up",
+      "GET STARTED FOR FREE",
+      "Upgrade",
+      "Subscribe"
+    ],
+    "pricingHints": [
+      "FREE"
+    ]
+  },
+  "signals": {
+    "monetization": [
+      "subscription",
+      "one_time",
+      "trial"
+    ],
+    "techStack": [
+      "nextjs",
+      "cloudflare"
+    ],
+    "hasPricingPage": true
+  },
+  "links": {
+    "pricing": "https://angelmatch.io/pricing",
+    "featurePages": [],
+    "internalSample": [
+      "https://angelmatch.io",
+      "https://angelmatch.io/fundraising-outreach-email",
+      "https://angelmatch.io/startup-fundraising-email-templates",
+      "https://angelmatch.io/templates",
+      "https://angelmatch.io/elevator-pitch-generator",
+      "https://angelmatch.io/pitch-perfect",
+      "https://angelmatch.io/startup-fundraising-glossary",
+      "https://angelmatch.io/vc_search",
+      "https://angelmatch.io/accelerators",
+      "https://angelmatch.io/pitch_decks",
+      "https://angelmatch.io/investor-match",
+      "https://angelmatch.io/pre-money-and-post-money-valuation-calculator",
+      "https://angelmatch.io/burn-rate-calculator",
+      "https://angelmatch.io/runway-calculator",
+      "https://angelmatch.io/startup-valuation-calculator",
+      "https://angelmatch.io/investor-roi-calculator",
+      "https://angelmatch.io/break-even-point-calculator",
+      "https://angelmatch.io/cac-calculator",
+      "https://angelmatch.io/ltv-calculator",
+      "https://angelmatch.io/fundraise-readiness-quiz",
+      "https://angelmatch.io/resources/cap-table-calculator",
+      "https://angelmatch.io/resources/funding-goal-calculator",
+      "https://angelmatch.io/publication",
+      "https://angelmatch.io/pricing",
+      "https://angelmatch.io/auth/sign-in",
+      "https://angelmatch.io/auth/sign-up",
+      "https://angelmatch.io/cdn-cgi/l/email-protection#a1c2cecfd5c0c2d5e1c0cfc6c4cdccc0d5c2c98fc8ce",
+      "https://angelmatch.io/",
+      "https://angelmatch.io/#ourWallOfLove",
+      "https://angelmatch.io/#faq"
+    ]
+  },
+  "textSample": "Angel Match is the largest and most comprehensive investor database on internet💰 AngelMatch Resources FREE FUNDRAISING TOOLS Investor Outreach AI Email Generator Fundraising Email Templates Fundraising Templates Elevator Pitch Generator Pitch Perfect Startup Fundraising Glossary VC Search Tool Accelerator Hunt Pitch Deck Database Investor Matcher FUNDRAISING CALCULATORS Pre-Money and Post-Money Valuation Calculator Burn Rate Calculator Runway Calculator Startup Valuation Calculator Investor ROI Calculator Break Even Point Calculator Customer Acquisition Cost (CAC) Calculator Customer Lifetime Value (LTV) Calculator Fundraising Readiness Quiz Cap Table Calculator Funding Goal Calculator Publication Pricing Login Sign up Connect with thousands of investors in seconds Angel Match connects you with 125,000+ angel investors and venture capitalists in one platform so you save time on the grueling process of searching for investors. GET STARTED FOR FREE Fundraising CRM My list 1 (used 53 of 1000) Export limit (used 0 of 1000) Upgrade Pipeline Search investors ... Filter Export to Create card New 18 Create Card Ryan Sweeney Founder and Managing director Angel Investor Early Stage Luis Bell CTO & Co-Founder Venture Capital Seed Amy Davis Managing director Private Equity Series A Kenneth Berry Fonder & CEO Angel Investor Seed Responded 23 Create Card Margie Hall Partner Venture Capital Series A Susan Walters Managing Director, Portfolio Operations Private Equity Late Stage Andre Robinson Managing partner Private Equity Seed Call scheduled 12 Create Card Danny Miller Senior Managing Director Venture Capital Series B Joyce Roy Founder Angel Investor Early Stage Andre Robinson General Partner Venture Capital Early Stage Seed Gabriel Williams Managing Director Angel Group Create column How Angel Match unlocks your startup's potential Angel Match helps you expand your network, save time searching for funding, and find the perfect investor for your startup Database of 125,000+ inve",
+  "assets": {
+    "ogImagePath": "screenshots/og-image.jpg",
+    "homepagePath": "screenshots/homepage.png"
+  }
+}

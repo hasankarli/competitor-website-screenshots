@@ -1,0 +1,185 @@
+{
+  "siteId": "rezi.ai",
+  "name": "Rezi",
+  "url": "https://www.rezi.ai",
+  "config": {
+    "category": "SaaS / AI",
+    "notes": "TrustMRR resume SaaS"
+  },
+  "canonicalUrl": "https://www.rezi.ai",
+  "source": "html_fetch",
+  "scrapedAtUnix": 1780320434,
+  "meta": {
+    "title": "The #1 AI Resume Builder — Forbes' Top Pick. Trusted by 4.3M",
+    "description": "Land More Interviews with the #1 AI Resume Builder. Rezi's AI builds ATS-proof resumes that actually get callbacks. 4M+ job seekers trust it, Forbes ranks it #1. Free, done in minutes.",
+    "ogTitle": "The #1 AI Resume Builder — Forbes' Top Pick. Trusted by 4.3M",
+    "ogDescription": "Land More Interviews with the #1 AI Resume Builder. Rezi's AI builds ATS-proof resumes that actually get callbacks. 4M+ job seekers trust it, Forbes ranks it #1. Free, done in minutes.",
+    "ogImage": "https://firebasestorage.googleapis.com/v0/b/rezi-3f268.appspot.com/o/images%2Frezi_share.png?alt=media&token=8e5e94f7-be90-42cf-9395-94965666b25d",
+    "keywords": "",
+    "language": "en"
+  },
+  "content": {
+    "headings": [
+      {
+        "level": 1,
+        "text": "Free AI Resume Builder. ATS-optimized. Recruiter-ready."
+      },
+      {
+        "level": 2,
+        "text": "Real Users. Real Conversations"
+      },
+      {
+        "level": 2,
+        "text": "Resume + cover letter ready in 5 minutes. Perfectly optimized."
+      },
+      {
+        "level": 2,
+        "text": "Browse 837 professional resume samples and find one for your job title."
+      },
+      {
+        "level": 2,
+        "text": "Content-focused features developed to get you hired"
+      },
+      {
+        "level": 2,
+        "text": "Rezi does more than any other AI resume builder."
+      },
+      {
+        "level": 2,
+        "text": "20+ ATS-Friendly Resume Templates"
+      },
+      {
+        "level": 2,
+        "text": "Choose from the most popular plans"
+      },
+      {
+        "level": 2,
+        "text": "Trusted by Over 4,005,400"
+      },
+      {
+        "level": 2,
+        "text": "Frequently Asked Questions (FAQs)"
+      },
+      {
+        "level": 3,
+        "text": "AI Keyword Targeting"
+      },
+      {
+        "level": 3,
+        "text": "AI Content Writer"
+      },
+      {
+        "level": 3,
+        "text": "Design Control"
+      },
+      {
+        "level": 3,
+        "text": "Rezi Score"
+      },
+      {
+        "level": 3,
+        "text": "I was blown away by Rezi. It streamlined everything..."
+      },
+      {
+        "level": 3,
+        "text": "Resume Building felt like pulling teeth – until i found Rezi."
+      },
+      {
+        "level": 3,
+        "text": "I needed a resume tool as smart as my work."
+      },
+      {
+        "level": 3,
+        "text": "Rezi Founder"
+      },
+      {
+        "level": 3,
+        "text": "Student Technical Assistant"
+      },
+      {
+        "level": 3,
+        "text": "Front-End Engineer"
+      }
+    ],
+    "featureBullets": [],
+    "ctaTexts": [
+      "Job Seekers Free to get started, no card required.",
+      "Get Started—It's free",
+      "Get started",
+      "Contact Sales"
+    ],
+    "pricingHints": [
+      "$650",
+      "$45",
+      "$29",
+      "$149",
+      "$0/mo",
+      "$29/mo",
+      "Free",
+      "Pro plan",
+      "Enterprise"
+    ]
+  },
+  "signals": {
+    "monetization": [
+      "subscription",
+      "freemium",
+      "one_time",
+      "enterprise"
+    ],
+    "techStack": [
+      "cloudflare"
+    ],
+    "hasPricingPage": true
+  },
+  "links": {
+    "pricing": "https://www.rezi.ai/pricing",
+    "featurePages": [
+      "https://www.rezi.ai/tools/ai-resume-agent",
+      "https://www.rezi.ai/tools/resume-checker",
+      "https://www.rezi.ai/tools/resume-keyword-scanner",
+      "https://www.rezi.ai/tools/resume-bullet-point-generator",
+      "https://www.rezi.ai/tools/resume-summary-generator",
+      "https://www.rezi.ai/tools/resignation-letter-generator",
+      "https://www.rezi.ai/tools/ai-interview-practice",
+      "https://www.rezi.ai/tools/job-search"
+    ],
+    "internalSample": [
+      "https://www.rezi.ai/",
+      "https://www.rezi.ai/ai-resume-builder",
+      "https://www.rezi.ai/tools/ai-resume-agent",
+      "https://www.rezi.ai/tools/resume-checker",
+      "https://www.rezi.ai/tools/resume-keyword-scanner",
+      "https://www.rezi.ai/tools/resume-bullet-point-generator",
+      "https://www.rezi.ai/tools/resume-summary-generator",
+      "https://www.rezi.ai/ai-cover-letter-builder",
+      "https://www.rezi.ai/tools/resignation-letter-generator",
+      "https://www.rezi.ai/tools/ai-interview-practice",
+      "https://www.rezi.ai/tools/job-search",
+      "https://www.rezi.ai/tools",
+      "https://www.rezi.ai/rezi-docs/ai-keyword-targeting-explained",
+      "https://www.rezi.ai/rezi-docs/the-rezi-score-explained",
+      "https://www.rezi.ai/rezi-docs",
+      "https://www.rezi.ai/resume-templates",
+      "https://www.rezi.ai/resume-examples",
+      "https://www.rezi.ai/cover-letter-templates",
+      "https://www.rezi.ai/resignation-letter-templates",
+      "https://www.rezi.ai/free-resume-template",
+      "https://www.rezi.ai/blog",
+      "https://www.rezi.ai/pricing",
+      "https://www.rezi.ai/enterprise",
+      "https://www.rezi.ai/rezi-docs/rezi-mcp-server",
+      "https://www.rezi.ai/tools/cover-letter-generator",
+      "https://www.rezi.ai/posts/how-to-write-a-resume",
+      "https://www.rezi.ai/posts/resume-format",
+      "https://www.rezi.ai/posts/resume-summary-examples",
+      "https://www.rezi.ai/posts/ats-resume-keywords",
+      "https://www.rezi.ai/resume-templates/simple-resume-templates"
+    ]
+  },
+  "textSample": "The #1 AI Resume Builder — Forbes' Top Pick. Trusted by 4.3M AI Resume Builder AI Tools New! Resume Tools AI Resume Builder Smart resume creation AI Resume Agent New! Our new AI resume experience Resume Checker Get instant feedback Resume Keyword Scanner Target your application Resume Bullet Point Writer Stronger resume content Resume Summary  Generator Create a resume summary Other Tools Cover Letter Generator Personalized cover letters Resignation Letter Generator Leave on good terms AI Interview Practice New! Practice your interviews Job Search Discover new opportunities View All Tools Discover more tools User Guides How to Tailor a Resume to a Job Posting Tailor your resume by adding keywords from the job ad. This guide shows you how. Continue reading How to use the Rezi Score Here’s a quick overview of the most popular AI resume builders and what makes them stand out. Continue reading All user guides Examples & Templates Resume Examples Resume Templates/Formats Explore Rezi's loved resume formats Resume Examples Get inspired by excellent resumes Other Examples Cover Letter Examples Effective cover letter samples Resignation Letter Examples Effective resignation letter samples Resources Free Google Docs resume template How to format a resume the right way! Get the template All blog posts Pricing Job Seekers Free to get started, no card required. For Organizations & Consultants New Help your job seekers with Rezi Enterprise Log in Log in Create Free Resume Create Resume Rezi MCP Server is live! It makes using Rezi incredibly efficient— give it a try here . Free AI Resume Builder. ATS-optimized. Recruiter-ready. Rezi's AI writes, scores, and tailors your resume to each job description, so it passes automated screening and reads well to a human. Trusted by 4 million job seekers. Forbes-recognized. Get Started—It's free Thank you! Your submission has been received! Oops! Something went wrong while submitting the form. Import your resume Click or drop your resume to ",
+  "assets": {
+    "ogImagePath": "screenshots/og-image.jpg",
+    "homepagePath": "screenshots/homepage.png"
+  }
+}

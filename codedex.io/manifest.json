@@ -1,0 +1,44 @@
+{
+  "siteId": "codedex.io",
+  "name": "Codédex",
+  "url": "https://www.codedex.io",
+  "config": {
+    "category": "Eğitim / SaaS",
+    "notes": "TrustMRR ed-tech"
+  },
+  "canonicalUrl": "https://www.codedex.io/",
+  "source": "html_fetch",
+  "scrapedAtUnix": 1780320441,
+  "meta": {
+    "title": "Codédex | Start Your Coding Adventure ⋆˙⟡",
+    "description": "Codédex is a new way to learn to code for kids and adults alike. Journey through the fantasy land of Python, HTML, CSS, or JavaScript, earn experience points (XP) to unlock new regions, and collect all the badges at your own pace. Start your adventure today.",
+    "ogTitle": "Codédex | Start Your Coding Adventure ⋆˙⟡",
+    "ogDescription": "Codédex is a new way to learn to code for kids and adults alike. Journey through the fantasy land of Python, HTML, CSS, or JavaScript, earn experience points (XP) to unlock new regions, and collect all the badges at your own pace. Start your adventure today.",
+    "ogImage": "https://www.codedex.io/images/landing-page-seo.png",
+    "keywords": "",
+    "language": "en"
+  },
+  "content": {
+    "headings": [],
+    "featureBullets": [],
+    "ctaTexts": [],
+    "pricingHints": []
+  },
+  "signals": {
+    "monetization": [],
+    "techStack": [
+      "nextjs"
+    ],
+    "hasPricingPage": false
+  },
+  "links": {
+    "pricing": "",
+    "featurePages": [],
+    "internalSample": []
+  },
+  "textSample": "Codédex | Start Your Coding Adventure ⋆˙⟡",
+  "assets": {
+    "ogImagePath": "screenshots/og-image.jpg",
+    "homepagePath": "screenshots/homepage.png"
+  }
+}
